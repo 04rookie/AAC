@@ -34,3 +34,7 @@ def retrieve_context(query, k=3):
     embedding = EMBED_MODEL.encode([query])
     D, I = index.search(embedding, k)
     return [data_store[i] for i in I[0]]
+
+def delete_context():
+    os.remove(INDEX_FILE)
+    os.remove(DATA_FILE)
