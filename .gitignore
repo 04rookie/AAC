@@ -1,0 +1,7 @@
+/.DS_Store
+/__pycache__
+/empatheticdialogues.tar.gz
+/offload_weights
+/rag_data.pkl
+/rag_index.faiss
+/ve
