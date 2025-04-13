@@ -5,7 +5,7 @@ from datasets import Dataset
 from peft import prepare_model_for_kbit_training, LoraConfig, get_peft_model
 
 # Load JSON dataset
-with open("emotional_finetune.json", "r") as f:
+with open("finetune_dataset.json", "r") as f:
     data = json.load(f)
 
 # Convert to Hugging Face format
