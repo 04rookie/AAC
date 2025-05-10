@@ -1,0 +1,2112 @@
+{
+    "dialogue301": [
+        "Tell me about a day with your grandparents.",
+        "One day, in the morning, my grandmother went to walk the dog.",
+        "That's sweet of her! Walking with your dog can be a very nice experience.",
+        "Yes, but then we found a stranger with the dog later! ",
+        "Oh no, your grandmother lost the dog!",
+        "Yes! She was tired, but she kept going through the rest of the day.",
+        "Good for her. I bet that was a chaotic experience.",
+        "I think so, too. But we all laughed about it in the end."
+    ],
+    "dialogue302": [
+        "What did your other family members like to do?",
+        "I remember a day when my dad, grandfather, and uncle all went to the car together.",
+        "What were they going out to the car for?",
+        "They were all working on fixing a flat tire.",
+        "Oh, that can be hard. Did they get it fixed?",
+        "Yes. later, my grandfather came back, driving the car, and yelled at my grandmother!",
+        "Oh dear, that's scary! That must have been a hard experience.",
+        "It was fine, we were all joking about it later. "
+    ],
+    "dialogue303": [
+        "What did you do with your family?",
+        "We spent time often with my grandfather, grandmother, and uncle.",
+        "That sounds like a good group of people.",
+        "Yes, they were all very kind and giving. They came to visit us while camping. ",
+        "Oh, that sounds nice. What did you do while camping with them?",
+        "They all did lots of things. Then we would make a campfire.",
+        "Oh that sounds nice! Campfires are lots of fun.",
+        "Yes. We would sit around it and have a good laugh. "
+    ],
+    "dialogue304": [
+        "Was there another time that you went to see your grandparents?",
+        "Yes, I remember one time specifically because my dad drove the green truck.",
+        "Where did you go?",
+        "We went to [B-LOC], [B-LOC] [I-LOC]nd. On the way there I woke up in the back of the truck. My parents left early in the morning because they were hoping that we would sleep halfway.",
+        "Did you end up sleeping the whole time?",
+        "No. I remember I woke up and there was little light outside. Then my mom turned around and told me to go back to sleep. I couldn't, but I did lay down for her.",
+        "Yeah, it is hard to sleep when you are heading on a trip.",
+        "Yes, it was something new, different, and exciting which made it very hard to sleep."
+    ],
+    "dialogue305": [
+        "Have you ever been to [B-LOC] [I-LOC]?",
+        "Yes, actually. I went to [B-LOC] with my parents once to visit my grandparents.",
+        "How was the trip?",
+        "I remember the drive specifically. My dad drove the green truck and they left early in the morning hoping that we would sleep halfway.",
+        "Were you too excited to sleep?",
+        "Yes I was! It was too hard to sleep because it was different, exciting...something new.",
+        "What did your parents say?",
+        "My mom turned around and told me to go back to sleep. I tried, but I couldn't. I did lay down for her though."
+    ],
+    "dialogue306": [
+        "My grandparents lived far away. We had to go on trips to see them.",
+        "One time I went to [B-LOC], [B-LOC] [I-LOC] to visit my grandparents.",
+        "That seems like a far trip!",
+        "Yes it was. My parents left early in the morning because they were hoping that we would sleep halfway.",
+        "Was it easy to sleep?",
+        "No! I was too excited because the trip was different, exciting, and something new.",
+        "I bet your mom tried to get you to sleep.",
+        "She did. She turned around and told me to go back to sleep, but I couldn't. I did lay down for her though."
+    ],
+    "dialogue307": [
+        "Have you ever been to [B-LOC] [I-LOC]?",
+        "Yes, I went to [B-LOC], [B-LOC] [I-LOC] to visit my family occasionally. ",
+        "How was [B-LOC] [I-LOC]?",
+        "It was a long ride to get there, but I thought I was in a different world when we got there!",
+        "Who in your family did you visit?",
+        "I visited my grandmother, grandfather, and uncle and saw where they lived.",
+        "Did you do anything fun?",
+        "I went on my grandfather's boat. Oh boy, it was huge! He took us for a ride on it. We went fishing too."
+    ],
+    "dialogue308": [
+        "Have you ever been on a boat?",
+        "I used to go on my grandfather's boat in [B-LOC] [I-LOC].",
+        "I love [B-LOC] [I-LOC]. How was it?",
+        "I thought it was like a different world in [B-LOC] [I-LOC].",
+        "Did you do anything fun?",
+        "We went fishing on my grandfather's boat and ate the haddock we caught . ",
+        "[B-MISC]dock is one of my favorite meals.",
+        "Yes it was so good. I love haddock. I also love lobster."
+    ],
+    "dialogue309": [
+        "I'm so excited to visit my family.",
+        "That sounds like fun! I always loved visiting my grandparents and uncle. ",
+        "That sounds like fun!",
+        "Yes we would go on my grandfather's boat and go fishing. We would eat the haddock we caught for dinner.",
+        "How often did you see them?",
+        "I saw them a few times out of the year,  but sometimes I didn't see them for a few years.",
+        "I bet you wish you saw them more. ",
+        "Yes I do. It was a long ride to see them, but I always had so much fun."
+    ],
+    "dialogue310": [
+        "Did you see your family a lot growing up?",
+        "Sometimes my uncle came down to visit me, my sister, and brother.",
+        "That's nice. What did you do when he visited?",
+        "He would take us on walks and buy me candy while we were walking. Sometimes I rode with him because he would joke around with me.",
+        "How would he joke around?",
+        "One time he took me on a ride and wanted to make it entertaining and scary. He took the wrong way for 20 minutes and then said \"I am lost!\"",
+        "Oh my goodness! What happened?",
+        "He asked me where to go and told me to tell him where to turn. I looked at him like, \"Are you crazy?\" I eventually found a way to go back to the campground. He was fun and a little crazy, but he made me laugh."
+    ],
+    "dialogue311": [
+        "Do you have any wild family stories?",
+        "One time my uncle took me for a ride and went the wrong way for 20 minutes. ",
+        "What happened?",
+        "We got lost and then he wanted me to tell him where to turn to get back to the campground we were staying at. I looked at him like, \"Are you crazy?\"",
+        "Did you end up finding your way back?",
+        "I knew that we went around a circle a few times, but he didn't care because we had fun. I eventually found a way to go back to the campground we were staying at.",
+        "That sounds hilarious. ",
+        "Yes it was. He took me out a few times before he went back home to [B-LOC], [B-LOC] [I-LOC]. "
+    ],
+    "dialogue312": [
+        "Have you ever been lost?",
+        "One time my uncle took me for a ride and went the wrong way for 20 minutes. He told me, \"I am lost!\" and then asked me to tell him how to get back to the campground we were staying at.",
+        "Did you end up finding your way back?",
+        "Yes. I  eventually found a way back. He took me out of his car and he fell on the back of my shirt.",
+        "That sounds like it was an ordeal.",
+        "Yes I was scared, but he said to me, \"Good job, kid! I want to do it again!\"",
+        "Did you end up doing it again?",
+        "I said yes to him. He took me out a few times before he went back home to [B-LOC], [B-LOC] [I-LOC]. He was fun and a little crazy. He made me laugh."
+    ],
+    "dialogue313": [
+        "Did you have any summer traditions growing up?",
+        "Yes! My family and I used to go to the campground at [B-LOC]utauqua [I-LOC] every year. It was so special to me.",
+        "Oh! How come?",
+        "We used to spend all summer there. It was like our second home because I knew everyone who went there. ",
+        "Did you make a lot of new friends there?",
+        "At first it was hard to make friends. But I did meet a lot of people thorugh my siblings and parents. And some of those people became very close to me. ",
+        "Why was it hard to make friends yourself?",
+        "Well you know I couldn't walk around the campground all by myself. I needed help."
+    ],
+    "dialogue314": [
+        "What did you do during the summer when you were growing up?",
+        "We used to go to the campground at [B-LOC]utauqua [I-LOC] every year. It was like my second home.",
+        "That sounds like fun! How long did you spend there?",
+        "We used to spend all our summers there. I got to know everyone who came there. It was so great.",
+        "Did you make any new friends there?",
+        "I met a lot of people through my family. [I-PER]here was this group of friends my parents had, Mr & Mrs. [I-PER] and Mr. [I-PER]. We used to have so much fun.",
+        "What did you guys do together?",
+        "They used to go fishing every morning and every night. I had fun just watching them. Oh they made some really delicious fish fry. I really miss it. "
+    ],
+    "dialogue315": [
+        "Did you have any family traditions growing up?",
+        "Yes! Every summer we would go to the campground at [B-LOC]utauqua [I-LOC]. It was so fun.",
+        "I'm sure it was. Did everyone in your family go there?",
+        "Well, yes. My dad would be there on the weekends or if he had vacation time. The rest of us spent all our summers there.",
+        "That sounds like a lot of fun. Were there other people too besides your family?",
+        "Yeah, I met so many people there. It felt like my second home. I really miss it.",
+        "What do you miss most about it?",
+        "A group of friends my dad had used to go fishing every day. They made the most delicious fish fry ever! "
+    ],
+    "dialogue316": [
+        "What did you do when you went camping in the summertime?",
+        "A lot of things. I do remember that sometimes I would get out of my wheelchair to move around on the ground. It felt so good to not be in the chair sometimes. ",
+        "Did you make any friends there that you remember?",
+        "I remember this one friend who used to give me candy everytime I went to see them. I loved it so much!",
+        "Did any of your friends visit you after the summer was over?",
+        "Mr. & Mrs. [I-PER] and Mr. [I-PER] used to visit us sometimes. [I-PER]hey were my favorite people. ",
+        "How come? ",
+        "They had given me the best gift. A power wheelchair! I was so excited when I got it. "
+    ],
+    "dialogue317": [
+        "What do you remember doing when you went camping?",
+        "I used to get out of my wheelchair to move around on the ground. It felt so good to be out of the chair sometimes.",
+        "I'm sure it did. Were there any friends you spent time with?",
+        "I had this one friend who would give me candy every time I saw them. Oh it was so great.",
+        "Did they ever visit you when the summer was over?",
+        "[I-PER]hey didn't[I-PER] But, my dad's friends [B-PER][I-PER] & [B-PER]s[I-PER] [I-PER]ett and [B-PER][I-PER] [I-PER] did visit us every febrruary[I-PER] [I-PER]hey are like the best friends ever[I-PER]",
+        "How come you say that?",
+        "One time they visited us when I was 12. They gave me a power wheelchair. I couldn't believe it! It was the best thing ever!"
+    ],
+    "dialogue318": [
+        "What activities did you do when you went camping?",
+        "A lot of things. But I remember it felt so great when I would get out of my wheelchair to move around on the ground.",
+        "Do you remember any special friends from that time?",
+        "I had this one friend who would give me candy every time I saw them. And then there were [B-PER]. & [B-PER]s. [I-PER] and [B-PER]. [I-PER]. [I-PER]hey were amazing too!",
+        "Oh what do you remember about them?",
+        "They used to visit us every year after the summer was over. And they gave me the most special gift when I was 12. ",
+        "Oh what was that gift?",
+        "It was a power wheelchair! I absolutely loved it. It took me a while to learn to use it but I really appreciated the gift. "
+    ],
+    "dialogue319": [
+        "Did you take that power wheelchair to school?",
+        "Yeah! My parents said I could. So I was practicing driving it all weekend. But, it wasn't so great at the school.",
+        "Why what happened?",
+        "My teachers and therapists were not happy with it. They thought it wasn't safe for me.",
+        "Oh that sucks, Did you bring it any other time?",
+        "No, it was only that one day. It really sucked because I loved the chair.",
+        "I'm sure you must've been very upset.",
+        "It was a gift too! The school didn't like me having freedom and that's the worst part."
+    ],
+    "dialogue320": [
+        "Did your parents let you take the power wheelchair to school?",
+        "Yeah they let me. I was driving with it all weekend to practice. But when Monday came, my school was not too happy to see it.",
+        "Why what was the issue?",
+        "They thought it was to big and unsafe for me bla bla bla. They didn't allow it back.",
+        "Oh no that sucks! What did you say to them?",
+        "It really wasn't up to me. I was so bummed out, I loved that chair.",
+        "I'm sure you did! Did you ever use it again at your school?",
+        "No, they did not allow it. They just couldn't handle me having freedom. "
+    ],
+    "dialogue321": [
+        "Were you ready to take the power wheelchair to school?",
+        "I absolutely was! I was driving that chair all weekend to prepare for Monday.",
+        "How did it go at the school?",
+        "It was terrible! My teachers and therapists hated it and did not allow it back.",
+        "Why was the problem with the chair?",
+        "They thought it was too big and unsafe for me. I was so upset. ",
+        "I'm sure it sucked. ",
+        "I loved that chair and it was a gift from a special friend. But, the school did not want me to have the freedom to move around. "
+    ],
+    "dialogue322": [
+        "Were you upset because of what happened at school?",
+        "I was so upset. I was crying to my parents.",
+        "What was your parents' opinion about the chair?",
+        "They were sad about it too. But to cheer me up, they told me I could ride me chair to  [B-MISC] [I-LOC]utauqua.",
+        "Did that cheer you up?",
+        "Yeah it did! My dad had kept my chair next to his trains.",
+        "How come? ",
+        "He did that so that I could ride it everytime he played with his trains. "
+    ],
+    "dialogue323": [
+        "What did you say to your parents about the chair?",
+        "I couldn't say much. I was crying. ",
+        "What did they say about taking the chair to school?",
+        "They didn't wanna fight the school on the decision. So, they told me I could ride my chair to [B-LOC] [I-LOC]utauqua to cheer me up.",
+        "Were you in a better mood to hear that?",
+        "Yes I absolutely was! I couldn't wait to ride it again. My dad had kept my chair next to his trains downstairs.",
+        "Why did he do that?",
+        "So that everytime he went downstairs to play with his trains, I could ride my chair too."
+    ],
+    "dialogue324": [
+        "What did you do when you got home from school?",
+        "I was upset and all I could do was cry. ",
+        "What did your parents say to you?",
+        "They told me I could ride my chair to [B-MISC] [I-LOC]utauqua. They just wanted me to cheer up.",
+        "Did that work?",
+        "Yeah, I was just excited to drive it again. My dad put it downstairs next to his trains. ",
+        "What was the reason behind that?",
+        "He wanted me to ride my chair everytime he went to play with his trains. "
+    ],
+    "dialogue325": [
+        "What did [B-PER] say when you called yourself dumb?",
+        "She was so mad! She was saying that everyone struggled with new names and I was being thrown a lot of new information. ",
+        "What were you guys doing then?",
+        "We were in the middle of writing my book. We had written about eight chapters.",
+        "Did [B-PER] want to keep going?",
+        "She loved learning so much new information about me. She was encouraging me to keep going. ",
+        "She sounds like such a great person.",
+        "I loved writing my book with her. I was just enjoying every moment I had with her and my cat [B-PER]."
+    ],
+    "dialogue326": [
+        "You had called yourself dumb? Why?",
+        "I just couldn't recall one of the names. But like [B-PER] was saying, I was 12 and I was given a lot of new information. [B-PER] does not like when I call myself dumb.",
+        "She must value you a lot. ",
+        "She was so supportive. She just wanted me to keep writing because she wanted to know all about me.",
+        "How long had you written at that point?",
+        "About eight chapters. And [B-PER] was there feeding me pizza to give me the strength to keep going.",
+        "Did it help?",
+        "I think so. I also wanted to keep writing. I was enjoying the process of writing my book with [B-PER]. My cat [B-PER] was by my side too."
+    ],
+    "dialogue327": [
+        "Why did you tell [B-PER] that you are dumb?",
+        "I don't know. I couldn't remember one of the new names I learned. But [B-PER] was mad I called myself that. She did not like it at all.",
+        "Were in the middle of writing your book?",
+        "We had written about eight chapters together. And [B-PER] was eager to learn more information about me. ",
+        "Oh did she not know you that well?",
+        "She did but a lot of the information from the book was new to her. ",
+        "Oh that must have been interesting to write the book with her.",
+        "I truly enjoyed every moment of that. I was feeling the rush to keep going and writing more. "
+    ],
+    "dialogue328": [
+        "What were you writing about then?",
+        "I was writing about my uncle.",
+        "What did you tell [B-PER] about your uncle?",
+        "I told her to read my notes because it was too sad for me to say.",
+        "Oh what was the story about?",
+        "Something had happened at my uncle's work.",
+        "What did he do for a living?",
+        "He had an alarm company business. "
+    ],
+    "dialogue329": [
+        "What were you writing about your uncle?",
+        "Something sad had happened to him but I didn't want to tell [B-PER]. So, I just told her to read my notes.",
+        "Could you tell me what the story was about?",
+        "It was a really sad day for us. A bad thing happened at my uncle's work.",
+        "Did he have a risky job?",
+        "He had a business, an alarm company. ",
+        "When did the incident happen?",
+        "It happened in the summertime. We were all camping when we heard the news. "
+    ],
+    "dialogue330": [
+        "What were you writing about at that point?",
+        "I was gonna write about something sad that had happened with my uncle. I really hate talking about it.",
+        "I'm sorry, it must be a really sad story. ",
+        "Yeah, something bad had happened at my uncle's work.",
+        "Where did he work?",
+        "He owned a business, an alarm company.",
+        "When did it happen?",
+        "It was the summer and my family and I were out camping."
+    ],
+    "dialogue331": [
+        "Would you like to go on the boat with us? It's a scorching summer day.",
+        "Yes, that sounds like fun.",
+        "Great! Have you ever been on a boat before?",
+        "Yes. I used to go on a boat with some friends back when I went camping.",
+        "I love going on the boat. What is your favorite part?",
+        "I love swimming and eating snacks. It is so refreshing on a hot day.",
+        "Yes I agree. We have a lot of snacks on the boat and you are more than welcome to swim.",
+        "Thank you! I am excited to get out on the water."
+    ],
+    "dialogue332": [
+        "I have a boat that I love to go on during the summer.",
+        "That sounds like fun! I went on a boat with my friends when I went camping in the summertime.",
+        "Oh really? What was your favorite part?",
+        "We used to go swimming and eat snacks. Then we would ride the golf cart around back to our campsite.",
+        "Who did you go with?",
+        "Some friends from our campsite had a boat that they let us go on.",
+        "That's very nice of them to let you on their boat. ",
+        "Yes we had a great time. It really helped us to cool off on those scorching summer days."
+    ],
+    "dialogue333": [
+        "My brother sat me down the other day to tell me something serious. I hate that feeling.",
+        "I know that feeling too unfortunately.",
+        "When did you have that experience?",
+        "When I was camping one summer, I had just gotten back from riding on a boat when I saw my dad looking sad. He told me to go for a ride while he talked to our mom. ",
+        "That sounds like a nerve wrecking experience.",
+        "It was. I was too far to hear their conversation, but I knew something was wrong.",
+        "What happened?",
+        "We eventually found out that my uncle had been injured and was in the hospital."
+    ],
+    "dialogue334": [
+        "My brother sat me down the other day to tell me something serious. I hate that feeling.",
+        "I know that feeling as well. My mind overthinks things sometimes. ",
+        "The worst part is when it is about someone you love getting injured.",
+        "I remember one time my parents sat me down and told me that my uncle fell 12 feet down from his business.",
+        "Oh no! Was he okay?",
+        "He was okay. They told us that he was paralyzed from the waist down.",
+        "I'm so sorry. That must have been hard to hear.",
+        "It was. My grandparents went to visit him every day after that and they would call my mom every day for an update on her brother."
+    ],
+    "dialogue335": [
+        "My dad fell off the roof the other day. He is in the hospital.",
+        "I'm so sorry to hear that. I remember when something similar happened to my uncle.",
+        "What happened?",
+        "He fell 12 feet down from his business one day.",
+        "Oh no! Was he okay after the fall?",
+        "He was paralyzed from the wasit down.",
+        "I'm sorry to hear that.",
+        "Yes it was hard. My family was very supportive of him during that time."
+    ],
+    "dialogue336": [
+        "I hate hearing bad news. ",
+        "Me too. My mind overthinks things. When I hear that something has happened to someone I know, it is hard for me.",
+        "Yes, especially when it is family.",
+        "Yes, one time my uncle fell 12 feet down from his business.",
+        "What happened?",
+        "After he fell, he was paralyzed from the waist down.",
+        "I'm so sorry.",
+        "Thank you. It was hard, but my family was very supportive of him during that time."
+    ],
+    "dialogue337": [
+        "Do you feel like you are a role model?",
+        "I feel that some people have looked at me as a role model.",
+        "Do you know of anyone in particular?",
+        "Yes, my uncle after he fell off of his business and became paralyzed.",
+        "Wow. That must have been a lot to deal with.",
+        "Yes, he would call my mom to ask if I did this or that, like putting on pants or pulling up socks. When my mom would say yes, he would say, \"I am going to do it too!\"",
+        "It sounds like you did inspire him.",
+        "I feel that my uncle respects me. He might say to himself, \"[B-PER] can do it. I can too.\""
+    ],
+    "dialogue338": [
+        "What happened to your uncle after he fell?",
+        "Weeks and months went by and he was in the hospital, but he was doing a little better every day.",
+        "Did he have therapy at the hospital?",
+        "Yes he went to therapists for dressing, gettting in a wheelchair himself, and taking care of himself.",
+        "That sounds like he had been doing a lot of work to help in his revocery.",
+        "Yes, he would call my mom and ask if I could do this or that. Like pulling up my socks or putting on pants. I feel that he respected me, that I was a role model.",
+        "Yes that must have been helpful to have family who could understand.",
+        "Yes. It took him a long time to do things but he might say to himself, \"[B-PER] can do it. I can too.\""
+    ],
+    "dialogue339": [
+        "Is there anyone else in your family who understands the types struggles you face?",
+        "I would say that my uncle has experience with some of the difficulties that I face.",
+        "How so?",
+        "He fell off his business and became paralyzed. He spent months in the hospital.",
+        "That must have been hard for him.",
+        "Yes. But I feel that I was somewhat of a role model for him.",
+        "In what ways?",
+        "Even though it took him a while to do things, he would ask if I was able to do them. If so, he would say, \"I am going to do it too!\""
+    ],
+    "dialogue340": [
+        "Speaking of your uncle, when did you last see him?",
+        "Well at that point, it had been a few years. I remember this one story though.",
+        "Does it involve your uncle?",
+        "It may. I don't want to spoil the story but do you want to hear it?",
+        "Yes of course.",
+        "One morning when we were in the campground, we saw this silver van parked near our trailer. There was a man and a woman sleeping in there. My parents went to go check and guess what?",
+        "I'm guessing it was your uncle and his wife.",
+        "Close! It was my grandmother and my uncle."
+    ],
+    "dialogue341": [
+        "How often did you see your uncle?",
+        "Less than I would have liked to. I remember this one time I hadn't seen him in a few years, he showed up out of nowehere.",
+        "Oh! Tell me about that story.",
+        "We were in the campground one morning and my uncle and my grandmother had parked their van next to our trailer. They hadn't told us they were coming but I had a hunch it could be them.",
+        "Oh how come?",
+        "Because the van had a wheelchair ramp. ",
+        "Oh interesting! I think they wanted to give you a surprise visit.",
+        "I was so happy to see them. It is a really special memory.  "
+    ],
+    "dialogue342": [
+        "Did you see your uncle often growing up?",
+        "I wish I did. No, sometimes years had passed by without seeing him.",
+        "Did he never visit you?",
+        "He did actually. I remember this time when he showed up out of nowhere.",
+        "Oh did he visit your home?",
+        "No, he had parked his van near our trailer in the campground. And guess who came with him?",
+        "I'm guessing his wife?",
+        "No, it was my grandmother who came with him."
+    ],
+    "dialogue343": [
+        "Were you excited to see your uncle?",
+        "I was so excited to see him. My grandmother came straight out of the van when she saw us.",
+        "What did she say when she saw you?",
+        "She said that my grandfather was going to join us too! I was so happy.",
+        "I'm guessing it had been a while since you last saw them.",
+        "Yeah, it had been. And it sucks because they are so special to me. My mom also hadn't seen them in a few years.",
+        "Why did they live far?",
+        "Yes they did! But we wish we could've visited them more often."
+    ],
+    "dialogue344": [
+        "Were you happy to see your relatives?",
+        "Absolutely! I am very close to my uncle and my grandparents. ",
+        "You are very lucky! She must care about you a lot to travel so far.",
+        "I felt so special. My grandfather was joining us too! It was like a family reunion.",
+        "I love those! Did they came straight to the campground?",
+        "My grandfather stopped at a hotel to rest. But my grandmother thought it was easier to just come here. ",
+        "Oh why did they leave him there?",
+        "He knew his way to the campground. It wasn't a big deal."
+    ],
+    "dialogue345": [
+        "Who had come to visit you in the campground?",
+        "It was just my uncle and my grandmother. But my grandfather was on the way too!",
+        "Were you happy to see them?",
+        "I was so excited! So was my mom. We hadn't seen them in quite a while.",
+        "I'm sure that was nice. But why did your grandfather come separately?",
+        "He didn't. He just wanted to stop by at a hotel to rest.",
+        "And your grandmother didn't?",
+        "She said it was easier to just come straight to the campground and rest in the van."
+    ],
+    "dialogue346": [
+        "What was your uncle doing in the van?",
+        "He was still sleeping. He woke up a bit later.",
+        "What were you and siblings doing?",
+        "Not much. My parents were a little busy taking care of their needs.",
+        "Oh like what?",
+        "My mom was making coffee for grandma and my dad was looking for extension cords for my uncle's van.",
+        "Were you happy to see your uncle?",
+        "Absolutely! He is always special to me. "
+    ],
+    "dialogue347": [
+        "What did your grandmother say when she saw you all?",
+        "She gave us all a big hug. I was still waiting for my uncle though.",
+        "Why, what was he doing?",
+        "He was still sleeping. I was waiting for him to wake up.",
+        "Does your uncle need help doing things?",
+        "Yeah, my grandmother was there to help him. Like for example, he needs help going to the bathroom.",
+        "What did you and your uncle like to do together?",
+        "We were getting so bored so we liked to play checkers everyday."
+    ],
+    "dialogue348": [
+        "Did you say hi to your uncle and your grandmother?",
+        "We all hugged my grandmother. I didn't see my uncle yet because he was still sleeping.",
+        "Oh he must've been tired.",
+        "Probably. He also really liked the van, it was like his hotel.",
+        "Oh interesting. What did you guys do together when he woke up?",
+        "He said to me \"hi kid\". That's how always liked to talk to me. ",
+        "How long did he stay at the campground?",
+        "Only a  few days. I remember we both got so bored that we were playing checkers everyday to pass teh time. "
+    ],
+    "dialogue349": [
+        "When did your grandparents and your uncle leave?",
+        "They left after a few days. I was so sad when they left.",
+        "I'm guessing they didn't like to travel often.",
+        "Yeah, my uncle doesn't like driving, especially for long rides. He is paralyzed from the waist down.",
+        "I'm sorry to hear that. Does he still drive though?",
+        "He does but, he has be very careful about his paralyzed area when he drives. He can get seriously hurt.",
+        "Does he need to take a lot of breaks?",
+        "Yeah, he has to make sure he doesn't get red spots in his paralyzed areas. Because if he does, he has to lay down for a couple of hours or even days."
+    ],
+    "dialogue350": [
+        "Were you sad your grandparents and your uncle left?",
+        "I was very sad. I had no idea when they were going to visit again.",
+        "Oh how come?",
+        "My uncle is paralyzed from the waist down and driving long distances is very rough on his body.",
+        "Oh I'm sorry to hear that.",
+        "Yeah, it can get very serious very quick.",
+        "Does it hurt his body to sit for long stretches of time?",
+        "I think so. He has to be very careful not to get red spots in his paralyzed area. If he does, he has to lay down for hours or sometimes days."
+    ],
+    "dialogue351": [
+        "Did you relatives leave the campground soon?",
+        "They left after a few days. I was so sad to see them leave.",
+        "Did they not visit often?",
+        "No because it's hard for my uncle to drive long distances. He is paralyzed from the waist down.",
+        "I'm sorry to hear that. It must be very difficult to live with.",
+        "Yes, but he makes the most of his life. I was so happy that he came to visit us. It meant so much to all of us.",
+        "Does he need to take a lot of breaks when he is driving?",
+        "Breaks do help. He has to make sure he doesn't get any red spots in his paralyzed area. If he does, he has to lay down and rest. But I'm glad he learned to manage his condition over time. "
+    ],
+    "dialogue352": [
+        "Was your house handicap accessible?",
+        "No it wasn't. But I had learned to get around safely.",
+        "What did you do when you had to get into your house?",
+        "First of all, I had to park my wheelchair in the garage before putting myself on the stairway. Then, I had to climb the stairs to get into the house.",
+        "Was it hard to do?",
+        "It wasn't as bad as it sounds. The stairs had a rug. But it was so hard to come downstairs.",
+        "Did you not use your wheelchair at home?",
+        "No, I only used it when I went to school or went outside."
+    ],
+    "dialogue353": [
+        "Was it easy for you to get around your house growing up?",
+        "Well, it wasn't a handicapped house. So I had to learn to get around in a way that was safest for me.",
+        "Was there a specific thing that was the trickiest to do?",
+        "Climbing downstairs to the dining area was the hardest for me. It always felt like a workout.",
+        "Oh no! What did you do for mealtimes?",
+        "They used to fasten me to a chair before I learned to sit down. Afterwards, I just sat freely.",
+        "Did you use your wheelchair at home?",
+        "No. I used to park my wheelchair in the garage before getting into the house. I didn't need the chair at home. "
+    ],
+    "dialogue354": [
+        "Was the house you grew up in handicap accessible?",
+        "It wasn't. But I managed to get around safely.",
+        "Was it easy to get into your house?",
+        "It was easy compared to some other things I had to do. I used to to climb the stairs after parking my wheelchair in the garage. ",
+        "Oh, what was the most difficult area for you?",
+        "It was hardest for me to climb downstairs to the dining area. It was so tiresome.",
+        "I'm guessing you didn't use your wheelchair at home.",
+        "I didn't need to. I was able to get around my house without it. I only used it when I went to school or whenever I went shopping with my mom."
+    ],
+    "dialogue355": [
+        "How do you feel when people think you are disabled?",
+        "I don't agree with that. I am able to do a lot of things on my own. I can take care of a lot of my needs.",
+        "Did your house ever become handicap accessible?",
+        "Well, years later my dad had built a wheelchair ramp at our home. But it wasn't for me.",
+        "Oh, really? Who was it for then?",
+        "It was so that my uncle could visit us and my grandparents could have a break.",
+        "Did they live near you or very far?",
+        "They lived far from us for a while. But they eventually moved close to us. They had found the perfect house for them in [B-LOC]utauqua [B-LOC] [I-LOC]."
+    ],
+    "dialogue356": [
+        "Do you think it's fair when people think you are disabled?",
+        "I don't know why they think that about me. I can take care of myself. I can do a lot of things my way. ",
+        "Did you ever use your wheelchair at home?",
+        "I didn't need it. For a long time, we didn't even have a wheelchair ramp. But my dad did eventually build one.",
+        "Was that useful for you?",
+        "It was built so that my uncle could visit us.",
+        "Did he live near you?",
+        "They lived really far from us. But they wanted to move closer to us so they settled down in [B-LOC]utauqua [B-LOC] [I-LOC]. "
+    ],
+    "dialogue357": [
+        "Do you think people assume you are disabled?",
+        "Yes, but I don't know why. I can do a lot of things to take care of myself.",
+        "It's unfair when people assume things about us. I'm curious, did you need to use the wheelchair at home?",
+        "No, we didn't even have a wheelchair ramp at home for the longest time. ",
+        "Was there one ever built?",
+        "Yeah but it was not built for me. It was built so my uncle could visit our home. ",
+        "Oh interesting. Did they live close to you?",
+        "They eventually moved closer to us. They found a house that was perfect for him and my grandparents. "
+    ],
+    "dialogue358": [
+        "Tell me about the house they found for your uncle.",
+        "It was perfect for him. It had all the ramps for going into the house and even had a wheelchair shower. And it was such a convenient location for us. ",
+        "Oh how come? Was it close to the campground?",
+        "Yeah, it was in the direction of going home. We would go there every holiday and stop on Sunday nights from the campground. ",
+        "That sounds lovely. Did you enjoy staying there?",
+        "I had so much fun. My grandmother would give me a banana split in the morning. I would watch TV with my uncle at night. Those were some good times. ",
+        "Did you ever stay there without your parents?",
+        "Plenty of times. I went over there many times on the weekends. "
+    ],
+    "dialogue359": [
+        "Tell me about your uncle's house in [B-LOC]utauqua?",
+        "It was the perfect house for him. It had all the ramps going into the house, and it had a wheelchair shower for him.",
+        "That sounds like the perfect house. When did they move there?",
+        "A long time ago. It was September 1. 1988.",
+        "Did you go over there a lot?",
+        "You bet. It was in the direction of going home from the campground. It was the perfect place to stay at every holiday and every sunday night when we left the campground.",
+        "I'm sure it was really fun to live with your uncle and your grandparents.",
+        "Yeah, sometimes I would stay there on my own. It was perfect because I could decide when I was going to bed. "
+    ],
+    "dialogue360": [
+        "Tell me about your uncle's house in [B-LOC]utauqua? Was it accessible?",
+        "It really was. It had all the ramps going into the house, and it had a wheelchair shower for him. I was so happy for him.",
+        "Oh didn't your family go to the campground in [B-LOC]utauqua [I-LOC] in the summer?",
+        "Yeah exactly! My uncle's house was the perfect stop on the way when we would leave the campground. ",
+        "I'm guessing you went over there a lot.",
+        "Yes very often. I sometimes stayed there without my parents. ",
+        "What do you do remember doing there?",
+        "I remember watching the TV every night with my uncle. I could decide when I wanted to go to bed. My grandmother would make me banana split in the morning. It was perfect."
+    ],
+    "dialogue361": [
+        "How do you like to stay comfortable when you sleep?",
+        "I don't like to take my socks off at nighttime. It's uncomfortable and cold with naked feet.",
+        "No one goes to sleep with their socks on.",
+        "I do. If I sleep with them off I might wake up early.",
+        "Well, you're not going to sleep with them on tonight.",
+        "But I can't sleep without them.",
+        "What'd your grandma do when you told her that you like to sleep with socks on?",
+        "She put extra socks under my pillow."
+    ],
+    "dialogue362": [
+        "What did you like to do with your Uncle?",
+        "We liked to ride around and shop all day.",
+        "Did you and your Uncle do anything fun at night?",
+        "Sometimes we like to watch a few movies in the same night.",
+        "What happened when it was time to go to bed?",
+        "My grandma took my socks off even though I like to sleep with them on.",
+        "Did you put your socks back on?",
+        "Yes I put them back on and I slept comfortable that night."
+    ],
+    "dialogue363": [
+        "Did your grandmother find out that you slept with your socks on?",
+        "Yes in the morning I showed her my feet.",
+        "When did your parents come to your grandmother's house?",
+        "They came on Sunday for dinner because I had school the next day.",
+        "Did your mom and grandmother have a conversation about how you sleep?",
+        "Yes my mom told my grandmother that I do sleep with socks on.",
+        "Why did you tell your grandmother that you put your socks back on?",
+        "I didn't want to lie to her."
+    ],
+    "dialogue364": [
+        "Do you like the food that your grandparents and Uncle eats?",
+        "Not always because sometimes they eat odd food.",
+        "What would your grandmother cook you?",
+        "She's made me spaghetti out of a can and ice cream.",
+        "Do you have fun with your family?",
+        "Yes I have a great time with my grandparents and Uncle.",
+        "How do you feel about your family?",
+        "I am extremely grateful for my grandmother and my Uncle."
+    ],
+    "dialogue365": [
+        "Why are you grateful for your parents, grandparents and uncle?",
+        "They see me as a person, not a disabled person.",
+        "Did your family have help from anyone else?",
+        "Two of my teachers helped my family.",
+        "Which teachers helped your family the most?",
+        "Mrs. [I-PER]n and Mrs. [I-PER]rill were the best!",
+        "How would you describe [B-PER]. [I-PER]n and [B-PER]. [I-PER]rill?",
+        "They're so brilliant and caring."
+    ],
+    "dialogue366": [
+        "Did anyone in school make your life better?",
+        "Yes Mrs. [I-PER]n and Mrs. [I-PER]rill were the best teachers.",
+        "Did they work hard?",
+        "Yes and because of it they made my life better.",
+        "Do you know what your teachers saw in you?",
+        "I don't know but they were incredible people.",
+        "How did [B-PER]. [I-PER]n and [B-PER]. [I-PER]rill make your life better?",
+        "They did anything for me."
+    ],
+    "dialogue367": [
+        "How did you get introduced to [B-MISC] [I-MISC] computers?",
+        "In 1984 my computer teacher introduced me to them.",
+        "Were you good at using the computer?",
+        "Yes I learned everything about the computer in two months.",
+        "How did you learn to use the computer so quickly?",
+        "Whenever I was around computers I watched other people use them.",
+        "Did you ever read a book about them or take a class?",
+        "No I only learned by watching others."
+    ],
+    "dialogue368": [
+        "Could you use a keyguard on the computer?",
+        "Yes but only for a word processor or to play games.",
+        "Did you get bored of writing when you first started using the computer?",
+        "Yes I got very bored because I was copying something off a book.",
+        "Was there anything about the computer that you really liked?",
+        "Yes! I discovered that I love spreadsheets and numbers.",
+        "How much do you like spreadsheets and numbers?",
+        "They're my favorite things in the world."
+    ],
+    "dialogue369": [
+        "What happened when you were bored of your teacher trying to see how fast you were writing?",
+        "I learned how to use a spreadsheet.",
+        "What's so great about spreadsheets?",
+        "They're so versatile! You can use them for anything from tracking your finances to managing your inventory.",
+        "That sounds really useful.",
+        "It is! That's why they're one of my favorite things in the world.",
+        "I'm definitely going to have to learn how to use them.",
+        "You should! I don't get bored with spreadsheets and numbers."
+    ],
+    "dialogue370": [
+        "Why did you like using computers?",
+        "I got to see how numbers worked.",
+        "How good were you at using computers?",
+        "I was able to help my teacher if she had a question about them.",
+        "That's great! I'm glad it was a good experience for you.",
+        "Me too! I learned so much about computers.",
+        "I can imagine. It sounds like you learned a lot.",
+        "I did! I'm so grateful for the opportunity."
+    ],
+    "dialogue371": [
+        "How did your teacher respond to your skills with computers?",
+        "She was amazed and I helped her all the time!",
+        "Did it take you a long time to learn about computers?",
+        "Not at all! I picked up the information in a short amount of time.",
+        "That's impressive! You must have been a quick learner.",
+        "I was! I was really interested in it, so I was eager to learn.",
+        "That's great! I'm glad you enjoyed it.",
+        "I did! I loved learning about computers."
+    ],
+    "dialogue372": [
+        "What was it like to work with the spreadsheet?",
+        "It was amazing! I had never seen numbers in that way before.",
+        "What did you see?",
+        "I saw how they could be used to solve problems.",
+        "That's a powerful realization!",
+        "It is! It changed the way I think about numbers.",
+        "I'm glad to hear that. Do you still like them?",
+        "Yes I love computers and spreadsheets."
+    ],
+    "dialogue373": [
+        "Who was your teacher when you started school 84?",
+        "Mrs. [I-PER]n, she helped me with reading.",
+        "Did you spend a lot of time with Mrs. [I-PER]n?",
+        "Yes she held me back a few years.",
+        "Did Mrs. [I-PER]n like you?",
+        "Yes, I was her favorite person.",
+        "Did you enjoy spending time with Mrs. [I-PER]n?",
+        "Yes, she made me feel smart in many different ways."
+    ],
+    "dialogue374": [
+        "What did Mrs. [I-PER]n do?",
+        "She worked on many cool projects.",
+        "Did Mrs. [I-PER]n want anything from you?",
+        "Yes she wanted me to work on the projects with her.",
+        "Did you enjoy those projects with Mrs. [I-PER]n?",
+        "Yes they were really cool and I learned a lot from her.",
+        "That's great! Mrs. [I-PER]n sounds like a nice teacher!",
+        "Yes I'm grateful to have spent so much time with her in school."
+    ],
+    "dialogue375": [
+        "Did you and Mrs. [I-PER]n collaborate with any other teachers?",
+        "Yes, we also met with Mrs. [I-PER]rill.",
+        "What was it like working with those teachers?",
+        "They knew I was smart in different ways.",
+        "Did they find out about how good you are at using computers?",
+        "Yes, and I watched Mrs. [I-PER]n use the computer because she wanted to try something new.",
+        "They must have been so proud of you!",
+        "Yes they were! And I learned even more from watching her use the computer. "
+    ],
+    "dialogue376": [
+        "I noticed that you learn faster with hand-over-hand, watching, and being read to.",
+        "Yes, I do but no one listens to this.",
+        "I think you might benefit from using a [B-MISC] [I-MISC]er.",
+        "What's a [B-MISC] [I-MISC]er?",
+        "It's a device that helps people communicate by using pictures and symbols.",
+        "I don't think it will help me.",
+        "Why not?",
+        "Because it's already programmed, and I won't be able to remember the new program."
+    ],
+    "dialogue377": [
+        "Was it easy for you when you first started using the [B-MISC] [I-MISC]er?",
+        "No, because there were 144 keys and about 10,000 words in touch talker, making it hard to remember.",
+        "What happened next?",
+        "To resolve the issue, we cleared out memory from the device.",
+        "Then what happened with the device?",
+        "My speech teacher and I put together a new system using words I was familiar with.",
+        "That's awesome! I'm glad it became easier for you to use.",
+        "Me too. I was in awe to try out the device."
+    ],
+    "dialogue378": [
+        "How long did it take to customize your first device?",
+        "It took a few months and we had a few mistakes and problems.",
+        "I'm sure your hard work on that device payed off.",
+        "It did! I couldn't believe I was going to be able to talk!",
+        "That's awesome! I'm sure your speech teacher helped a lot.",
+        "She did! Mrs. [I-PER]rill always listened to what I had to say.",
+        "She sounds like a great speech teacher.",
+        "She was and when the device was ready, she cried."
+    ],
+    "dialogue379": [
+        "So you took your [B-MISC]C device home?",
+        "Yes but my teacher gave me a hard time about it.",
+        "Why would she do that?",
+        "She thought I was going to break it or not use it.",
+        "That must have been hard when you wanted to take it home.",
+        "It was. There were occasional bugs in my device too.",
+        "What happened when there was a bug?",
+        "I asked to see my speech teacher, but my classroom teacher asked if I broke it."
+    ],
+    "dialogue380": [
+        "Tell me about your time on the school bus",
+        "I loved my time on the school bus!",
+        "Why is that?",
+        "There were lots of nice girls, I made friends, and learned sign language.",
+        "It sounds like you have good memories from the school bus.",
+        "Yes and I also enjoyed having my device on the bus.",
+        "I'm glad it was a good experience for you.",
+        "Yes it was great when I finally got approved to bring my device on the bus."
+    ],
+    "dialogue381": [
+        "Did your device always work perfectly?",
+        "No, when I first got to bring it home it malfunctioned. ",
+        "Were you able to fix it?",
+        "I turned it on and off again and then it worked fine.",
+        "It's annoying when technology has glitches.",
+        "I know right. I wanted to show my device to Mrs. [I-PER]rill after it malfunctioned.",
+        "She must have been so helpful when it came to using the device.",
+        "She was! But my classroom teacher had no faith in me bringing the device home."
+    ],
+    "dialogue382": [
+        "What happened when you showed Mrs. [I-PER]rill the bug?",
+        "She called the company and they said it's a bug in the system.",
+        "Were they able to fix all of the bugs?",
+        "No, as time went by, I found more and more issues.",
+        "It must have been challenging to use your device at times with all those issues.",
+        "Yes but I'm glad Mrs. [I-PER]rill made an effort to fix it.",
+        "That's good. She sounds really helpful.",
+        "Yeah the company gave her a code to fix that one bug."
+    ],
+    "dialogue383": [
+        "Did Mrs. [I-PER]n want you to learn more about using your device?",
+        "Yes she wanted me to use my computer through the device.",
+        "How was that going to happen?",
+        "With many cables that would help my device talk to the computer.",
+        "What happened when it started working?",
+        "It was awesome! I could use it a lot faster!",
+        "It sounds like that made using the device a lot easier.",
+        "Yes I'm glad that Mrs. [I-PER]n wanted to improve the technology."
+    ],
+    "dialogue384": [
+        "So did you have any teachers that you didn't like while in school?",
+        "Yes when I was 14 I got a new teacher and she was very rude.",
+        "How long did you have this teacher for?",
+        "Five years. I called her [B-PE[I-PER]]. [I-PER]ude.",
+        "Did she do anything mean to you?",
+        "Yeah she yelled at me to turn the speed on my wheelchair down.",
+        "She sounds very rude, I'm sorry you were stuck in her classroom.",
+        "She was but now I have a lot of stories about her."
+    ],
+    "dialogue385": [
+        "You know you need to keep your power wheelchair at the lowest setting at all times [B-PER].",
+        "I need to turn it up so that I can go with other people's paces.",
+        "It doesn't matter. You need to stop breaking the rules.",
+        "I turn it back down when I come to my classroom.",
+        "But I need to be able to get around.",
+        "You can get around just fine at the lowest setting.",
+        "But it takes me so long to get anywhere.",
+        "That's your problem."
+    ],
+    "dialogue386": [
+        "[B-PER] you need to be following the rules of this school.",
+        "What am I doing wrong?",
+        "You're taking too long in the bathroom and going too fast on your wheelchair.",
+        "I can't keep up with the other students when I turn my wheelchair down.",
+        "It's still not allowed! You need to slow down.",
+        "Sometimes my wheelchair doesn't move when I turn it down too far.",
+        "Then you need to figure it out and stop taking so long in the bathroom.",
+        "Well I had to make a bowel movement."
+    ],
+    "dialogue387": [
+        "It's not polite to tell people that you're making a bowel movement [B-PER].",
+        "Well that's why I took so long in the bathroom.",
+        "Is there another reason why you were late?",
+        "My power wheelchair goes very slow also.",
+        "Well you need to go to the bathroom faster [B-PER].",
+        "That's very hard to do when there's a line for the bathroom.",
+        "Okay well next time you shouldn't take this long.",
+        "Well I will if I need to make a bowel movement."
+    ],
+    "dialogue388": [
+        "How did you find out about [B-PE[I-PER]] [I-PER] passing away?",
+        "Mrs. [I-PER]ude told me, without any compassion. ",
+        "That must have been so hard for you.",
+        "It was. I cried while Mr. [I-PER] sat with me.",
+        "That's nice of him. Were the other students sad?",
+        "Yes it took everyone days to get back on their feet.",
+        "Was there a funeral?",
+        "Yes my mom took me to his funeral."
+    ],
+    "dialogue389": [
+        "Did anything change in your life after he passed?",
+        "I stopped playing hockey at school for a few months.",
+        "So was was it like going back to school after the funeral?",
+        "It was horrible being in the classroom with Mrs. [I-PER]ude.",
+        "Why did you not like being around Mrs. [I-PER]ude?",
+        "She was always yelling at me.",
+        "That's horrible. Did your parents know?",
+        "They didn't know what she did to me that day."
+    ],
+    "dialogue390": [
+        "Why was Mrs. [I-PER]ude yelling at you?",
+        "Because I wasn't wearing sweatpants for swim class.",
+        "She sounds really strict.",
+        "She was. I was still wearing a swim suit.",
+        "Did you say anything back to her?",
+        "No. I didn't say anything.",
+        "That's really mean of her to yell at you.",
+        "I know. I just listened to her through my hearing aids."
+    ],
+    "dialogue391": [
+        "Why didn't Mrs. [I-PER]ude like the way that you were using your device?",
+        "She didn't like it because she wanted me to use my device to say things like hello and ask questions with it.",
+        "Oh I see. So she mainly wanted you to use your device to interact with her. ",
+        "Yes that is true. But I did not want to talk with her.",
+        "That is understandable. So what did you do instead?",
+        "I would rather tell her hi using my voice every morning.",
+        "I see. Why did you decide to that with her?",
+        "Well I mainly did it because I knew it would piss her off, and I didn't like her."
+    ],
+    "dialogue392": [
+        "Question for you. Why didn't you want to say anything to Mrs. [I-PER]ude?",
+        "Well, I didn't have anything nice to say, so I didn't say anything at all.",
+        "That is good advice. Who taught you that information?",
+        "My parents did. They taught me that if I didn't have anything nice to say, then not to say anything at all.",
+        "I also learned that. What would you do in Mrs. [I-PER]ude's class?",
+        "We were doing math that day in class until Mrs. [I-PER]ude had to leave.",
+        "Why did she have to leave? What lead to her leaving?",
+        "She had gotten a call from an office to go down there."
+    ],
+    "dialogue393": [
+        "Did anything happen to you once Mrs. [I-PER]ude left the classroom?",
+        "Yes it did. A piece of paper got thrown at me, and it landed in my lap.",
+        "That's no good. Who threw that ball at you?",
+        "[B-PER]. [I-PER] was the person who threw it. He threw it right in my lap.",
+        "That was mean of him. Did he say anything to you afterwards?",
+        "Yes he did. He asked me for the paper back!",
+        "Oh wow, that's rude of him. Did you give it back to him?",
+        "At first I did not no. But then we started tossing it back and forth until Mrs. [I-PER]ude got back in."
+    ],
+    "dialogue394": [
+        "why did she yell at you?",
+        "She yelled at me for wearing pants",
+        "Where were you before you went for swimming class",
+        "I was in the classroom for 45 minutes before the swimming class",
+        "What were you doing in Mrs.[I-PER]ude's class before she left?",
+        "I was doing math in Mrs. [I-PER]ude's class for 25 minutes before she left",
+        "why did Mrs.[I-PER]ude leave?",
+        "She left the class because she got a call from the office."
+    ],
+    "dialogue395": [
+        "What happened after Mrs.[I-PER]ude left?",
+        "After Mrs. [I-PER]ude leave, a paper ball landed on my lap.",
+        "who threw the paper ball at you?",
+        "[B-PER][I-PER] [I-PER] threw it, and he wanted it back",
+        "Did you give it back to him?",
+        "I said \"no\" at first but when he asked for it again I threw it back at him.",
+        "what did Mrs. [I-PER]ude see when she got back?",
+        "when Mrs.[I-PER]ude entered the class she saw me throwing something back at Mr.[I-PER] "
+    ],
+    "dialogue396": [
+        "[B-PER]! why did you wear your pants without me telling you?",
+        "Sorry Mrs.[I-PER]ude, I wasn't thinking",
+        "Go back to the classroom I'm gonna come there",
+        "Okay Mrs.[I-PER]ude, I will go to class and start doing math",
+        "hey [B-PER], give me that paper ball back",
+        "No, Mr. [I-PER] I wont give it back to you.",
+        "Come on [B-PER], Give it to me",
+        "Okay, I will give you but don't throw it again"
+    ],
+    "dialogue397": [
+        " \"TODD! What are you doing?\"",
+        "\"Oh shit!\"",
+        "Let's go swimming",
+        "Okay! But i have to undress and change first",
+        "Let's go for a walk instead",
+        "But i just changed for swimming , Okay i will change again",
+        "Let's go back to the house.",
+        "Okay, I feel relieved"
+    ],
+    "dialogue398": [
+        "TODD! What are you doing?",
+        "Sorry Mrs.[I-PER]ude, we were just playing",
+        "Stop playing around and get ready for swimming",
+        "Go swimming?  But I'm not ready.",
+        "You have three minutes to get ready or else we're going for a walk.",
+        "I will get ready then give me a minute",
+        "Okay now that we are here at the pool go swimming ",
+        "I am jumping right away"
+    ],
+    "dialogue399": [
+        "TODD! What are you doing?",
+        "I was just trying to throw this in the dustbin Mrs.[I-PER]ude",
+        "Why did you throw at [B-PER].[I-PER] then?",
+        "Mr.[I-PER] said he would help me throw this into the dustbin, so i was throwing it to him",
+        "Oh how nice of Mr.[I-PER]",
+        "Yes Mrs.[I-PER]ude, he is very helpful",
+        "Okay get ready for your swimming class now",
+        "Oh are we going to swimming now , Yay!"
+    ],
+    "dialogue400": [
+        "where did [B-PER].[I-PER] lead you",
+        "He put me right in front of the swimming door",
+        "Did Mrs.[I-PER]ude say anything to you when she saw you?",
+        "Mrs. [I-PER]ude saw me ready and waiting for everyone but she didn't say anything",
+        "[B-PER], why do you love swimming so much?",
+        "I love swimming because i could move my body around and walk around in the water",
+        "What did Mrs. [I-PER]ude do?",
+        "I saw [B-PER]s. [I-PER]ude outside the door and when she saw me and [B-PER].[I-PER] walking out she stopped us."
+    ],
+    "dialogue401": [
+        "[B-PER] and [B-PER].[I-PER] Stop!",
+        "Mrs. [I-PER]ude what happened?",
+        "Both of you go to the office to see Mrs.[I-PER]nner",
+        "Okay Mrs.[I-PER]ude, we will go right now",
+        "[B-PER] don't worry everything will be okay",
+        "Mr. [I-PER] I am scared",
+        "Hello [B-PER], What's going on?",
+        "Mrs. [I-PER]nner, It's nothing.."
+    ],
+    "dialogue402": [
+        "[B-PER] the principal Mrs.[I-PER]nner's office is right here",
+        "I don't want to go in there Mr. [I-PER], I am afraid",
+        "Hello [B-PER], Why are you crying?",
+        "I was just afraid that you would scold me Mrs.[I-PER]nner",
+        "I heard you threw something at [B-PER]. [I-PER]",
+        "It's because he asked me to throw it ",
+        "Are you telling the truth? I will ask Mr.[I-PER] to verify",
+        "Yes, Mrs. [I-PER]nner. I am saying the truth , He really asked me to throw it to him"
+    ],
+    "dialogue403": [
+        "what did Mr. [I-PER] do when he was talking to the principal",
+        "Mr. [I-PER] turned his head to me as he was talking to Mrs.[I-PER]nner",
+        "what excuse did Mr.[I-PER] tell to Mrs. [I-PER]nner",
+        "He said he was joking with me and was helping me throw it since i had a horrible day",
+        "Did Mrs. [I-PER]nner punish you?",
+        "No, Mrs. [I-PER]nner let us leave after Mr. [I-PER] said that he was just helping me.",
+        "what did she say before letting you leave?",
+        "She said she wont call our parents and say she felt bad for yelling"
+    ],
+    "dialogue404": [
+        "Is what Mr.[I-PER] said true [B-PER]?",
+        "Yes, Mrs. [I-PER]nner. He was just helping me throw it",
+        "Okay, Dont worry no one's in trouble",
+        "Thank you Mrs. [I-PER]nner! are you going to call our parents?",
+        "No I won't be calling your parents , as i said no ones in trouble",
+        "Okay Mrs.[I-PER]nner we will leave then",
+        "Both of you go back to your class and study well",
+        "Thank you, Mrs.[I-PER]nner. we will study well"
+    ],
+    "dialogue405": [
+        "Hey [B-PER], I'm sorry I made you throw it to me when you said no",
+        "It's okay Mr.[I-PER], you helped me in Mrs. [I-PER]nner's office too",
+        "Where did nyou go after lunchtime?",
+        "I went to Speech followed by lunchtime, I was talking to myself like a crazy person",
+        "What did Mrs. [I-PER]rill say?",
+        "I was just relaxing then Mrs. [I-PER]rill saw me and asked \"Are you OK?\"",
+        "what happened after she asked you?",
+        "I was going to answer her, but there was a knock on the door and Mr. [I-PER] entered after Mrs. [I-PER]rill opened the door."
+    ],
+    "dialogue406": [
+        "What was [B-PER]. [I-PER] there for?",
+        "He asked me, \"are you OK?\"",
+        "What happened next?",
+        "The other teacher asked him what had happened.",
+        "What did the other teacher say?",
+        "First, Mr. [I-PER] told her what had happened.",
+        "It was good of him to help explain things.",
+        "Yes. He knew Mrs. [I-PER]rill had worked with me for a long time."
+    ],
+    "dialogue407": [
+        "How did [B-PER]. [I-PER] react to everything?",
+        "He explained everything to Mrs. [I-PER]rill, because he knew she'd worked with me for a long time.",
+        "Did you speak up at all?",
+        "Yes. I told them, \"I don't want to go back to my classroom!\"",
+        "Why didn't you want to go back to the classroom?",
+        "Because the teacher was being horrible to me!",
+        "Oh no! Teachers are supposed to be helping you. It's totally unacceptable for teachers to mistreat you like that.",
+        "Yes. She was a really bad teacher. She made me cry."
+    ],
+    "dialogue408": [
+        "What did you end up doing after all that?",
+        "I told [B-PER]. [I-PER]rill and [B-PER]. [I-PER] that I didn't want to go back to the classroom.",
+        "Did they listen to what you had to say?",
+        "Yes, they did. They did exactly as I asked.",
+        "That's really good of them. They must have known she was being so rude to you.",
+        "Yes, I was so glad they understood and worked with me so I wouldn't have to go back there.",
+        "What did you end up doing instead?",
+        "When my schedule said I had free time, I went to different classrooms each day until the end of the year."
+    ],
+    "dialogue409": [
+        "What have other people said about that incident?",
+        "When I told it to [B-PE[I-PER]], she said she wished she had known me when I had Mrs. [I-PER]ude.",
+        "Why did she wish she had known you back then?",
+        "She said she would run Mrs. [I-PER]ude right over!",
+        "Oh my gosh! I'm almost glad she didn't know you then.",
+        "It doesn't matter anymore, anyways. It's all in the past.",
+        "I'm glad you don't let an incident like that bother you too much anymore.",
+        "Yeah, it's whatever. Everyone's dealt with bad teachers in their lifetime."
+    ],
+    "dialogue410": [
+        "What was it like to have [B-PER] stuck with you during the snow storm?",
+        "It was great. I told her lots of stories for a bit, and then she got up to go do some chores.",
+        "What chores did she need to do?",
+        "She said she was going to grab clothes from the dryer. She was going to do dishes, too, but then she asked if she could skip those.",
+        "That sounds like a lot. Were you okay with her skipping them?",
+        "Of course. I told her she could, and then she came over and hugged me.",
+        "That's sweet of her. She seems like she hugs you a lot.",
+        "Yes. This time, I could see her naked underneath her pajamas, but I didn't say anything."
+    ],
+    "dialogue411": [
+        "How did the snow get taken care of during the snow storm?",
+        "[B-PER] shoveled it for me. She looked like a walking marshmallow in all of her coats!",
+        "That's funny to imagine! She must have been very cold when she came in.",
+        "Yes. The snow was very heavy, so when she came in she said she was freezing and wet.",
+        "I bet! Was she able to warm up?",
+        "Well, after she got out of her clothes she asked, \"do you want to cuddle with me?\"",
+        "Oh wow, good for you! Did you say yes?",
+        "Of course! We cuddled for a while. She said I was warming her up."
+    ],
+    "dialogue412": [
+        "Did you have any other negative interactions with teachers?",
+        "I remember one time, I was passing by the lunch room and had another bad interaction with Mrs. [I-PER]ude.",
+        "Oh no! What happened with the lunch room?",
+        "Well, I saw something going on in the lunchroom, so I asked my teacher what was going on and Mrs. [I-PER]ude said \"why were you there?\"",
+        "Oh boy. How did you respond to her?",
+        "I told her I was trying to get here on time, because she always yells at me if I am late!",
+        "It sounds like she'll yell at you no matter what you do!",
+        "Just about, yeah! I told her I needed to go to the bathroom, so I was able to take another peek."
+    ],
+    "dialogue413": [
+        "Did you ever attend any after school programs or clubs?",
+        "I remember finding out about a late school program in the lunch room.",
+        "Oh, that's cool! Did you end up going to it?",
+        "They said my transportation for it hadn't been approved, so I did some research myself.",
+        "Oh good for you! What did you find out?",
+        "I found out the bus already went to deaf school to get a person, so I argued, why can't they get me too?",
+        "Did that end up working out for you?",
+        "Yes, it took about a month, but I got the transportation approved for it."
+    ],
+    "dialogue414": [
+        "Do you remember any of your helpers at school?",
+        "Yes. There was one named [B-PER]. We became friends.",
+        "Oh, that's nice! How did you become friends?",
+        "We got to know each other really well. We would joke around a lot during the late school program.",
+        "Oh good! It's nice to have helpers that you enjoy being around.",
+        "Yes, exactly! We would hang out outside of the school program too, we went camping and got lots of food.",
+        "It sounds like [B-PER] was a really important person in your life.",
+        "She was. We were very close for a while."
+    ],
+    "dialogue415": [
+        "How often did you see [B-PER]?",
+        "I saw her every Tuesday and Thursday, and we were talking, joking around, and helping her out for the year.",
+        "That's wonderful! What happened once that experience ended?",
+        "So, I waited until fall to stay in the late school program, and I saw [B-PER] again! She was leaving; I yelled for her, she stopped and turned her head around.",
+        "It's good that you could see her again after some time away!",
+        "She came next to me, and she told me that she isn't working anymore and I wish that I could talk to you more but I can't. I'm sorry.",
+        "Oh that's sad. Was that the last time you saw her?",
+        "Yes. A few months went by, and I never saw or heard from her again."
+    ],
+    "dialogue416": [
+        "How did it feel when [B-PER] said she couldn't talk to you anymore?",
+        "It really hurt. We had been close for so long, but she said she couldn't talk to or see me anymore.",
+        "Why did she say something like that?",
+        "She told me she wasn't working anymore, so she wouldn't be able to see or talk to me.",
+        "That sounds like a really hard change for you.",
+        "Yeah. After that, I never saw or heard from her again.",
+        "I'm so sorry to hear that, [B-PER]. That must have been upsetting.",
+        "I was sad because I felt that I lost my best friend and it wasn't the same anymore, when she was here and when I saw her."
+    ],
+    "dialogue417": [
+        "What did you think when you heard [B-PER] wasn't working anymore?",
+        "I was a little worried that maybe she got fired because of me.",
+        "Why would she have gotten fired? Because you were friends when she was supposed to just be a helper?",
+        "Maybe. I don't get it. I can't help that I'm a caring person and like to listen to my helpers' problems.",
+        "Yeah, you should still be allowed to make friends.",
+        "It frustrates me. Other people meet all the time, at their job, at the bank, everywhere you go you can meet people.",
+        "Yes. You're still a person just like everyone else, you should be able to make friends the same ways, too.",
+        "Exactly. Just because I have a disability doesn't mean I can't make friends."
+    ],
+    "dialogue418": [
+        "You said you had another friend with cerebral palsy. What is he like?",
+        "He couldn't talk, so he used a device similar to the device like mine, but it is for other companies.",
+        "Oh, it's cool that you use similar things. Does he have helpers like you do?",
+        "Yes. He needs staff to help him with what he needs like me, but one day he got a new staff member to help him.",
+        "Oh, what was she like?",
+        "Over the years, they became best friends, then-girlfriend and boyfriend, and they got married.",
+        "Oh wow! So he found his wife because she was originally his helper.",
+        "She did stop working for him because she knew that it was no, no, at her job, so she asked for a different client because she fell in love with him and wanted to stay with him."
+    ],
+    "dialogue419": [
+        "How did you know your friend with cerebral palsy?",
+        "He went to a different school and graduated high school.",
+        "Good for him! What is his cerebral palsy like?",
+        "His cerebral palsy is different from mine: he can't control his body.",
+        "Oh, wow. That sounds like it would be tough to handle.",
+        "Yes. He has to be tied down in the wheelchair, because if he isn't he may hit people.",
+        "That's scary! But it's good you were able to look past that and see him for the person he really is.",
+        "Yes. I did get a few shocks from him, but I knew he couldn't control it."
+    ],
+    "dialogue420": [
+        "How did [B-PER] react when you told this story?",
+        "She turned to me after I finished and said, \"I'm sorry, [B-PER].\"",
+        "That's odd. Why did she apologize?",
+        "I asked her that, too, but she just said \"because.\"",
+        "Interesting. Were you enjoying telling her all these stories?",
+        "Yes, I was. At the time she was sitting on me with no clothes on.",
+        "Wow, alright. I'm glad you were having fun.",
+        "Yes. I wanted her to know everything about me."
+    ],
+    "dialogue421": [
+        "You said you went camping a lot. How did you get around the campground?",
+        "The campground has golf carts for people, but I also had a power wheelchair.",
+        "Oh, wow! What is your power wheelchair like?",
+        "It was the best thing I had. [B-PER]. and [B-PER]s. [I-PER] and [B-PER]. [I-PER] gave it to me years ago.",
+        "That's so nice of them to give that to you!",
+        "It was! But it started breaking because of the rocks, road, and potholes.",
+        "That's a shame. Was it able to be fixed?",
+        "Mr. [I-PER] tried, but the battery was dying, so my parents brought a golf cart for me to ride around in."
+    ],
+    "dialogue422": [
+        "What was it like to ride on a golf cart?",
+        "It was nice. My sister, brother, and parents would take me to ride around the campground.",
+        "Did you ever get to drive it?",
+        "Yes! But at first, I would sit in the back and daydream about driving it.",
+        "It sounds like it was a lot of fun.",
+        "Yes. Sometimes my brother would hit potholes. Once, I fell out of the golf cart!",
+        "Oh, wow! I hope you weren't hurt!",
+        "I wasn't. But it was ncie to be able to take the wheel myself."
+    ],
+    "dialogue423": [
+        "What was it like to have your birthday while you were there?",
+        "It was my 16th birthday. I had a great time.",
+        "What did you do on your 16th birthday?",
+        "Mr. [I-PER] gave me his old golf cart!",
+        "Oh wow! That's really generous of him.",
+        "Yes! Mr. [I-PER]. gave it a nice paint job. And then I got to drive it around all by myself!",
+        "It sounds like that was a wonderful birthday gift.",
+        "Yes. It was the best birthday ever!"
+    ],
+    "dialogue424": [
+        "Tell me about your time at your grandparents and uncles house?",
+        "When i was 17 years old, my parents left me at my grandparents house for some time because my mom was going to [B-LOC] to see my sister.",
+        "Why was your mom going to [B-LOC]",
+        "She is going to see my sister who is having a baby",
+        "what was your reaction when you heard your mom talk about your sister having a baby",
+        "I was so happy and i said to myself \"I am going to be a uncle, I am going to be a uncle.That's wild!\"",
+        "What did you did at your grandmothers place after your mom left",
+        "I watched a lot of movies my grandmother played on the VCR and i kept it a secret from my parents about it."
+    ],
+    "dialogue425": [
+        "Tell me about the your golf cart",
+        "Over the summer, I rode a golf cart around and i took [B-PER] for rides. After a few years the battery from the golf cart was getting old and dying fast",
+        "what did your uncle give your family on chirtmas",
+        "My uncle gave my parents a christam card and asked them to open it, we found that he gave a check for us to buy a new gas gold cart",
+        "Did you enjoy the new golf cart?",
+        "I was excited to get it at first, but when my parents put me in the golf cart . I had a problemIt was too big for me to drive. I couldn't drive so i was sad. But my dad put a battery in my golf cart and said \"next year you have to buy six batteries for your golf cart\"",
+        "What happened after that?",
+        "My uncle didn't want that and he asked me if i wanted to get a new golf cart, I said yes and he took me to a golf cart shop and asked me to try them and pick the one i like, I was so happy that i was getting a new golf cart."
+    ],
+    "dialogue426": [
+        "Tell me about the girl you met at the beach of the campground",
+        "Everyone was thought my golf cart was cool when they saw me riding it on the beach, Girls came over to see it and they asked me if they can ride on it, I said \"NOO\" to them. But that's when a gilr came and whisphered in my ear that she will flash me if i take her",
+        "What happened what you took her on the ride?",
+        "She got on her knees on the golf cart floor and flashed me i was so excited and she also said to me that i can touch her if i want to. But i said no ",
+        "Did she leave after that?",
+        "I dropped her but she herard someone call me [B-PER] and called my name and told me to meet her after dinner.",
+        "Did you go to her after Dinner?",
+        "Yeah after eating Dinner, I took my golf cart and went to her camp and gave her a ride and showed her all my favourite places. She told me that she was leaving tonight and gave her number to me, i waited when she was leaving and she came out of her car and kissed me and told me to call her."
+    ],
+    "dialogue427": [
+        "Are you thirsty?",
+        "Yes.",
+        "Me too. Hey, before I give you a drink, I have a question. Did you call her?",
+        "I didn't.",
+        "Why not?",
+        "Because I can't talk and I hate the telephone.",
+        "Oh [B-PER], Oh [B-PER]. She was into you.",
+        "I know, and I wished that I did. If i had called her then i have to make someone else talk for me that made me feel uncomfortable."
+    ],
+    "dialogue428": [
+        "Why didn't you call her?",
+        "I wished i did. If i called her, then i had to let someone talk for me, That made me uncomfortable, but i thought about her for a few years when i was camping there",
+        "Okay i will go a get us drinks wait for me",
+        "Okay, don't forget my special cup",
+        "Can you take your shirt off, i am afraid i will spill on it",
+        "Okay help me take it off",
+        "Okay, Do you want to drink now",
+        "Yes, I would love to"
+    ],
+    "dialogue429": [
+        "Do you want your shirt back on after drinking?",
+        "Are we going back to cuddling and continue writing?",
+        "Yes, we are.",
+        "Then i dont want my shirt",
+        "Why not?",
+        "Because i am boiling when i am cuddling with you",
+        "[B-PER]he, I would like to write 3 or 4 chapters, Is that Okay?",
+        "Sure"
+    ],
+    "dialogue430": [
+        "When did you get a new teacher?",
+        "I had a few years left for school and i got a new teacher called Mr.[I-PER]",
+        "What was you reaction to him?",
+        "I was shcoked because he is the reading teacher, and he is the principaltoo when the principal is not at school",
+        "what is yor impression of him?",
+        "I was scared because i heard about him over the years and he doesn't play around",
+        "What did you hear about him?",
+        "when a student is bad he makes them sit outside the class or make them go to the principals office."
+    ],
+    "dialogue431": [
+        "Why are you scared of me?",
+        "I heard you're really strict.",
+        "I am strict, but I'm also fair. I expect my students to behave and to work hard.",
+        "I'm worried I'm going to get in trouble.",
+        "You won't get in trouble if you follow the rules.",
+        "But I'm not always good at following the rules.",
+        "That's okay. We all make mistakes. But if you make a mistake, you need to own up to it and learn from it.",
+        "Okay Mr.B, I will work hard"
+    ],
+    "dialogue432": [
+        "What's wrong?",
+        "Mr. [I-PER], I'm a little nervous about having you as my teacher.",
+        "why are you nervous?",
+        "I heard you are very strict",
+        "I am tough, but I'm also fair. I expect my students to work hard and to behave.",
+        "I am worried that i will make mistakes",
+        "Everyone makes mistakes you just have to learn from them",
+        "Thanks, Mr. [I-PER]."
+    ],
+    "dialogue433": [
+        "How did your teacher treat you?",
+        "He never put me outside of his classroom or sent me to the principals office",
+        "How was your relationship with him?",
+        "Sometimes we wouldn't agree on something, but we still worked it out",
+        "What did you do when you were at fault",
+        "I apologized to him when i was wrong ",
+        "How were you doing in his class later on",
+        "I got better in his class over the months"
+    ],
+    "dialogue434": [
+        "What did your teacher say to you?",
+        "He said that he was my teacher and that he wanted me to learn everythin I can",
+        "Did he say anything else?",
+        "He said he was going to play games on me because he wants me to learn how to handle.",
+        "What did you say when he said that",
+        "I said to him, \"OK, can I play too?\"",
+        "what happened after that?",
+        "We were playing with each other, and I was doing better in his classroom over months."
+    ],
+    "dialogue435": [
+        "Dont apologize, I am your teacher, but i want you to learn everything you can",
+        "Okay teacher",
+        "Sometimes I am going to play games on you because i want you to learn how to handle it",
+        "OK, Can i play too?",
+        "Yes, Because you will help me with what you are thinking",
+        "Really ?",
+        "Yes, but you should work on your device and computer more",
+        "Okay teacher, I will"
+    ],
+    "dialogue436": [
+        "How long did you go to summer school",
+        "I went to summer school for two years",
+        "Why did you go to summer school ?",
+        "I loved it there because they had field trips every week.",
+        "Did they ask you to come again",
+        "Yeah they asked me if i wanted to go there for the third year",
+        "What did you reply to them ?",
+        "I said no, becuase i missed being outside."
+    ],
+    "dialogue437": [
+        "What did you love the most about summer school",
+        "I loved going on field trips every week, and seeing my friends",
+        "What did you miss when you are at the summer school?",
+        "I missed being outside and i missed driving my golf cart and going to the beach",
+        "Were you bad at studies? Is that why you went to the summer school?",
+        "No i wasn't, going to summer school doesn't mean i was behind on schoolwork and bad at studies. I just enjoyed a lot over there",
+        "How was you summer?",
+        "I was a busy person during the summer with me going to the summer school"
+    ],
+    "dialogue438": [
+        "Did youn wanted to go to the summer school again?",
+        "No i already went for 2 years, i didn't want to go for the third",
+        "why didn't you?",
+        "I missed being outside, and i missed driving my golf cart",
+        "Then why did you go there for 2 years?",
+        "Because i could go to field trips every week and see my friends",
+        "Did you have fun at the summer school",
+        "Yeah, I had so much fun playing there"
+    ],
+    "dialogue439": [
+        "Where did you learn that the graduates are going somewhere?",
+        "When i was with Mr. [I-PER] i learned that the graduates are going somewhere",
+        "Did you also wanted to go with them?",
+        "Yes, I really wanted to go with them and Mr.[I-PER] even said that if someone dropped out i could get a chance to go. [I-PER]ut no one dropped out and i was sad",
+        "What was the trip about and where did they go?",
+        "It was the annual graduates trip, It happens every May. For this time they went to [B-LO[I-LOC]] [I-LO[I-LOC]].[I-LOC] for the trip.",
+        "What did you do when they left for the trip",
+        "I had a schedule for the week but i still relaxed a bit"
+    ],
+    "dialogue440": [
+        "When was the graduation?",
+        "The graduation came after the prom which happens in june.",
+        "Did you get to go on the trip?",
+        "I didn't go with on the first year I was in Mr. [I-PER]'s classroom.",
+        "What were the different places you could go on the trip?",
+        "there were only two options it was either [B-LO[I-LOC]] or [B-LO[I-LOC]] [I-LO[I-LOC]][I-LO[I-LOC]][I-LOC]",
+        "what did the school decide on in the end?",
+        "They decided the trip will be to [B-LO[I-LOC]]hingtion [I-LO[I-LOC]].[I-LOC]"
+    ],
+    "dialogue441": [
+        "When was your birthday",
+        "My birthday's on September 1, the school always starts after my birthday",
+        "when did you think you would graduate?",
+        "I thought I was going to graduate when I was 20 years old",
+        "How did you feel when you couldn't go on the trip?",
+        "I was sad at first but it was okay, My homeroom teacher went with them to [B-LO[I-LOC]] [I-LO[I-LOC]][I-LO[I-LOC]][I-LOC]",
+        "What did you do when Mr. [I-PER] wanted you to go with them",
+        "I was so excited and worked so hard i could go on the trip with them"
+    ],
+    "dialogue442": [
+        "Who told you that you could go on [B-LO[I-LOC]] [I-LO[I-LOC]][I-LO[I-LOC]][I-LOC] trip?",
+        "Mr[I-LO[I-LOC]] [I-PER] told me that i was going to [B-LO[I-LOC]] [I-LO[I-LOC]][I-LO[I-LOC]][I-LOC] trip, I was so excited when i heard that",
+        "How long is the trip?",
+        "Its around 5 days, we are leaving Monday morning and coming back on Friday.",
+        "Since you were so excited for this trip how did you prepare and pack things the trip?",
+        "My Mom helped me, she took me to clothes shopping and helped me pack things for the trip",
+        "how did you feel that night ?",
+        "I went to bed early since i had school the next day, but i couldn't sleep with all the excitement"
+    ],
+    "dialogue443": [
+        "What was your daily schedule when you were going to school?",
+        "My schedule was same everytime, I got dressed , ate and waited for my school bus",
+        "How was your ride from your house to the school? Did you enjoy it?",
+        "I was always on time because I had a good bus company to take me to school and home",
+        "What was your friends reaction when you got to the school on Monday?",
+        "I got to the school and little early and all my friends were shocked to see since they all know that i had a long ride.",
+        "Did they help you in someway?",
+        "Yeah they changed the bus route for me since they knew i was going on a trip. Because of this i had time to go to the bathroom and eat a doughnut"
+    ],
+    "dialogue444": [
+        "Tell me about the trip to [B-LO[I-LOC]] [I-LO[I-LOC]].[I-LOC]?",
+        "I always wanted to go on a trip and Mr.[I-PER] said i was going this time",
+        "Oh that's great, How did you feel when you heard him say that",
+        "I was so excited, I told my Mom all about it and she took me to shop for clothes and helped me pack things for the trip",
+        "That sounds very nice, What was your routine like on Monday",
+        "I had the same routine everyday, I got dressed, ate and waited for my bus to go to school",
+        "Were you happy when you got know they chnaged the bus routes for you?",
+        "I was very happy, because of that i had the time to go to the bathroom and eat a doughnut .I always enjoyed going on the bus, I had very good company during the ride."
+    ],
+    "dialogue445": [
+        "Why was your bus taking so long?",
+        "Our long bus was having some problems.",
+        "Oh no. What ended up happening?",
+        "We had to go on two different buses. It was tough",
+        "Why was it so tough? Was there not enough room?",
+        "There were nine students and five of them had power wheelchairs. There were only four wheelchair spots in the bus ",
+        "That must have been a tight squeeze with the smaller buses. Did it work out okay?",
+        "We made it work with the two smaller buses"
+    ],
+    "dialogue446": [
+        "What happened with your bus?",
+        "It was having some problems, so we had to get two smaller buses.",
+        "Oh damn. How did that end up working out?",
+        "We had to have one person ride in a wheelchair on the smaller bus.",
+        "Really? Did they let you do that?",
+        "They did, but we had to call their parents and get the parents' permission for it",
+        "That makes sense. Did the parents say it was okay?",
+        "They did yes, so it worked out."
+    ],
+    "dialogue447": [
+        "Why did you end up taking two short buses?",
+        "The long bus was having some problems, so we had to switch buses.",
+        "Oh wow. How long were you waiting before you switched to a different bus?",
+        "About 2 hours.",
+        "Oh wow. Did things work out with the two smaller buses?",
+        "It was a little tough, because there were two buses and nine students.",
+        "That makes it tough, splitting an odd number into two groups. Did you end up working it out alright?",
+        "Yes we did, it all worked out in the end."
+    ],
+    "dialogue448": [
+        "Why didn't anyone want to sit in the back of the school bus?",
+        "Because a lot of the students couldn't handle the bumping from the bus hitting the potholes",
+        "That makes sense. Who ended up sitting in the back of the bus then? ",
+        "I did. I sat in the back of the school bus.",
+        "Oh so you volunteered. Why did you do that?",
+        "I knew my body could handle it.",
+        "That was nice of you. When did you finally get going?",
+        "We left around 11 a.m."
+    ],
+    "dialogue449": [
+        "Did you like sitting in the back?",
+        "I wasn't crazy about it.",
+        "Oh. Then why did you sit there?",
+        "Because no one else wanted to and I knew my body could handle it.",
+        "Wow. I don't think I would've done that. How many times did you stop on the ride?",
+        "We stopped a few times, mainly for eating and the bathroom",
+        "That's good at least. What were you doing on the ride?",
+        "I was looking everywhere I could"
+    ],
+    "dialogue450": [
+        "What was the little problem that didn't let you leave?",
+        "No one wanted to sit in the back of the van.",
+        "Why was that?",
+        "Because there was a lot of bumping from the potholes in the back.",
+        "That makes sense. What ended up happening?",
+        "I sat in the back. ",
+        "So you sat back there so you could get going on the trip?",
+        "Yes. After that we finally got going."
+    ],
+    "dialogue451": [
+        "School must be close to being done. How many more weeks do you have?",
+        "There were five more weeks. School was starting to wind down.",
+        "So almost done then. Did you have to take any big tests at the end of the year?",
+        "No I didn't have to take them. Mr. [I-PER] tested me out of the school year.",
+        "That seems really nice of him. Why did he do that?",
+        "Because he knew I was smart.",
+        "I'm glad he was able to see that in you. Did he do anything that really helped you understand?",
+        "Sometimes he would say it over and over again until I understood. If I didn't understand, he would say it in a different way so I could understand. "
+    ],
+    "dialogue452": [
+        "Who were you staying with in your room?",
+        "I was staying with Mr. [I-PER].",
+        "That's cool. When you got to the room, did he say anything to you?",
+        "He told me thank you and that he owes me one.",
+        "Oh I see. What does he owe you one for?",
+        "He owed me for sitting in the back of the bus.",
+        "That makes sense. What did you tell him?",
+        "I told him not to worry about it."
+    ],
+    "dialogue453": [
+        "What did you do after you woke up?",
+        "We went to our scheduled places",
+        "Very cool. Where did you go?",
+        "We went to the [B-LOC] [I-LOC] and to some museums",
+        "That sounds like a lot of fun! Did you get to see the president?",
+        "No I didn't. I'm not sad about that though.",
+        "Oh really? Why is that? I thought you would have been.",
+        "Well the president at that time was [B-PER] [I-PER], and I wasn't crazy about him"
+    ],
+    "dialogue454": [
+        "What did you do after you went to all the museums and to the [B-LOC] [I-LOC]?",
+        "We went to dinner and I was starving.",
+        "Oh I love dinner after a busy day. Did you eat a lot of food?",
+        "Yes. I ate and I ate and I ate!",
+        "Wow. How much food did you eat?",
+        "I ate enought food for two people!",
+        "Oh damn. What did everyone else thing?",
+        "They were shocked, but they knew I could eat for two people,"
+    ],
+    "dialogue455": [
+        "After dinner, what did you end up doing?",
+        "I went into the hotel lobby. ",
+        "Did you go there to people watch again?",
+        "I did yes. That night I stayed down there for a few hours.",
+        "That sounds like fun. Did anything exciting happen?",
+        "A different teacher came down and gave me a sip of pop. ",
+        "Ooo that's nice. Did you see any of the same people from last night?",
+        "I did yes. They smiled at me when they saw me. "
+    ],
+    "dialogue456": [
+        "How were you feeling when you went down to dinner?",
+        "I was starving, so I ate and ate! I ate enough for two people!",
+        "Oh damn. Did anyone react to how much you ate?",
+        "Yes they did. They were all shocked!",
+        "I can imagine. What did wou do after dinner?",
+        "I went back to the hotel for the night.",
+        "Very nice. Did Mr.[I-PER] go back with you?",
+        "No. He had to stay and help the other people. "
+    ],
+    "dialogue457": [
+        "Did anything happen Wednesday morning?",
+        "It started with Mr. [I-PER] talking with the bus driver.",
+        "Do you know what they were talking about?",
+        "Apparently they wanted me to sit in the front behind the driver.",
+        "So you had to move from the back to the front. Did they tell you why?",
+        "The driver said he wanted me to keep him company. he also asked if I would hit him in the arm a few times.",
+        "Weird. Did her explain to you why he wanted you to do that?",
+        "No he didn't. But I did what he asked me to."
+    ],
+    "dialogue458": [
+        "What did you do Wednesday morning after breakfast?",
+        "We went back to the school bus. I was asked to sit in the front today.",
+        "Do you know why they asked you to do that?",
+        "The driver wanted some company. Apparently they thought that I would be the right choice for that.",
+        "That was nice of you to agree. What did you do after that?",
+        "We went to some more museums that day. Then we went back to the hotel.",
+        "That sounds like fun. Why did you go back to the hotel?",
+        "We had to pack up our stuff because we were going to [B-LOC], [B-LOC] on Thursday."
+    ],
+    "dialogue459": [
+        "What did you do on Thursday after you went back to the hotel?",
+        "On Thursday we packed up our bags.",
+        "Oh that's no fun. Why did you need to pack up your bag?",
+        "We were leaving the hotel and going to [B-LOC], [B-LOC], so we needed to pack our bags.",
+        "I see. Did it take you long to pack up your bags?",
+        "No it didn't. I also got Mr. [I-PER] to help me with it.",
+        "That's very nice. Is that why it didn't take long?",
+        "Well I didn't unpack and I lived out of my bags, so that also helped make ot quick."
+    ],
+    "dialogue460": [
+        "What did you do for dinner that night?",
+        "Mr. [I-PER] and I went to different places for dinner. We walked to a different restaurant.",
+        "Oh that's very nice. What kind of restaurant did you go to?",
+        "We went to what I thought was a four-star restaurant",
+        "That sounds like a fancy restaurant. Did you eat a lot of food there?",
+        "At first, I didn't no. [I-PER]ut then Mr. [I-PER] insisted.",
+        "That sounds like something Mr. [I-PER] would do. Why didn't you want to eat a lot of food there at first?",
+        "The food was expensive. It costed more than twenty dollars a plate."
+    ],
+    "dialogue461": [
+        "What did you have to eat that night?",
+        "Even though the plates, were kind of expesive I had quite a bit of food.",
+        "I'm glad you got enough food. How much did the food cost?",
+        "It was pretty expensive. Most of the plates cost over 20 dollars.",
+        "Oh wow. How did you afford it?",
+        "Mr. [I-PER] ended up paying for it. He insisted on it.",
+        "That was very nice of him. What did you end up having?",
+        "I had two dishes of food for a main meal and I had pie with ice cream for dessert."
+    ],
+    "dialogue462": [
+        "How did you get to dinner that night?",
+        "Mr. [I-PER] and I decided to walk to dinner that night.",
+        "A late night walk is always nice. Where did you end up eating?",
+        "We went to this restaurant that I thought was a four-star restaurant. ",
+        "Ooo that sounds really good. Did you end up having to pay for the food?",
+        "No I didn't. Mr. [I-PER] insisted that I could order anything I wanted and he would pay for it.",
+        "That is nice of him. Did he tell you why he did that?",
+        "He said that he and the driver wanted to treat me to a nice dinner."
+    ],
+    "dialogue463": [
+        "Did anything else happen at the restaurant?",
+        "Yea it did. The other teachers came into the restaurant.",
+        "Interesting. What did they do when they got in the restaurant?",
+        "They came to our table and sat down with us.",
+        "Did Mr. [I-PER] ask you to leave so that he could talk to the teachers?",
+        "No he didn't. He told me to stay, and told me that he wanted me to be there.",
+        "I wouldn't have expected that. What did the teachers talk about?",
+        "They talked about [B-LOC], our plans, and what things to watch for."
+    ],
+    "dialogue464": [
+        "What happened in the restaurant after you guys finished eating?",
+        "The other teachers came into the restaurant and sat down at our table.",
+        "Oh interesting, what did the teachers want?",
+        "They wanted to talk with Mr. [I-PER] about the rest of the trip.",
+        "That makes sense. What did they end up talking about?",
+        "They talk about the rest of the things that were going to happen on our trip. ",
+        "What were you doing as they were talking about all the things for the teip?",
+        "I was listening to them talk, and also looking around everywhere."
+    ],
+    "dialogue465": [
+        "Did anyone one else come to the restaurant to eat with you and Mr. [I-PER]?",
+        "No, no one came to eat with us, but the other teachers did come to talk with Mr. [I-PER].",
+        "Oh I see. Why did the other teachers come to the restaurant?",
+        "They came to the restaurant to take some time to talk with Mr. [I-PER] about the trip.",
+        "That makes sense. They probably needed to talk about what was going to happen on the rest of the trip.",
+        "That's what they did yes. They talked about [B-LOC] and the other things that were going to happen.",
+        "What did you do while they talked?",
+        "I was looking everywhere I could, as it was a new place. I was also listening to them talk."
+    ],
+    "dialogue466": [
+        "Did you do anything after dinner was done?",
+        "Yes. One of the other teachers asked if he could take me on a walk.",
+        "What did Mr. [I-PER] think about that teacher going on a walk with you?",
+        "He thought it was fine. He told the other teacher sure in response. ",
+        "That was nice of him. Where did you and the other teacher go on your walk?",
+        "We stopped a few times at different dancing clubs.",
+        "Did you do anything after going out to the dancing clubs?",
+        "Some girls offered to go get food with them, but I declined. I had to go back to the hotel and go to sleep."
+    ],
+    "dialogue467": [
+        "What did you do after you were done with dinner?",
+        "I went on a walk with a different teacher after dinner.",
+        "A walk after dinner is always nice. Did you do anything on the walk?",
+        "The two of us went to a few dancing clubs.",
+        "Very fun. Did you have any drinks while you were at the dancing clubs?",
+        "We didn't have any drinks because the teacher was working and I was under 21.",
+        "That makes sense. Did you meet anyone at the dancing clubs?",
+        "Yes I did. I met a few girls at the dancing club."
+    ],
+    "dialogue468": [
+        "What time did you stop at the dancing clubs?",
+        "I didn't stop until 2 a.m. I had a few girls dancing all around me.",
+        "Good for you. Why did you stop if you had girls around you?",
+        "We were going to [B-LOC] the next day, and I didn't want to make the teacher stay up.",
+        "That makes sense. Did the girls want you to keep hanging out with them?",
+        "They did yes. They invited me to go eat with them.",
+        "Oh dang. Were the girls good looking girls?",
+        "They were yes. All four girls were hot. "
+    ],
+    "dialogue469": [
+        "Did you get to sleep in at all after that late night?",
+        "Not really. I woke up around 9 am.",
+        "Oh dang. I would have slept for longer.",
+        "Oh yea, I was downstairs before 10 am, and I took a shower.",
+        "Good for you. Were you the first one down to the lobby?",
+        "I was yes. The hotel staff starting good morning to me.",
+        "That's nice. I assume that your peers started coming down eventually?",
+        "Yes they did. It was after 11 am though."
+    ],
+    "dialogue470": [
+        "What did you do that morning when you woke up?",
+        "Well I woke up around 9, and then I took a shower and wnt downstairs around 10.",
+        "What did Mr. [I-PER] think about you being up so early after your late night.",
+        "He was shocked that I was up so early.",
+        "I would have been too. Did you say anything to him in response?",
+        "I told him I was because I just kept thinking about the four girls from last night.",
+        "Did you go downstairs to eat after that?",
+        "I went downstairs, but I was the first one down there, so I had to wait."
+    ],
+    "dialogue471": [
+        "When did you end up waking up after going out to the dancing clubs?",
+        "I woke up around 9 am, and headed downstairs around 10 am.",
+        "Wow that's early for your late night. What time did you eat breakfast at?",
+        "It wasn't until after 11 am. We ate breakfast and lunch together due to the time it was.",
+        "Oh wow. Why did you eat breakfast so late?",
+        "We had to wait for all the students to come down to the lobby to eat.",
+        "That sounds annoying. Do you wish you wouldv'e slept longer then?",
+        "Yes definitely. I could have slept an extra 90 minutes and still made it fine."
+    ],
+    "dialogue472": [
+        "What did you do while you ate the combo breakfast lunch?",
+        "We some time to relax, so we were just joking around.",
+        "That's nice, getting to relax. When you finished eating, what did you do?",
+        "We had time to use the bathroom, and then it was time to get back on the school bus.",
+        "Very nice. Were you on your way to [B-LOC]?",
+        "That was the next stop. The driver said it was about 2-3 hours away.",
+        "That isn't too bad. Would it be faster if you didn't stop?",
+        "Yes it would be. If we didn't stop it would be less than 2 hours."
+    ],
+    "dialogue473": [
+        "Why were you looking around after the meal?",
+        "I thought that I saw something so I was looking around.",
+        "Oh. What did you think you saw?",
+        "I thought that I saw a few girls from yesterday.",
+        "Did you actually see the girls from yesterday?",
+        "No I didn't. I just kept doing what I was doing.",
+        "What did you end up doing after that?",
+        "We had a bit of a bathroom break and then got on the bus."
+    ],
+    "dialogue474": [
+        "Who ending up getting on the bus first?",
+        "I was the first one to get onto the school bus. ",
+        "Oh okay. What did you do once you got onto the school bus?",
+        "I asked the driver how far it was to [B-LOC].",
+        "That makes sense. How far did he say it was?",
+        "He said it was about 2-3 hours, but could be quicker if we didn't stop.",
+        "I see. Did you want to stop on your way to [B-LOC]?",
+        "I didn't no. I wanted to get there as quick as we could."
+    ],
+    "dialogue475": [
+        "What happened when you guys went to leave?",
+        "Only one of the buses would start up, and the other one wouldn't",
+        "Oh no, that's not good. What did this mean?",
+        "It meant that only half the students could leave.",
+        "That makes sense. Were you on the bus that could leave?",
+        "Yes I was. [I-PER]ut I asked if Mr. [I-PER] wanted me to stay back so another student could go.",
+        "That was nice of you to offer. What did he say?",
+        "He said that I should go ahead and keep the bus driver company."
+    ],
+    "dialogue476": [
+        "What happened to the one bus?",
+        "It wouldn't start up again, so only one bus could leave.",
+        "Oh no. Was it your bus that broke down?",
+        "No it wasn't. My bus was working fine.",
+        "That's nice at least. So did you leave then.",
+        "I did yes. I asked Mr. [I-PER] if I should stay but he said I should go ahead.",
+        "That was nice of him. How was the ride?",
+        "It was a nice ride, and he didn't stop at all."
+    ],
+    "dialogue477": [
+        "How long did it take for you to get to [B-LOC]?",
+        "We got there in two hours and fifteen minutes.",
+        "That sounds pretty quick. Did you have to stop at all?",
+        "No we didn't. The only stop was when we got to the hotel.",
+        "I got you. What did you do when you got to the hotel?",
+        "We unpacked the bus and then went to our rooms.",
+        "What did you do once you got all unpacked.",
+        "I went down to the lobby and people watched. A few students joined me."
+    ],
+    "dialogue478": [
+        "When did the other students get to [B-LOC]?",
+        "The other students arrived hours after we got there.",
+        "What teacher was with the students?",
+        "Mr. [I-PER] had stayed back with the students.",
+        "That's good. What did he do when he saw all of you?",
+        "He talked to the teachers and asked why we weren't at the museum.",
+        "What did the other teachers say to him?",
+        "I told him that I had had to use the bathroom and that's why we hadn't left yet."
+    ],
+    "dialogue479": [
+        "What did Mr. [I-PER] say after you told him why you hadn't left yet?",
+        "He said that it was okay, and that he was sorry.",
+        "That was good that he did that. Why was he upset?",
+        "He was upset because he wanted us to go places to learn.",
+        "Going places definitely one of the best ways to learn. Where were you supposed to go?",
+        "We were supposed to be at museums, but we were at the hotel instead.",
+        "That makes sense. Was there anywhere else you were supposed to go?",
+        "We were also supposed to go to a battlefield in [B-LOC]."
+    ],
+    "dialogue480": [
+        "Who did you see come in the door after you were there for hours?",
+        "We saw Mr. [I-PER] and the students walk in after we had been there for hours.",
+        "What did the other students say when they saw Mr. [I-PER] come in?",
+        "They all said \"Oh damn, Mr. [I-PER] is here\"",
+        "That would make sense, but why do you think that?",
+        "It's because the first thing he said was that he had asked the other teachers to take us to the museum.",
+        "That makes sense. Why weren't you at the museum yet?",
+        "Because I had to go to a different room to use the bathroom."
+    ],
+    "dialogue481": [
+        "Once everyone was there, did they split the students into groups?",
+        "Mr. [B-PER] did yes. There were three groups.",
+        "That makes sense. What did each group end up doing?",
+        "The first group had a pizza party. The second had pizza and then went to relax. The third went to the museum.",
+        "Lots of different things then. Which group were you a part of?",
+        "I was a part of the group that went to the museum.",
+        "I see. Did Mr. [I-PER] go with you to the museum?",
+        "No he didn't. He stayed with the other students and helped with the pizza party."
+    ],
+    "dialogue482": [
+        "How did you enjoy the museum?",
+        "I enjoyed the museum. It was a nice museum.",
+        "That's very good. How long did you stay at the museum?",
+        "We ended up staying there for around three hours.",
+        "Very nice, I love museums. Who stayed back with the other groups?",
+        "Mr. [B-PER] stayed at the hotel to help with the other groups.",
+        "That was nice of him. What did he do at the hotel?",
+        "He led the pizza party. shouting \"It's time for a pizza party!\""
+    ],
+    "dialogue483": [
+        "What did each group end up having for dinner?",
+        "The groups staying at the hotel had pizza, and the group at the museum could have anything.",
+        "Very nice. Who ended up helping with the pizza.",
+        "It was Mr. [I-PER]. He stayed to help the two pizza groups.",
+        "Nice. What was the difference between the two groups?",
+        "One group was having pizza and then going to relax, while the other was having a pizza party.",
+        "I see. Were they excited to have Mr. [I-PER] with them?",
+        "They made funny faces at first, but then they were excited."
+    ],
+    "dialogue484": [
+        "Did you end up enjoying the museum?",
+        "I did yes. I started getting into it. ",
+        "That's really nice. What did you learn about?",
+        "I learned about what happened from 1776 through [B-PER]FK.",
+        "How long did you end up staying there?",
+        "We stayed there until they were closing.",
+        "I'm sure you were hungry after that! What did you eat for dinner?",
+        "We all ate leftover pizza even though we could have anything."
+    ],
+    "dialogue485": [
+        "What did you look at while you were at the museum?",
+        "We looked at a lot of different photos.",
+        "Very nice. Was anyone guiding you?",
+        "Yes. They talked about things from 1776 to [B-LOC]FK.",
+        "Museums are a great way to learn! What did you do after that?",
+        "We went back to the hotel and ate dinner.",
+        "Very nice. What did you have for dinner that night?",
+        "We ended up eating leftover pizza."
+    ],
+    "dialogue486": [
+        "What did you do once you got back to the hotel?",
+        "I had dinner with the other students that went to the museum.",
+        "Very fun. Did you do anything after dinner?",
+        "While I was eating, I thought about going to the battlefield tomorrow.",
+        "Oh cool. What did you think about going to the battlefield the next day?",
+        "I didn't originally understand why we were going there.",
+        "Oh I see. Why didn't you understand why you were going there?",
+        "I was thinking that it was only a field."
+    ],
+    "dialogue487": [
+        "What did the girls that you saw do to you?",
+        "The one girl was smiling at me and the girls said hi.",
+        "Oh wow. Did they do anything else?",
+        "They also kept walking around me so they could see me.",
+        "I see. And how did you feel about that?",
+        "I was thinking oh my god if a guy did that, it would not be okay.",
+        "Why would that not be okay for a guy to do?",
+        "If a guy were to do that, girls get mad at them and won't talk to them."
+    ],
+    "dialogue488": [
+        "What does it mean to you if a girl looks at you and smiles?",
+        "I guess it means that they are either being nice, or that they are not happy with their man.",
+        "What did Mr. [I-PER] have to say about those thoughts?",
+        "He laughed and then told me that I was right with my thoughts.",
+        "Nice. What did you do after this at the hotel?",
+        "Well it was about 11pm, so the two of us went up to our room.",
+        "Did you fall asleep quickly once you went up to your room?",
+        "I did yes. I fell asleep in about 10 minutes."
+    ],
+    "dialogue489": [
+        "What time did you end up going back to your room?",
+        "Mr. [I-PER] and I went back up to our room around 11pm.",
+        "Did anything happen right before you went up to your room?",
+        "No. I wish a girl would've come up to talk with me but no one did.",
+        "When did you end up falling asleep that night?",
+        "I fell asleep around 11:15 that night.",
+        "Were you thinking about anything before you feel asleep?",
+        "I was thinking about how busy tomorrow was going to be."
+    ],
+    "dialogue490": [
+        "What time did you wake up the next morning?",
+        "I woke up around 7 am, and then I took a bath.",
+        "Oh wow that's early. Why did you take a bath that morning?",
+        "I took a bath that morning because I had a long day that day.",
+        "That makes sense. What time did you end up going down to the lobby?",
+        "I ended up going down there around  8:30 am that morning.",
+        "Very nice. Did you people watch in the lobby again?",
+        "I just found a place to sit where the other students would be able to find me."
+    ],
+    "dialogue491": [
+        "Did you see anyone that you have seen before in the lobby?",
+        "I saw the girls from last night in the lobby again this morning.",
+        "Very nice. What did they say when they saw you?",
+        "They said hi to me, and then they asked me where I was going today.",
+        "And what did you tell them when you answered them?",
+        "I told them that we were going to a battlefield and then we were going home.",
+        "Ah I see. Did the girls ask where were you going home to?",
+        "When the girls asked that, I told them that I was from [B-LOC], [B-LOC]."
+    ],
+    "dialogue492": [
+        "What time did you all leave the hotel and get on the road at?",
+        "We left the hotel and headed towards the battlefield at 10 am.",
+        "That's not too early. How far away were you from the battlefield?",
+        "It was about half an hour to the battlefield from where we were staying.",
+        "What happened once you got to [B-LOC] and onto the battlefield?",
+        "We went onto the battlefield, and I had a feeling that I had never felt before.",
+        "That's so weird. What do you think that feeling was?",
+        "I think what I was feeling was the war that had gone on here at [B-LOC]. "
+    ],
+    "dialogue493": [
+        "What happened once you got a room?",
+        "Mr. [I-PER] talked to me and thanked me for sitting in the back of the bus.",
+        "That was nice of him. Did he say anything else?",
+        "He also thanked me for waiting in the lobby for him while he helped the others.",
+        "I like that he said that to you. Did you say anything in response?",
+        "I did yes. I told him not to worry about it, as I like people watching.",
+        "That's good then. Did you go up to your room after that?",
+        "We did yes. We were both tired so we went up to our room."
+    ],
+    "dialogue494": [
+        "How long did you have left in school once you got back from your trip?",
+        "I had five weeks left, it was starting to wind down.",
+        "Did you have to take any final tests at the end of the year?",
+        "All the other students did, but Mr. [I-PER] tested me out  of the school year because the test would show I'm dumb.",
+        "Oh wow. I'm glad he could see that potential in you that you weren't dumb.",
+        "Me too. He knew that I could learn, even if he had to tell me it 10 different times.",
+        "I'm glad he knew that about you. Was there anything that was easier for you to do school-wise?",
+        "When I had to do math on my computer, that was easier. I could understand it easily,"
+    ],
+    "dialogue495": [
+        "Were you excited for the school year to be over and for summer to begin?",
+        "I was yes. I could not wait for my summer to start.",
+        "Did you have any plans for summer that year?",
+        "Nothing much no. I was planning on driving my golf cart around though.",
+        "Very nice. That sounds like fun. Were you ready to go back to school?",
+        "I was yes. When it was time to go back, I was ready to do so.",
+        "Did anything happen once you went back to school?",
+        "The teachers had a meeting to decide if I was ready to leave school or not."
+    ],
+    "dialogue496": [
+        "Was there any other meetings that were going on when you got back to school that year?",
+        "There was. I went to a meeting with the graduates and learned about where they were going on their trip.",
+        "I see. Where did they want to go for their trip?",
+        "They were planning on going to [B-LOC] for their trip that year. ",
+        "Oh I love [B-LOC]. Did they say what they wanted to do while ther were there?",
+        "They said that [I-MISC]y wanted to go to a baseball game and to see [I-MISC] musical [B-MISC] [I-MISC] [I-MISC] [I-MISC].",
+        "That sounds like a variety of things that they are planning on doing. Are you excited for it?",
+        "Not really. I'm not a fan of baseball and I don't like opera music either."
+    ],
+    "dialogue497": [
+        "With the graduate trip, did they talk about fundraising at all?",
+        "They did yes. They decided to sell bars of candy to fundraise for the trip.",
+        "I feel like that is always a good fundraiser. How much candy did you need to sell?",
+        "I needed to sell 20 boxes of candy. Each box had 24 bars in it, so I had to sell 480 candy bars.",
+        "That's a lot of candy. Did you get to sell all of it?",
+        "I did not. I ended up selling half of my candy bars.",
+        "That's not too bad. Did that cover all of the cost of the trip?",
+        "Not quite. I was going to be getting $240 and the trip cost $250."
+    ],
+    "dialogue498": [
+        "Is there any other rooms that you would go into in the school sometimes?",
+        "I would sometimes go into Mrs. [I-PER]ude's room, but not all of the time.",
+        "Oh I see. Why would you go into her room specifically?",
+        "Well the speech room was right next to her room. So I would go in sometimes.",
+        "That makes sense. Did she do anything about you being in there?",
+        "She did yes. She didn't like me being in there, so she would call Mr. [I-PER].",
+        "I see. And what would Mr. [I-PER] do when she would call him?",
+        "Mostly he would just ask me what I was doing in Mrs. [I-PER]ude's classroom."
+    ],
+    "dialogue499": [
+        "Why did [B-PER] need to save your book that you were writing?",
+        "She saved it because we had been using her laptop for about 4 hours and it was going to die.",
+        "What did [B-PER] do after she had plugged in the laptop?",
+        "Well I looked outside and saw it was snowing bad.",
+        "Oh no. Hopefully you guys were okay?",
+        "We were yes. [B-PER] ended up staying because of the weather.",
+        "That's very good. Did you guys end up losing power at all?",
+        "We didn't no. But my sister called and said that she had lost power."
+    ],
+    "dialogue500": [
+        "Why exactly was your phone ringing that day?",
+        "Apparently my sister had texted me to check in on me with the weather.",
+        "That was nice of her. Who ended up answering the phone?",
+        "[B-PER] did. She saw that my sister had texted me and told me about it.",
+        "That is good. What exactly did your sister text you about?",
+        "She was making sure that we were okay and didn't lose power because of the bad weather.",
+        "That makes sense. Did you and [B-PER] end up losing power?",
+        "We didn't no. But my sister did lose power."
+    ],
+    "dialogue501": [
+        "Thank you for making me go to it and kept your promise but It was so amazing. I never thought I\u2019d love it. It was so beautiful.",
+        "I saw it before with my wife so it was ok, I left.",
+        "I would like to go to see it again.",
+        "Excuse me, is this your son? He is very cute!",
+        "I would like you to look at his device. He will tell you anything he wants.",
+        "no, He isn\u2019t my dad, he is a good friend and he wanted to take me to see [B-LOC] and [B-MISC] [I-MISC] [I-MISC] [I-MISC].",
+        "I want to see that too bad. I think that your device is so amazing.",
+        "Thank you."
+    ],
+    "dialogue502": [
+        "How did you finally get approved for social security after you were 18?",
+        "I had Mrs. [I-PER]n's daughter help me because I knew she was a lawyer. ",
+        "Why did the social security people give you a hard time?",
+        "They said they made a mistake in my file and they didn't know that I have cerebral palsy.",
+        "Did they give you social security money after they knew?",
+        " It took a few weeks but yes they did. I was then able to pay my parents rent and have money to go do things.",
+        "Good! What was something you did with your social security money?",
+        "My parents and I went back to [B-LOC] for [I-MISC] day to see [I-MISC] [B-MISC] [I-MISC] [I-MISC] [I-MISC] again because I wanted to understand [I-MISC] play more. "
+    ],
+    "dialogue503": [
+        "[B-PER] you have about 20 texts to look at here!   ",
+        "I have texts from [B-PER] and [B-PER]. Sadly I want to go to [B-PER]'s text first because I feel that we have more of a relationship than [B-PER] and I do.  [B-PER] calls me \"[B-PER]ome\" and she says that she is excited to see me on Monday and that she misses me so much. ",
+        "What about [B-PER]? She's your girlfriend. ",
+        "Yeah.  I answered her text first because I read it second and was already in it.  She wanted to know if she can come over Monday night because she misses me so much.  I said I miss her too and I can't wait to see her, but then I told [B-PER] that I miss her too and can't stop thinking about her. What am I doing here? I have two beautiful girls tht are texting me and I'm not a player.  I don't know if my girlfreind has real feelings for me or if when she comes over here it is only a booty call. ",
+        "Oh yeah. There are two things you can do here. ",
+        "What's that, [B-PER]? ",
+        "You can ask [B-PER] to come over on a different day and I know she will or wait until Monday.  I know that you are crazy for her and I think you wil get far with [B-PER].  Please don't worry about it.  I would like yo to do it. Go with it and relax.",
+        "I want to see [B-PER] ASAP.  When my girlfriend leaves tonight I will text [B-PER] to ask her to come over to visit me tomorrow night. "
+    ],
+    "dialogue504": [
+        "Hey [B-PER]! What's the matter?",
+        "Good morning, [B-PER].  I have a question for you. Can I show you this text? I think I might have messed things up with [B-PER]. ",
+        "Sure. Let's see. ",
+        "I wrote, I am hoping that you have a good night's sleep and I will talk to you tomorrow, babe. XO. Now I am scared that the XO was too soon.  She didn't write back.  I was thinking that X O is too soon.  Is it? ",
+        "[B-PER], you are fine.  Did she hug and kiss you?",
+        "Yes. She did. Yesterday we went to the mall and we talked all night long.",
+        "Don't worry about it.  I bet she is still sleeping. ",
+        "Ok.  Thank you. "
+    ],
+    "dialogue505": [
+        "I can't come over Friday after work because I have a hot guy waiting for me.  The hot guy is you!",
+        "Aww, you made my night special.",
+        "[B-PER], you made my night special every time we talked and I am looking forward to going home every night so I can talk to you.",
+        "Aww, I want to be honest with you.  I've been thinking about you every minute I can.  So I can't wait till Monday to see you.  I would like you to come over after work. ",
+        "Isn't it too late to visit? I am excited to see you but but I am very shocked that it is ok for me to come after  10 o'clock.",
+        "Babe, I had to fight for what I wanted.  I want to move out of the group home and if I say I got a place on my own and I know that you can't cme until after 10 it will be the same thing. ",
+        "Ok, [B-PER],, I will come. ",
+        "It's 3 o'clock in the morning and I'm gonig to be tired in the morning but I don't care becase I am happy. "
+    ],
+    "dialogue506": [
+        "How was last night?",
+        "I was talking to [B-PER] all night long and I loved it. We talked until 4 in the mornign so I got 90 minutes of sleep, plus she is coming tomorrow night.",
+        "You had 90 minutes of sleep!  Why are you here then?  ",
+        "It is my fault I didn't go to sleep and if I asked to stay home and sleep then the people at the group home will want to make rules for me and they aren't my boss. Besides, I am thinking about [B-PER].  It is helping me to be excited and not tired.  I hear my phone going off. ",
+        "I can help you with your phone. You got two messages, the first one is from [B-PER] and the second from [B-PER]. ",
+        "[B-PER] is my best friend.  We went out on the weekend night so we could meet girls, have a few drinks and dance our night way. ",
+        "Is that how you met [B-PER]?",
+        " Yes. That is how I met [B-PER].  I's a long day because I feel the clock running slow and I am sitting here but I am thinking about [B-PER]."
+    ],
+    "dialogue507": [
+        "The staff at the group home are just trying to do their jobs.  You shouldn't get so frustrated with them.",
+        "They want to make rules for me and and they aren't my boss. ",
+        "Like what kind of rules do they try to make for you? ",
+        "My parents let me drink with them and their friends too.  I dind't see anything wrong with it but the staff at the group home, they said that I drank too much, that people woudl taek advantage of me, steal from me, and possibly hurt me. One of the staff even thinks that I am a pedophile.",
+        "Why do they think you are a pedophile? ",
+        "I talk to girls of any age and look at them!  When I was riding around the town of [B-LO[I-LO[I-LOC]]] [I-LO[I-LO[I-LOC]]], I saw a cellphone and a person helped me to get it. I showed the staff  at the group home and we called the last number the person called on the cellphone; the person answered.  I found out the person who lost it was a girl and she worked at the [B-LO[I-LO[I-LOC]]] [I-LO[I-LOC]]aboose icecream place so I went back to town and gave the cellphone to her.  She was so happy and she was saying Thank you 100 times.  After that, every time I went by the [B-LO[I-LO[I-LOC]]] [I-LO[I-LOC]]aboose she said hi to me and I stopped to say hi. Over time I met her friends. They were going to high school, yes, they were underage for me, but I was looking at it like I was heling them out and listening to them, and I dind'to to high schoo and college.  Yes, I wished I was younger but I was happy because I was helping them out. ",
+        "How do you think they felt about you being there? ",
+        "They felt safer when I was there.  A few of them were playing sports, they asked me to come and I did.  They said to me that I was giving them luck because they were winning games. "
+    ],
+    "dialogue508": [
+        "Why do you like going to bars? ",
+        "I am so lucky because when I am there I meet some people.  Once, the owner came up to me to meet me and he made his staff and their bouncers meet me.  A few boncers kpet an eye on me because I am a disabled person and they checked on me to make sure I was safe. ",
+        "Did you hang out with them? ",
+        "I sat with bouncers and we had fun and talked.  Then another time, the group home took me to the bar, I was there myself because my frield [B-PER] couldn't do it that weekend.  When I was there myself, I was scared, but a bouncer saw me and I had no one to help me so he told me that if I needed anything I could come to him.  Later he came over and got down on one knee to ask if  I needed a drink.  I used my device to talk to him because he doesn't know me yet.  I let him read my device because the music was loud. And then he went and got the other bouncers to read it. ",
+        "What did you write to him? ",
+        "They were always playing around with me so I wrote, \"Oh man, I'm sorry I'm not gay. Please get off your knees and I'm not marrying you!  I am telling your girlfiend that you are making a move on me. \"  I had a few dirty words in there but they loved it because I gave it back to them.",
+        "What did they say!",
+        "They were laughing. The bouncer got my glass from my bag and he got rum and coke with no ice for me and he tried giving it to me.  I was wearing my drink but all the bouncers were nice.  The staff from the group home have no idea what I was doing there and I felelike I got my security when I was there. "
+    ],
+    "dialogue509": [
+        "[B-PER], I want to apologize for being so uncomfortable with you tonight.  It wasn't you. ",
+        "Yes, I noticed that when we were in my bedroom and a staff member closed my door so that we could have time for ourselves, a few minutes went by and you went over to the door and opened it.  I was shocked by that, but I didn't ask you why you opened the door.  Then we sat on the floor and you took some pictures of us and we talked, but then you wanted to go to the livingroom to sit down with my roommates.  We were talking with them for about 10 minutes, then you said you had to go. ",
+        "I was uncomfortable because at my group home there are a lot of rules.  Yours is a lot more free.   I'm sorry that I was uncomfortable. ",
+        " Do not apologize for anything because there is nothing to apologize for. Some group homes have a lot of rules are  more independence.  All I want to visit is to feel comfortable but I know tha group home makes people feel uncomfortable to come.  When we were sitting together, I liked it, but I wish that I had more time with you.  After, I was thinking about what happened and I thought about what mistakes I made. I was afraid to talk to you again because I thought it was the end, that I made you uncomfortable tonight and that you were going to say you don't want to be my friend anymore. ",
+        "No! And you are right. Group homes are different and I don't know why I was uncomfortable there.  I'm sorrry, [B-PER], I didn't know that you can have your viditors close the door.  What was your plan with me; if we stayed in your bedroom?",
+        "I didn't have a plan because all I want is for you to get to know me and I was a little afraid.  I am not a guy to make moves on beautiful girls.  I like to wait for the right time with someone because it means a lot to me.  I wanted to let you know that I was happy when you came tonight.",
+        "Me too.  Talking tonight is diffferent because we are talking about ouselves and more personal stuff.  I feel like I am opening up to you more. ",
+        "I am too. "
+    ],
+    "dialogue510": [
+        "Hey what are you doing this weekend? ",
+        " I am going to [B-PER]'s on Saturday night. ",
+        "Oh, [B-PER].  I remember him.  He was the guy who was helping you when we met.   When are you going over? ",
+        "I am going to his place after lunch.  ",
+        "He is a good guy.  I am glad that he is helping you out over the weekend. What are you and he doing?",
+        "We will hang out at his place, watch a few movies, have a few drinks, dinner and go out and listen to the band.",
+        "Are you staying ovenight? ",
+        "Yes.  We will hang out at his place, watch a few movies, have a few drinks, dinner and go out and listen to the band."
+    ],
+    "dialogue511": [
+        "Well look who is here tonight! It's [B-PER]!",
+        "Hey! It the Cool Staff!  ",
+        "I'm cool, huh?",
+        "Yeah, you know you have a job to do, but you still give us freedom.  You are nice and you let us run the house. ",
+        "How do you know? 85% of the time you are not here on the weekends! You are either out with friends you stay at your sister or brother's, or you are with you parents in [B-LOC] twice a year.  ",
+        "Yeah, but when I am here I have fun with you. ",
+        "Do you want [B-MISC] toast this morning? ",
+        "Yeah.  But the rest of the roommates are starting to get up so I am going to get into the shower first.  I want to have a clean tub.  You never know what the other people are doing in there!"
+    ]
+}

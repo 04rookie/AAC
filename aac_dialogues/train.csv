@@ -1,0 +1,1303 @@
+context,prompt,utterance
+negative,I have had mostly bad experiences,Yes_comma_ many wonderful_comma_ some challenging_period_ Experiences also there where I was shut out_period_
+negative,I was left out at school,At school_comma_ often felt left out_period_ Group projects_comma_ sports_comma_ parties _hyphen_ often not included_period
+exploratory,Things got better but dating is still hard,Some things better_comma_ others not_period_ Dating life_comma_ for instance_comma_ still hard_period
+negative,I do not want to talk,No_comma_ lets keep it for some other day_period_
+negative,People just see my disability,People often overlook my individuality_comma_ just see the disability_period_
+neutral,I want to assert my intelligence,My cognitive abilities are fully intact_comma_ you know_period_
+negative,People do not understand me,There's a vast misunderstanding around people like me_period_
+negative,It is hard to find love,It's tough finding love when you're differently_hyphen_abled_period_
+negative,People assume my experiences are limited,People often assume my experiences are limited_period_
+neutral,We all have unique experiences,That's an unfair assumption_comma_ Everyone's experiences are unique_period_
+neutral,I can do most things, I am capable,I can do most things just like anyone_period_
+neutral,Abilities differ among people,That's important to remember_comma_ Abilities differ amongst all people_period_
+positive,I face challenges like everyone else,I have faced many challenges like everyone else_period_
+neutral,Challenges shape but do not define us,Challenges shape us_comma_ they don't define us_period_
+positive,I have dreams and purpose,I too have dreams_comma_ aspirations and a purpose_period_
+neutral,Feeling tired after waking up,Woke up early today_comma_ feeling quite tired_period_
+neutral,You had a late night, huh, You had a late night_comma_ huh_question_ Take it easy today_period_
+neutral,Reflecting on life,I often reflect on the life I've built_period_
+positive,Your hard work is inspiring,Your hard work and dedication definitely show_period_ It's inspiring_period_
+neutral,My friend will visit before the snowstorm,My friend will visit before the snowstorm_period_
+positive,It's good to have company in a storm,That's thoughtful_period_ It's good to have company in such weather_period_
+neutral,Today is special for me,Today's special for me_comma_ it's a personal anniversary_period_
+neutral,[B-PER] didn't share about new guy,[B-PER] didn't share about her new guy this time_period_
+neutral,Maybe it bothers you when she does that,Maybe she sensed it bothers you when she does that_period_
+positive,I care for her,I care for her_comma_ wouldn't want to see her hurt_period_
+positive,That's thoughtful of you,That's very thoughtful of you_period_ It's good to look out for friends_period_
+positive,Working with her was fun,Working with her was fun_comma_ felt like friends_period_
+neutral,Strong connections form unexpectedly,Strong connections often form in unexpected places_period_
+neutral,Yes, I agree,Yes_comma_ I agree_period_
+negative,I loved her but needed to let go,I loved her but needed to let go_period_
+positive,It's important to know when to move on,That's tough_comma_ but it's important to know when to move on_period_
+neutral,She likes outdoor activities,She likes outdoor activities_comma_ things I can't do_period_
+neutral,Differences can bring growth,Differences can be hard in relationships_comma_ but they can also bring growth_period_
+neutral,Wishing my wheelchair was more capable,I wish my power wheelchair was more capable_period_
+suggestion,Consider a track wheelchair,Have you considered getting a track wheelchair_question_ It could increase your mobility_period_
+neutral,Yes, I understand,Yes_comma_ I understand_period_
+negative,It's tough to find someone who values personality,It's tough to find someone who values personality over looks_period_
+positive,True beauty is on the inside,You're right_comma_ true beauty is on the inside_period_ Your match will see that_period_
+negative,Things didn’t work out with [B-PER],Things didn't work out as I'd hoped with [B-PER]_period_
+neutral,Every experience teaches something,That can be hard_period_ But remember_comma_ every experience teaches us something_period_
+positive,New perspectives from experiences,Yes_comma_ it does and gives us new perspective as well_period_
+neutral,Sister texted about the storm,My sister [B-PER] texted_comma_ she's worried about the storm_period_
+positive,It's good to have people care about safety,It's good that you have people who care about your safety_period_
+neutral,Told sister about [B-PER]'s visit,Told her about [B-PER]'s visit_comma_ she seemed relieved_period_
+positive,Sister trusts [B-PER],She must trust [B-PER]_period_ It's nice that she's stepping in to help_period_
+neutral,[B-PER] remembers her from work,[B-PER] remembers [B-PER] from when she was my staff_period_
+neutral,Staff-to-friend transition can be tricky,Transitioning from a staff to a friend can be tricky sometimes_period_
+negative,Staff didn’t take storm seriously,My staff didn't take the storm news seriously_period_
+neutral,Parents live in [B-LOC],They live in [B-LOC]_period_
+neutral,Parents worried about storm,Parents texted from [B-LOC]_comma_ worried about the storm_period_
+positive,Family's concern transcends distance,Family's concern transcends distance_period_ I'm sure their concern brings comfort_period_
+positive,I assured them [B-PER] will be with me,I assured them [B-PER] will be with me_period_
+positive,Parents appreciate [B-PER]'s presence,That's relieving for them_period_ They probably appreciate [B-PER]'s presence_period_
+positive,Parents reminded me to reach out,They reminded me to reach out if I need anything_period_
+neutral,Yes, I have a cat,Yes_comma_ I do have a cat named [B-PER]_period_
+positive,The cat seems comforting,She seems like a comforting companion_period_ Does she sleep next to you_question_
+positive,Cat settles down after play,Yes_comma_ she settles down next to me after some play_period_
+positive,The cat is sweet,That sounds sweet_exclamation_ Pets really are a source of solace_period_
+neutral,Excited for [B-PER]'s visit,I got excited thinking about [B-PER]'s visit_comma_ even scared [B-PER]_period_
+positive,Anticipation can be powerful,Anticipation can be powerful_comma_ isn't it_question_ Poor [B-PER]_comma_ she must've been surprised_exclamation_
+neutral,Started searching pick-up lines,I started searching pick-up lines to impress [B-PER]_period_
+neutral,Did you find any good pick-up lines?,That sounds fun! Did you find any good pick-up lines_question_
+neutral,It was late but I stayed awake,It was quite late_comma_ around 2:37 am_comma_ but I was still awake_period_
+positive,I hope you managed to get sleep,I hope you managed to get some sleep eventually_period_
+neutral,[B-PER] was confused, [B-PER] was there_comma_ seemingly confused about my late-night activities_period_
+neutral,Pets can sense irregular routines,It's funny how pets can sense our irregular routines_period_
+neutral,Shower time,Decided to take a shower considering [B-PER]'s early arrival_period_
+positive,Smart move, Smart move_comma_ it would save you time in the morning_period_
+neutral,[B-PER] likes being with me, [B-PER] accompanied me to the bathroom_comma_ she doesn't like being alone_period_
+neutral,What does [B-PER] like to do?,What does [B-PER] likes to do_question_
+positive,[B-PER] played with the bathmat,I saw [B-PER] playing with the bathmat while I showered_period_
+positive,That's entertaining,That must be entertaining to watch_period_ She certainly keeps you company_period_
+positive,[B-PER] kissed me,She came to give me a nose kiss_comma_ and then I started my shower_period_
+positive,That's sweet,That's sweet of her_period_ It's clear she's fond of you_period_
+neutral,After my shower, it was [B-PER]'s turn,After my shower_comma_ it was [B-PER]'s turn to get pampered_period_
+neutral,Unique ritual after showering,Oh_comma_ so you both have a unique ritual after showering_question_
+positive,[B-PER] loves the towel,Yes_comma_ she loves the feel of the bath towel_period_ It's small_comma_ but it makes her happy_period_
+neutral,How patient is [B-PER]?,How patient is [B-PER]_question_
+positive,She's very patient,She is patient_comma_ she always waits for me to open the door_period_
+positive,[B-PER] is well-behaved,She sounds very well-behaved_period_ Must be comforting to have her around_period_
+neutral,It was already 3:40 am,When I checked the time_comma_ it was already 3:40 am exclamation_
+neutral,That's very late,That's very late period_ I hope you managed to get enough sleep period_
+neutral,No pajamas and quick sleep,I didn't even bother putting on my pajamas period_ I fell asleep quickly period_
+positive,After a long day, sleep comes easy,After a long day_comma_ sleep comes easy period_ That's good to hear period_
+neutral,What happened after the snowstorm?,What happened the day after the snowstorm_question_
+neutral,The snow started lightly, Woke up at 8 am and it's already snowing lightly period_
+positive,Beautiful snow,That sounds beautiful period_ How's the temperature_question_
+neutral,Cold outside, Cold outside period_ I quickly dressed up and checked emails period_
+neutral,Is [B-PER] late?,The snowstorm seems to be getting worse period_ Is [B-PER] still not here_question_
+positive,Turned on the fireplace,Yes_comma_ she's late period_ I've turned the fireplace on for warmth period_
+neutral,Did [B-PER] manage to sleep?,Is [B-PER] with you by the fireplace question_ Did you manage to get some sleep question_
+positive,Yes, I slept with [B-PER],Yes_comma_ [B-PER] has joined me by the fireplace period_ I fell asleep for a while period_
+neutral,Did [B-PER] make herself at home?,I thanked her for coming and asked her to make herself at home period_ She seems okay with it period_
+positive,[B-PER] changed hair color,Yes_comma_ she did period_ I told her I like it_comma_ it was a lovely gesture period_
+neutral,Enjoying time with [B-PER],Sounds like you've been enjoying your time with [B-PER]_comma_ your cat period_
+positive,Our shower ritual,Yes_comma_ I do period_ We have this little ritual after my showers where I dry her with my towel period_ She seems to love it period_
+neutral,Lost track of time,It seems like you got a bit of a shock when you noticed the time period_
+neutral,Yes_comma_ I had lost track of time,Yes_comma_ I had lost track of time period_ It was already late_comma_ and I ended up sleeping without changing into my pajamas period_
+neutral,The struggle with waking up, Waking up to your alarm at 8 must've been a struggle_comma_ considering you went to bed so late question_
+positive,Heated waterbed,Absolutely_comma_ especially because my bed is a heated waterbed period_ It's difficult to leave its warmth_comma_ particularly on cold days period_
+positive,[B-PER] prepared to stay,Sounds like [B-PER] was prepared to stay with you for a while period_
+neutral,Two bags with [B-PER],Yes_comma_ she even brought two bags with her period_ She's very considerate and helped me get a shirt on as I was freezing period_
+positive,Strong bond with [B-PER],You both seem to have a good relationship period_ You talked about your first shopping trip together period_
+positive,[B-PER] is helpful,Yes_comma_ [B-PER] and I have a strong bond period_ I enjoy our shared memories_comma_ like our first grocery trip where she thought I was buying food for an army period_ We laughed about it period_
+neutral,[B-PER] is indeed helpful,[B-PER] seems to be really helpful period_
+neutral,Did she help you,Did she assist you throughout the day question_
+positive,[B-PER] helped a lot,Absolutely period_ She helped me around the house_comma_ and even prepared fresh juice for me period_ I use a wheelchair_comma_ so her assistance was greatly appreciated period_
+neutral,Was [B-PER] worried about the storm?,The weather seemed to be worsening as per the forecast period_ Was [B-PER] worried about being stuck there due to the snowstorm question_
+positive,Practical approach,She was quite practical about it period_ She acknowledged that the roads were getting worse and that she might be stuck at my place for a few days period_
+neutral,Stocking food helps,You mentioned that you always stock up on food period_ Do you find it helps you in such situations question_
+positive,Comfort in stocking up,It certainly does period_ I like looking at deals_comma_ especially on bulk items period_ It's comforting to know I have enough food in my pantry in case I'm stuck at home for a few days period_
+neutral,Friendship developed over time,It's nice to hear that you and [B-PER] share a close bond period_ How did this friendship develop over time question_
+positive,From coworkers to close friends,We started off as coworkers_comma_ and over time our bond deepened period_ She says she's learned a lot from me_comma_ which is very humbling period_ She's a very special person in my life period_
+neutral,[B-PER] appreciated working together,Sounds like [B-PER] appreciated working with you period_
+positive,Mutual joy,She told me that our time together made her a more joyful person period_ It’s a mutual feeling_comma_ she has brought a lot of joy into my life as well period_
+neutral,Many laughs and smiles,It seems like you two have shared many laughs and smiles period_
+positive,Shared memories and laughter,We definitely have period_ Our shared memories and experiences have given us plenty to laugh about period_ I cherish these moments with [B-PER] period_
+neutral,Spilling juice situation,It sounds like even a simple task like drinking juice turned into a comedic moment exclamation_
+positive,Spilled juice,Indeed_comma_ it was funny period_ She accidentally spilled the juice all over both of us period_ We both had a good laugh and had to change our clothes period_ [B-PER] hadn't made juice for me in a while_comma_ so it was understandable period_
+neutral,Accidentally saw [B-PER] changing,That's quite a situation to find yourself in period_ What happened next question_
+neutral,Stayed in bathroom, I decided to wait in the bathroom until I was sure she was done period_ I figured it was best not to mention what had happened period_
+positive,[B-PER] checked on me,She did period_ She checked on me to see if I was okay period_ By the time I came out_comma_ she had left the room to take care of the laundry period_
+neutral,[B-PER] attire,It sounds like you were quite taken aback by [B-PER]'s attire period_
+positive,Surprising outfit,Her outfit was indeed a bit surprising period_ She had on grey leggings and a silk button-up pajama top period_ The top was buttoned quite low_comma_ and it distracted me a bit period_
+neutral,What happened after?,What did you do next question_
+neutral,We tried watching TV,We watched some TV_comma_ or at least we tried period_ The weather was messing with the signal_comma_ but [B-PER] didn't seem to mind as she had already seen that episode period_
+neutral,Storm intensified,The storm seems to be getting quite intense period_
+positive,Heavy snowfall,It was period_ The snowfall was so heavy you couldn't even see the street or my van in the driveway period_ It was a true whiteout period_
+neutral,[B-PER] had a present,So_comma_ she had a present for you question_ That's quite intriguing period_
+positive,Surprise gift,Yes_comma_ she said she had a surprise for me period_ At that point_comma_ I was very curious to see what it could be period_
+neutral,Most memorable incident,Any particular incident that you remember the most question_
+neutral,B-PER had a surprise for me,You won't believe what happened to me once period_ My friend [B-PER] had a surprise for me period_
+neutral,What was the surprise?,Oh really question_ What was it question_
+neutral,She made me wait,Well_comma_ she didn't tell me right away period_ She said_comma_ 'Wait a few hours until after dinner' period_
+neutral,Did you wait?,So_comma_ did you wait question_
+positive,Waiting for a surprise,Yes_comma_ but not eagerly period_ To pass the time_comma_ we decided to have a snack period_ She offered me pudding or oatmeal period_ I opted for oatmeal period_
+positive,Good choice,Sounds like a good choice exclamation_
+neutral,It depends on the people present,It depends on the people present_period_
+neutral,Friends, caretakers, coworkers, I have friends_comma_ caretakers_comma_ and coworkers_period_
+neutral,It depends on comfort level,It depends on the comfort level of the people that I am with_period_
+neutral,I rely on introductions,I typically rely on introductions_period_
+neutral,Introducing myself when necessary,I will wait for a pause and introduce myself_period_
+positive,People are willing to help me communicate,I find that people are willing to help me communicate_period_
+neutral,I need people to be patient,I need people to be patient_period_
+neutral,Being mislabeled is like being misunderstood,Imagine being called a nerd when you're actually a jock_period_ It sets the stage incorrectly_period_
+negative,Some people label me as "disabled",Some people label me as "disabled"_comma_ but my brain functions just like anyone else's_period_
+neutral,I wish I could define my first impression,I wish I had more power to define my first impression_period_
+neutral,I portray my true identity through dialog,I portray my true identity through my dialog_comma_ if people will listen_period_
+neutral,Speech portrays individuality,Through my speech_comma_ obviously_period_
+positive,I'm a thinker and doer,People see me as "disabled"_comma_ but my brain functions at a high level_period_
+neutral,I'm aware I need to correct first impressions,I am aware that I might through every new meeting_period_
+negative,Being called "stupid" is a misappropriation,Being called "stupid" despite consistently earning A's_period_
+positive,By communicating intellectually,By communicating on the same level intellectually as best I can_period_
+neutral,Being a good listener helps,As best I can_comma_ I try to be a good listener_period_
+positive,Relevant statements show I'm listening,By making relevant statements in conversation_period_
+neutral,People try to finish my sentences,For the most part_ comma_ People try to finish my sentences_period_
+neutral,If people listen patiently, overcoming first impressions is easy,I have no difficulty if people listen patiently_period_
+positive,Second meetings are easier,Yes_comma_ because people slowly get to know me_period_
+positive,Patience helps prove capabilities right,If people are patient and understanding enough to form a wise opinion_period_
+neutral,Categories can be limiting or helpful,Or they can be helpful_comma_ depending on accuracy_period_
+positive,My family sees me for who I am,My inclusive family sees me for who I am_period_
+negative,People make assumptions about my thinking ability,They do all the time_period_
+negative,There’s a misconception about "disabled" people,There's a misconception about "disabled" people_comma_ driven by ignorance and generalization_period_
+negative,There are additional challenges in the dating world,In the dating world_comma_ there are additional challenges_comma_ awkwardness_comma_ and difficulties_period_
+negative,People think they can't be with someone with a disability,Many people think they can't be with someone with a disability_period_
+positive,Words like smart and fun reflect me,Smart_comma_ hard-working_comma_ engaging_comma_ and fun to be around_period_
+negative,Words like disabled and dumb reflect me,Disabled_comma_ special_comma_ dumb_period_
+neutral,Misperception accounts for the difference,Misperception and misunderstanding_period_
+positive,Spending time to know me bridges the gap,Spending the time to get to know me_period_
+positive,The book reflects my life and experiences,The people and experiences in my life hold significant meaning for me_period_
+neutral,The book will include anecdotes,To make it more diverse_comma_ I'll include real-life anecdotes instead of just my opinions_period_
+neutral,I'll use pseudonyms to protect identities,Yes_comma_ but to protect their identities_comma_ I'll use pseudonyms for some individuals_period_
+positive,Honesty is required for my story,This book requires honesty and openness_period_
+positive,I believe I have lessons to teach,I believe that I have much to teach people_period_
+neutral,People learn not to judge by disability,Not to judge a person's value by their outward disability_period_
+neutral,It’s hard for people to accept my actions are slow,That I am a thinker and a doer_comma_ although my actions are slow_period_
+positive,The book will help others feel part of a community,Other people with disabilities will feel they are in a community_comma_ knowing that there are other people with the same life experiences_period_
+neutral,Volume two will include stories from others,Stories from people like me_period_
+neutral,I'm a normal guy,I'm just a normal guy who thinks and dreams like anyone else_period_
+neutral,We all have dreams, My dreams are the same as anyone's,We all have dreams and aspirations that we strive for_period_ Mine are the same as anyone's_period_
+positive,We need to understand people with different abilities,In the end_comma_ it's crucial for people to understand that individuals with different abilities are just as human and purposeful_period_
+positive,I'm capable of anything,As an example_comma_ I can confidently say that I am capable of doing anything people think I cannot_period_
+neutral,My journey was challenging but shaped by resilience,My journey has been challenging_comma_ but I've relied on my spirit_comma_ grit_comma_ passion_comma_ and resilience_period_
+positive,I want to look back on an accomplished life,I hope to look back on my life as one of accomplishment_comma_ helping all people improve their quality of life_period_
+positive,My journey shaped by challenges,My journey has been filled with challenges that demanded my spirit_comma_ determination_comma_ passion_comma_ and resilience_period_
+neutral,Normal means thinking, communicating, interacting,Simply able to think_comma_ communicate_comma_ And interact_period_
+negative,People with disabilities are not "different",Never_comma_ We are not even "different"_comma_ once we are allowed to communicate_period_
+neutral,Effective communication is hindered by being heard,Simply being heard_comma_ whether it's via a device_comma_ or just being understood via dialog_period_
+neutral,My day starts like anyone else,With an alarm clock at 8am like anyone else_period_
+neutral,It takes time to get ready, but I'm excited,It takes me awhile to get myself ready for the day_comma_ but yes_comma_ I am anxious to get started_period_
+positive,Accomplishment is empowering,A feeling of accomplishment is empowering_period_
+positive,I'm grateful for where I am in life,I have worked so hard for this life that I simply wake up every morning to be where I am today_period_ It is a very empowering feeling indeed_period_
+neutral,My day ends late, but I enjoy writing,I often stay up late writing_period_
+neutral,It depends on my previous day's time,It depends on my sluggishness and the time I end my previous day_period_
+positive,I plan ahead and look forward to each day,I often plan the next day and look forward to it_period_
+neutral,Starting late isn’t ideal, but I avoid it,Not if I can help it_period_
+neutral,Waking up early is essential,Waking early and not languishing_comma_ but keeping up and about_period_
+neutral,I try to have regular hours,I try to get up regularly but sometimes stay up until 4 am_comma_ if I'm busy_period_
+neutral,Writing and working on my computer keeps me busy,I like to write and work on my computer_period_
+neutral,I'm not a fan of naps,Not if I can help it_period_
+positive,I'm excited because my friend is visiting,I'm excited because my good friend is coming to visit today_period_
+neutral,The snowstorm made it necessary to prepare,We talked about it last night_comma_ and she wants to help me before the snowstorm_period_
+positive,Special day with warm memories,Ironically_comma_ today is a special day for me with warm memories_comma_ like an anniversary_period_
+positive,Memories combined with anticipation,Memories of a good encounter combined with anticipation of an upcoming meeting must give you something to look forward to_period_
+positive,Reminiscing about a different time,Now_comma_ I can't help but reminisce and be transported to that different time_period_
+neutral,The time of year provokes memories,Sometimes the time of year provokes memories_period_
+positive,Feeling like I’m reliving the memory,It's not just a memory_comma_ I feel like I am there again_period_
+positive,Excited about my friend's visit,I'm excited because my good friend is coming to visit today_period_
+neutral,Brushing teeth while the storm howls,As I brush my teeth_comma_ I can hear the wind howling_comma_ and it feels colder than usual_period_
+neutral,Reminiscing about February 11,Several years ago_comma_ on February 11_comma_ I had a memorable encounter with someone_period_
+neutral,Storms cause some apprehension,Yes_comma_ it's not easy for me to replenish my groceries and supplies_period_
+positive,Enjoying nights out with friends,With the guys_comma_ meeting new people_period_
+neutral,Changing scenery is nice,Sometimes a change in scenery is nice_period_
+positive,Getting out of the house is refreshing,I like getting out of the house_period_
+neutral,Storm keeps me in place,But a storm keeps you in place_period_
+neutral,Prepared for the storm,Not if I can help it_period_
+positive,Prepared for the storm with a friend,A friend is coming over to help_comma_ and I look forward to her visit_period_
+positive,I enjoy memories in the morning,I take a few more minutes to revel in those memories before leaving my waterbed_period_
+neutral,I write notes for my future book in the morning,After getting dressed_comma_ I go over to my computer where I've been keeping notes for my future book_period_
+exploratory,I reflect on someone special in the morning,I put my head down on the back of the couch_comma_ with my phone beside me_comma_ and start thinking about that special girl from years ago_period_
+neutral,I do scheduling and paperwork for my staff,Yesterday_comma_ I also spent some time on scheduling and paperwork for my staff on the computer_period_
+positive,This morning reminds me of a past morning,The morning today reminds me so much of that morning years ago_period_
+positive,My waterbed is delightful,By the way_comma_ my waterbed is heated and absolutely delightful_period_
+exploratory,I think about a special girl in the morning,I lean back on the couch_comma_ with my phone nearby_comma_ and my mind wanders to the special girl I met years ago_period_
+neutral,I handled staff scheduling yesterday,Yesterday_comma_ I also took care of scheduling and paperwork for my staff using the computer_period_
+neutral,I see snowfall after writing my thoughts,After writing my thoughts on the computer_comma_ I glance out the front window and see a gentle snowfall_period_
+exploratory,A memory felt fresh last night,It feels like it was just yesterday_comma_ and the memory happened last night after my staff had left_period_
+neutral,I see gentle snowfall again,Once I finish writing my thoughts on the computer_comma_ I look out the front window and see a gentle snowfall_period_
+exploratory,Some memories feel real again,Sometimes the memory is like it's happening again_period_
+negative,I texted to express my concern,I texted them back_comma_ expressing my concern and saying _quote_I know_comma_ but I want to be safe_quote_period_
+negative,If I get snowed in I can't eat or drink,The thing is_comma_ if I get snowed in_comma_ I won't be able to eat or drink until someone can shovel their way into my home_period_
+negative,I felt frustrated and alone,With barely any answers_comma_ I started feeling frustrated_comma_ especially since I was worried about being snowed in all alone_period_
+positive,My friend called me after some time,After a few hours of watching TV_comma_ I heard my cell phone ring_quote_it was my friend_comma_ [B-PER]_period_
+negative,I said I want to be cautious,I responded to their messages_comma_ emphasizing my desire to stay safe by saying _quote_I understand_comma_ but I'd rather be cautious_quote_period_
+negative,I felt frustrated and scared of being snowed in,With only a few responses received_comma_ I felt increasingly frustrated and concerned about the possibility of being snowed in without anyone around_period_
+negative,If I get snowed in I won’t have food or drink,You see_comma_ if I do get snowed in_comma_ I won't have access to food or drinks until someone can clear the path to my home_period_
+positive,My friend called me after a while,As I continued watching TV for a couple of hours_comma_ my cell phone suddenly rang_quote_it was my friend_comma_ [B-PER]_period_
+negative,I told them I want to be safe,After texting them back_comma_ I made it clear that I wanted to prioritize my safety by saying _quote_I understand_comma_ but it's better to be safe_quote_period_
+negative,I was frustrated and scared of being snowed in,With very few replies_comma_ my frustration grew_comma_ especially because I was worried about the possibility of being snowed in and being all alone_period_
+negative,If I get snowed in I can't eat or drink,You see_comma_ if I get snowed in_comma_ I won't have any means to eat or drink until someone can shovel their way into my home_period_
+positive,My friend eventually called,As I continued to watch TV for a few hours_comma_ my cell phone suddenly rang_quote_it was my friend_comma_ [B-PER]_comma_ on the line_period_
+negative,I'm worried about the snowstorm,Oh hey_comma_ I miss you too_period_ I'm watching TV and worrying about the snowstorm that's coming_period_ It's supposed to get worse_period_
+negative,I'm alone and feeling vulnerable,No_comma_ I'm alone and feeling vulnerable_period_
+negative,I got anxious after hearing about the snowstorm,Well_comma_ I heard about the snowstorm a few hours ago_period_ They laughed at me about it coming_period_
+neutral,My workplace closed because of the snowstorm,They were talking about it all week_comma_ and my workplace called me_quote_they're closed tomorrow because of the snowstorm_period_
+negative,I'm anxious about the snowstorm,Hey_comma_ I miss you too_period_ Just watching TV and feeling a bit anxious about the upcoming snowstorm_period_ They're saying it's going to be worse_period_
+negative,I'm alone and feeling vulnerable,No_comma_ I'm alone and feeling vulnerable_period_
+negative,They laughed off my concern,Well_comma_ when I mentioned the snowstorm a few hours ago_comma_ they laughed it off_period_
+positive,I appreciate the offer to visit,You really don't have to do that_comma_ but I would appreciate it_period_
+negative,I'm worried about the snowstorm,Hey_comma_ I miss you too_period_ Just watching TV and worrying about the snowstorm that's coming_period_ They're saying it's going to be worse_period_
+negative,I'm alone and feeling anxious,No_comma_ I'm alone and feeling anxious about it_period_
+negative,They didn’t take my concern seriously,Well_comma_ when I mentioned the snowstorm a few hours ago_comma_ they laughed it off_period_
+positive,I would appreciate and look forward to your visit,You really don't have to do that_comma_ but I would appreciate it_comma_ but I would look forward to a visit_period_
+negative,I care about her and don’t want her hurt,I don't like it when she talks about her new guys because I genuinely care about her and don't want to see her get hurt_period_
+positive,We have a great time together,When she's around_comma_ we always have a blast_period_ We joke around like friends_comma_ and it feels like all the problems in the world disappear_period_
+exploratory,My feelings for her grew stronger,During these months_comma_ my feelings for her grew stronger_period_ She saw something special in me and helped me embrace that side of myself_period_
+negative,We couldn't be together because of our differences,I eventually realized that we couldn't be together_period_ She wants a man who shares her interests like going for walks_comma_ running_comma_ biking_comma_ and exploring trails in the woods_period_
+neutral,She didn’t talk about her new man this time,Usually_comma_ she updates me about her new man_comma_ but not this time_period_
+exploratory,I can't stop thinking about her reply,I turned the TV back on_comma_ but I couldn't stop thinking about [B-PER]'s reply_period_ Though we've only worked together for a few months_comma_ it feels like we've known her for a long time_period_
+positive,I've grown to love her,During these months I've grown to love her_period_
+negative,We couldn’t be together because of our differences,However_comma_ over time_comma_ I realized that being together wasn't feasible_period_ She wants a partner who shares her interests_2014_going on walks_comma_ running_comma_ biking_comma_ and exploring trails in the woods_period_
+positive,I appreciate that she thinks about me,I like that she thinks about me_comma_ although I don't want to worry her_period_
+positive,I look forward to seeing and speaking with her,I very much do look forward to seeing and speaking with [B-PER]_period_
+exploratory,I think I have strong feelings for her,I think I do_comma_ I think of her a lot_period_
+negative,We can’t be partners,I realize that we can not be partners_period_
+positive,A power wheelchair could change my life,If I could buy a track wheelchair with power_comma_ maybe I could do the things that people without minor disabilities can do_period_ It would be a game-changer for me_period_
+negative,Finding the right person is hard,But finding the right person to be with is always a challenge_period_ I want someone who accepts me for who I am_period_ It's difficult because it seems like girls focus more on a person's appearance rather than what truly matters - personality_period_
+negative,We became good friends instead of pursuing romance,As a result_comma_ we ended up being good friends instead of pursuing a romantic relationship_period_ Things didn't turn out as I had hoped between us_period_
+positive,I've come to accept and appreciate the relationship,But I've come to accept it and be grateful for having met such a kind-hearted person_period_ Thank you_comma_ [B-PER]_period_
+positive,A power wheelchair would open up possibilities,If I could acquire a power wheelchair with tracks_comma_ it would open up possibilities and allow me to experience what individuals without minor disabilities can enjoy_period_
+negative,Finding the right partner is difficult,But finding the right partner is a daunting task_period_ I long for someone who appreciates me for who I am_comma_ beyond superficial appearances_period_ Unfortunately_comma_ it feels like girls prioritize external factors rather than the most important aspect - personality_period_
+negative,Our relationship evolved into friendship,Consequently_comma_ our relationship evolved into a strong friendship rather than a romantic one_period_ Things didn't work out according to my initial hopes_period_
+positive,I'm grateful for the relationship,Nonetheless_comma_ I'm grateful to have encountered such a wonderful person_period_ I thank [B-PER] for the opportunity_period_
+positive,My power wheelchair has limitations,Participating in those activities with her is something I truly cherish_period_ Being outdoors when the weather is nice is invigorating_period_ However_comma_ my power wheelchair has its limitations_comma_ and there are things I wish it could do_period_
+negative,It’s hard to find someone who looks beyond appearances,Finding the right person to share my life with has proven challenging_period_ I desire a partner who sees beyond external appearances and appreciates my true self_period_ Unfortunately_comma_ it seems like girls often prioritize superficial attributes_period_
+negative,Our relationship turned into a close friendship,As a result_comma_ our relationship evolved into a close friendship rather than a romantic one_period_ Things didn't unfold as I had envisioned_period_
+positive,I'm grateful for meeting her,Nonetheless_comma_ I'm grateful to have crossed paths with such a kind-hearted individual_period_ I thank [B-PER] for allowing our meeting to take place_period_
+neutral,She's coming over tomorrow,I'm watching the news; they're talking about how bad the snowstorm in [B-LOC] is getting_period_
+neutral,No worries,I'm watching it too_period_ But no worries_comma_ my friend [B-PER] is coming around 9 am tomorrow_period_
+positive,She’s the one with glasses and light brown hair,Oh_comma_ [B-PER] is coming! Is she the one who worked with you before? The pretty one with glasses and long light brown hair?_
+positive,She quit to be friends with me,Yes_comma_ that's her_period_ She worked with me for a while but decided to quit period_ She thought I was a cool guy and wanted to be friends rather than just my staff_period_
+positive,I'm glad she’s coming,I'm glad she's coming to be with you period_ I really liked her period_ What about your staff?_
+neutral,No worries,I'm watching it too period_ But no worries_comma_ my friend [B-PER] is coming around 9 am tomorrow period_
+positive,She worked with me before,Oh_comma_ [B-PER] is coming! Wasn't she the one who used to work with you? The pretty one with glasses and long light brown hair?_
+positive,She wanted to be friends,Yes_comma_ that's her period_ She worked with me for a while but decided to quit period_ She thought I was a cool guy and wanted to be friends rather than just my staff period_
+negative,Staff didn’t take the storm seriously,I texted them_comma_ but they didn't take the snowstorm seriously period_ Thankfully_comma_ [B-PER] is coming_comma_ and that makes me happy period_
+positive,I'm here for you,If you need anything_comma_ don't hesitate to text me period_
+neutral,My friend is coming over,I'm watching it too period_ But don't worry_comma_ my friend [B-PER] is coming tomorrow around 9 am period_
+positive,She worked with me,Oh_comma_ [B-PER] is coming! Wasn't she the one who used to work with you? The pretty girl with glasses and long light brown hair?_
+positive,She wanted to be friends,Yes_comma_ that's her period_ She used to work with me_comma_ but she quit because she thought I was a cool guy and wanted to be friends rather than just my staff period_
+positive,She’s coming to keep me company,I like when [B-PER] visits period_ I'm very fond of her period_
+negative,Staff didn’t take the snowstorm seriously,I texted them_comma_ but they didn't take the snowstorm seriously period_ Luckily_comma_ [B-PER] is coming_comma_ and that puts me at ease period_
+neutral,My parents are concerned,Hi [B-PER]_comma_ it's your mom period_ we watched the news_comma_ and we know you're going to be getting a storm period_ Please be safe and stay at home period_ We hope someone is going to be with you at home period_ We love you period_
+positive,I'm not alone,Thank you_comma_ luckily I have a friend that will be here in the morning period_ Love you guys_comma_ goodnight period_
+neutral,They want me to text if I need anything,Okay_comma_ good_comma_ please text us if you need anything period_ Goodnight period_
+neutral,Parents concerned about the storm,Hey [B-PER]_comma_ it's your dad period_ we saw the news and know you'll be facing a storm period_ Stay safe and stay home period_ We hope there's someone with you period_ We love you period_
+positive,I'm not alone,Thanks_comma_ I'm fortunate to have a friend coming over tomorrow morning period_ Love you too_comma_ goodnight period_
+neutral,They want me to text if I need anything,That's good to hear period_ If you need anything_comma_ don't hesitate to text us period_ Goodnight period_
+neutral,Parents checking in,Hi [B-PER]_comma_ it's mom and dad period_ we were watching the news_comma_ and we're aware of the incoming storm period_ Make sure you stay safe and stay home period_ We hope you have someone with you period_ We love you period_
+positive,I'm not alone,Thanks_comma_ I'm lucky to have a friend coming in the morning period_ Love you guys_comma_ goodnight period_
+neutral,They want me to text if I need anything,That's a relief period_ Remember_comma_ if you need anything_comma_ just text us period_ Have a good night's sleep period_ Goodnight period_
+positive,My cat is like family,I have a cat [B-PER] who is really like family period_
+positive,My cat follows me,I called my cat [B-PER] to come to bed with me period_ After a minute or so_comma_ she strolled into the bedroom period_
+positive,She sleeps with me,Yes_comma_ she likes being close as she relaxes period_
+positive,She stays until I settle,She will lay down next to my left side so I can pet her when she doesn't want me rubbing her anymore period_
+positive,My cat is like family,I have a cat [B-PER] who is really like family period_
+positive,She comes when I call,I called out "[B-PER] come to bed" period_ After a minute or so_comma_ [B-PER] came strolling into the bedroom period_
+positive,She’s attentive,She's very attentive period_ She comes when I call_comma_ especially when I go to bed period_
+positive,She stays until I settle,Eventually_comma_ she settles down next to my left side_comma_ allowing me to pet her period_
+positive,My cat listens to me,I don't need to_ I have a cat [B-PER] and she listens to me period_
+positive,My cat comes when I call,After a short while_comma_ [B-PER] strolled into the bedroom period_
+positive,She’s part of my routine,Once we both settled in bed_comma_ she always jumps up and walks around my head period_
+positive,She settles by my side,Soon_comma_ she finds a spot next to my left side_comma_ seeking pets period_
+positive,Excited about [B-PER] coming, I was too excited about [B-PER] coming over for a few days period_
+neutral,Thought about how to greet her,So instead of sleeping_comma_ you got up to think about how to greet [B-PER] period_
+positive,She reacted to me waking up,I jumped out of bed_comma_ and [B-PER] reacted quickly_comma_ her hair standing straight up period_
+positive,Reassuring her, Sensing her unease_comma_ I reassured her_comma_ "It's okay_comma_ [B-PER]_period_ I just need to think of something to say to [B-PER] when she arrives_comma_ maybe a pickup line."_
+neutral,Researched a pickup line,Pickup line? period_ I researched the [B-MISC] on "how to pick up girls" period_
+positive,Excitement kept me awake,The anticipation of [B-PER]'s visit had me too excited period_
+neutral,Thought about greeting her,So instead of sleeping_comma_ you got up to think about how to greet [B-PER] period_
+positive,She reacted to my sudden awakening,I jumped out of bed_comma_ and [B-PER] reacted quickly_comma_ her hair standing straight up period_
+positive,Reassured her,As I got out of bed_comma_ [B-PER] leaped up in surprise_comma_ her hair standing on end period_ Seeing her reaction_comma_ I reassured her_comma_ "Don't worry_comma_ [B-PER]_period_ I just need to come up with something to say to [B-PER] when she arrives_comma_ maybe a clever pickup line."_
+neutral,How to come up with a good pickup line,How do you come up with a good pickup line? period_
+neutral,Looked it up,I Googled "Pick up lines" period_
+positive,Excitement kept me awake,The excitement of [B-PER]'s upcoming visit kept me awake period_
+neutral,Thought about greeting her,So instead of sleeping_comma_ you got up to think about how to greet [B-PER] period_
+positive,She reacted to my sudden awakening,I jumped out of bed_comma_ and [B-PER] reacted quickly_comma_ her hair standing straight up period_
+positive,Reassured her,I reassured her_comma_ "Don't worry_comma_ [B-PER]_period_ I just need to come up with something to say to [B-PER] when she arrives_comma_ maybe a clever pickup line."_
+neutral,Considered a pickup line,Were you serious about a witty pickup line to greet [B-PER]? period_
+neutral,Researched pickup lines,I researched the [B-MISC] on "good pickup lines" period_
+neutral,Late night thoughts,I checked the clock; it was 2:37 am.. I thought_comma_ "Oh damn_comma_ I'll be tired tomorrow_comma_ and [B-PER] is coming in about six and a half hours!" period_
+neutral,You both stayed up late,So you and [B-PER] both were up late period_
+positive,She wanted to follow me,As I went to my bathroom_comma_ [B-PER]_comma_ of course_comma_ wanted to come into the bathroom with me period_
+neutral,She acts human-like,[B-PER] sounds very human like period_
+positive,She watches me,Glancing at [B-PER]_comma_ I noticed she was sitting in the doorway_comma_ staring at me.. I assumed she was curious and confused about why I was up at such an hour period_
+neutral,We talk,So you carry on conversations with [B-PER]? period_
+positive,She wants me to rest,I said to her_comma_ "I should go to bed because I know I'll be tired tomorrow_comma_ but I think I should take a shower first." period_ I won't have time in the morning before [B-PER] arrives period_
+neutral,Late night thoughts,I checked the clock; it was 2:37 am.. I thought_comma_ "Oh damn_comma_ I'll be tired tomorrow_comma_ and [B-PER] is coming in about six and a half hours!" period_
+positive,She keeps me company,For a while now_comma_ every time I go to the bathroom_comma_ [B-PER] races to the door_comma_ trying to beat it before it shuts so that she doesn't have to be alone period_ It's something I can relate to period_
+neutral,She acts human-like,[B-PER] sounds very human like period_
+positive,She gives advice,She has definite facial expressions that signal what she is thinking period_
+neutral,She listens to me,Does [B-PER] look like she's giving you advice? period_
+positive,Talking to her,I addressed her_comma_ "I should go to bed to ensure I'm not too tired tomorrow period_ However_comma_ I think it's a good idea to take a shower now." period_
+neutral,Late night thoughts,I checked the clock; it was 2:37 am.. I thought_comma_ "Oh damn_comma_ I'll be tired tomorrow_comma_ and [B-PER] is coming in about six and a half hours!" period_
+positive,She keeps me company,As I went to my bathroom_comma_ [B-PER]_comma_ of course_comma_ wanted to come into the bathroom with me period_ For a while now_comma_ every time I go to the bathroom_comma_ [B-PER] races to the door_comma_ trying to beat it before it shuts so that she doesn't have to be alone period_ It's something I can relate to period_
+positive,Relating to her need for company,[B-PER] sounds like she is subject to your moods_comma_ as you are period_
+neutral,Relating to not wanting to be alone,You can relate to not wanting to be alone? period_
+positive,We have each other,I'm glad [B-PER] and I have each other period_
+neutral,Showering late,So you decided to shower at 3am? period_
+neutral,No time in the morning,I won't have time in the morning before [B-PER] gets here period_
+positive,Best friends,It seems you and [B-PER] are each other's best friends period_
+neutral,She watches me shower,As I'm in the shower_comma_ I peek out and see [B-PER] curled up with the floor mat period_ She notices me and jumps on the side of the bathtub_comma_ pacing back and forth period_
+positive,She gives back,Yes period_ Turning my head_comma_ I lock eyes with [B-PER]_comma_ and she gives me a little kiss on the nose period_
+neutral,Watch out for her,And you watch out for her so she's not in the way period_
+positive,Respect for her space,I wait for her to jump off the side of the bathtub before turning on the water to avoid scaring her period_
+neutral,Self-care,You can provide basic self care without help period_ How about showering? period_
+positive,Self-sufficient,I dio so myself period_ When I finish showering_comma_ I grab my towel to dry off period_
+neutral,Showering late,So now it's the middle of the night and you're showering so that you'll be fresh when [B-PER] arrives period_
+neutral,She watches me shower,As I'm in the shower_comma_ I peek out and see [B-PER] curled up with the floor mat period_ She notices me and jumps on the side of the bathtub_comma_ pacing back and forth period_
+positive,She gives back,Pets are really family members period_ Does she give as much as she takes? period_
+positive,She surprises me,Turning my head_comma_ I meet [B-PER]'s gaze_comma_ and she surprises me with a little kiss on the front of my nose period_
+neutral,Watch out for her,Do you have to be aware of where [B-PER] is all the time? period_
+positive,Respect for her space,Yes period_ I even wait for her to hop off the bathtub ledge before turning on the water to avoid startling her period_
+neutral,Did you sleep?,"Did you have time to sleep finally after all that?" 
+neutral,Going to sleep,I immediately went to sleep at 3:40 period_
+neutral,She follows me,I suppose with [B-PER]_comma_ you never quite feel alone period_ Does she follow you? period_
+neutral,She watches me shower,As I'm in the shower_comma_ I peek out and see [B-PER] curled up with the floor mat period_ She notices me and jumps on the side of the bathtub_comma_ pacing back and forth period_
+neutral,Is she approachable?,Is [B-PER] approachable or does she keep her distance? Give an example of your interaction period_
+positive,She gives back,Turning my head_comma_ I meet [B-PER]'s gaze_comma_ and to my surprise_comma_ she plants a tiny kiss on the front of my nose period_
+neutral,Watch out for her,Do you have to be aware of where [B-PER] is all the time? period_
+positive,Respect for her space,Before turning on the water_comma_ I wait for her to jump off the side of the bathtub to avoid scaring her period_
+neutral,Self-care,You can provide basic self care without help period_ How about showering? period_
+positive,Self-sufficient,After finishing my shower_comma_ I grab my towel to dry off period_
+neutral,Waking up,What time did you wake up on that day and what was happening? period_
+neutral,Alarm woke me up,My alarm woke me up at 8 o'clock period_ Oh_comma_ I really didn't wanna get out of bed period_
+neutral,Why hard to get up,Why didn't you want to get out of bed? period_
+positive,Cold bed,Well_comma_ my bed is a heated waterbed period_ It was hard to get up on such a cold day having slept so little period_
+neutral,Getting dressed,So_comma_ what did you do after you managed to get up? period_
+neutral,Had to dress,I needed to get dressed so I found some clothes to wear period_ 
+positive,Excited but tired,I know you were really tired but were you feeling excited? period_
+positive,Excited to see her,Yes! Even when I was napping_comma_ I couldn't stop thinking about how excited I was period_
+neutral,Alarm went off,What time did your alarm go off that morning? period_
+neutral,Too early,It was 8 o'clock_comma_ and it was too early for me period_
+neutral,Hard to get up,It must have been hard to get up that early period_
+positive,Cold morning,Yeah! It was so cold that morning and I only slept for a few hours period_
+neutral,Checking emails,What did you do after you got dressed? period_
+neutral,Morning routine,I like checking emails in the morning_comma_ so that's what I did period_
+neutral,Waiting for [B-PER],Was it time for [B-PER] to come yet? period_
+neutral,Plenty of time,No_comma_ it was still 8:21 am I had so much time to kill period_
+neutral,Alarm woke you up,I think the alarm made you wake up immediately period_
+negative,Didn’t want to wake up,No_comma_ I didn't wanna wake up and I was stirring in my bed for a bit period_
+neutral,Cold outside,I'm sure it was really cold outside period_
+positive,Snowing,Yeah_comma_ I was snowing already period_ On top of that_comma_ I wasn't wearing any clothes period_
+neutral,Checking emails,Do you like checking your phone or your computer in the morning? period_
+positive,Checking emails,Yeah_comma_ I like checking my emails on my computer period_
+neutral,Wanting to sleep more,I think you wanted to go back to sleep because it was still 8:21 am period_
+positive,Napping,Yeah_comma_ I needed a nap really badly so I went back to bed period_
+neutral,Short sleep,How long did you sleep for [B-PER]? period_
+negative,Interrupted sleep,I could only sleep for a little while because [B-PER] texted me period_
+neutral,What did [B-PER] text?,What did [B-PER] text you? period_
+negative,Disappointment,He basically told me that he couldn't make it this morning period_
+positive,Response to [B-PER],What did you tell [B-PER]? period_
+positive,Gratitude,I told him that I thank god had [B-PER] to help me period_
+neutral,TV watching,What were you watching on TV? period_
+neutral,Weather updates,I was watching the news for weather updates period_
+neutral,Staff check in,Did any of staff check on you that morning? period_
+negative,First to text,[B-PER] was the first one to text me period_ He apologized and said he wouldn't be able to make it period_
+neutral,Staff not prepared,Why didn't your staff prepare to help you? period_
+negative,Didn’t take snowstorm seriously,Well_comma_ because they didn't take the news of the snowstorm seriously at all period_
+neutral,Anger at staff,Were you mad at your staff? period_
+positive,Grateful for [B-PER],Not really_comma_ because [B-PER] was coming over to help me period_
+neutral,Weather forecast,What was the weather forecast saying? period_
+negative,Scary forecast,It was kind of scary period_ We were gonna have 3-plus feet of snow period_
+neutral,Staff check in,Did anybody call or text to make sure you were okay? period_
+positive,Text from [B-PER],Yeah_comma_ one of my staff [B-PER] texted me period_
+neutral,Staff help,I'm sure at least one of your staff were coming over to help period_
+negative,Staff didn't take it seriously,No_comma_ none of them took the news of the snowstorm seriously period_
+neutral,Weather updates,Were you checking the weather channel for updates? period_
+negative,Unhelpful updates,Yeah_comma_ but the updates weren't very encouraging period_
+neutral,Why were they bad?,Why? What were they saying? period_
+negative,Bad forecast,They predicted that we were gonna get 3-plus feet of snow period_
+neutral,Arrival time,Did [B-PER] make it exactly at 9:00 AM? period_
+negative,Delay,No_comma_ it was 9:15 and I hadn't even heard from her yet period_
+neutral,Starting to worry,I'm sure you were starting to feel a little worried period_
+positive,Concern for her safety,Oh yes period_ I was getting worried about her having to drive in the snow period_
+neutral,Passing time,What were you doing to pass the time? period_
+neutral,Getting some rest,I went back to my couch to get some shuteye period_
+neutral,Arrival time,What time did [B-PER] arrive? period_
+neutral,Lost track of time,I think it was 9:30 AM period_ I kind of lost track of time because I fell asleep period_
+neutral,Wearing something heavy,Were you wearing something heavy to keep you warm? period_
+negative,No shirt,No_comma_ I turned on my fireplace because I didn't have the energy to put on a shirt period_
+neutral,Sitting and waiting,Were you and [B-PER] sitting down and waiting for [B-PER]? period_
+negative,Fell asleep,I couldn't period_ I fell asleep as soon as I went back to my couch period_
+neutral,Getting to the front door,Did you get to the front door carefully to greet [B-PER]? period_
+positive,Funny moment,It was so funny! period_ I had no idea how I got to the front door from my couch period_ I must have been sleep-crawling period_
+neutral,Reaction to being shirtless,What was [B-PER]'s reaction to seeing you shirtless? period_
+positive,Laughing,She was laughing period_ We were both laughing and having such a good time period_
+neutral,No updates from [B-PER],Did [B-PER]nier text you to give you updates? period_
+negative,No text from [B-PER],No_comma_ it was 9:15 and she hadn't texted me anything! period_ I was getting worried period_
+neutral,Staying up and waiting,Why didn't you stay up and wait for her? period_
+negative,Tired and cold,Oh it was so cold and I was so tired period_ I fell asleep super fast period_
+neutral,Delay from snowstorm,Did [B-PER] get really delayed from the snowstorm? period_
+positive,30 minutes late,A little period_ She made it about 30 minutes late period_
+neutral,First greeting,What was the first thing [B-PER] said to you? period_
+positive,Good morning greeting,She greeted me good morning with a big smile on her face period_
+neutral,Cold feeling,I'm sure you felt really cold period_
+positive,Shivering,Yes! period_ I was shivering when the cold air came in through the door period_
+neutral,Main way to communicate,What's the main way you like to communicate? period_
+positive,Air-writing,I air-write period_ I spell out words with my arm letter by letter period_
+neutral,Frustration with air-writing,Does air-writing ever make you feel frustrated? period_
+positive,Patience,It does at times period_ But I try to keep calm and patient period_
+neutral,Use of [B-MISC]C device,Do you have an [B-MISC]C device? period_
+positive,Helpful device,I do period_ And it's helpful to me to type out longer things period_
+neutral,Frustration when talking,Do you ever feel frustrated when you talk to people? period_
+positive,Short conversations,Yes period_ because I have so much to say but I always have to keep it short period_
+neutral,Use of device,Do you use anything besides air-writing? period_
+positive,Using [B-MISC]C device,Yes period_ I have an [B-MISC]C device which helps me type out longer things period_
+neutral,Message to [B-PER],What did you say to [B-PER] with your device? period_
+positive,Make yourself at home,I told her to make herself at home because we might be stuck here for a few days period_
+neutral,Change in appearance,What difference did you notice with [B-PER]'s hair? period_
+positive,Blonde hair,She had changed her hair color to blonde period_
+neutral,Message by air-writing,What did you say to [B-PER] by air-writing? period_
+positive,Simple greeting,Oh I just told her hi and asked her to come in period_
+neutral,Location of device,Where was your augmentation device? period_
+positive,Near the TV,It was hooked up near the TV period_
+neutral,B-PER's outfit,What was [B-PER] wearing under her coat? period_
+positive,Black robe,She was wearing a black robe period_
+positive,Feeling happy,Were you feeling happy to see [B-PER]? period_
+positive,Feeling special,She made me feel so special because she dyed her hair blonde for me period_
+neutral,Looking at [B-PER],Why did you keep looking at [B-PER]? period_
+positive,Noticing a change,Because I knew something else was different about her period_ I really couldn't figure it out period_
+neutral,Staff situation,Did you tell [B-PER] about your staff situation? period_
+positive,Staff calling off,Yes period_ I told her that all of them had called off period_
+neutral,[B-PER]'s response,What did she think about that? period_
+positive,Smart girl,She said she had an idea that was going to happen period_ She is a smart girl period_
+neutral,Offering help,Did she offer to do anything? period_
+positive,Making juice,Yeah she said she was going to make me some juice period_
+neutral,Staff situation,What did you tell [B-PER] about your staff? period_
+positive,Staff calling off,I told her that all of my staff had called off period_
+neutral,[B-PER]'s surprise,Was [B-PER] surprised to hear that? period_
+negative,Not surprised,No period_ she knew that was gonna happen period_ That's why she came over period_
+neutral,Getting dressed quickly,Why did she want you to get dressed so quickly? period_
+positive,Freezing,Because she could tell I was freezing period_
+neutral,Bags location,Where did you want [B-PER] to keep her bags? period_
+positive,Keeping bags in the room,I told her to keep them in my room because I know upstairs was too cold period_
+neutral,[B-PER]'s reason to visit,What did [B-PER] say about why she wanted to come over? period_
+positive,Staff unpreparedness,She knew that my staff were not gonna be prepared to be here period_
+neutral,Shirt for you,Where did she go to find a shirt for you? period_
+positive,Looking in your room,She went to my room and looked into my closet period_
+neutral,Offering help,Did [B-PER] offer to do anything to cheer you up? period_
+positive,Making juice,Yeah, she wanted to make me some fresh juice period_
+neutral,Bags location,Why did you want her to keep her bags in your room? period_
+positive,Cold upstairs,I knew that upstairs would have been too cold for her period_
+neutral,In the room,What did [B-PER] do when she got to your room? period_
+positive,Removing robe,She took off her robe and put it on my bed period_
+neutral,Going to the kitchen,Where did [B-PER] ask you to go? period_
+positive,Going to the kitchen,She wanted me to go to the kitchen with her period_
+neutral,In the kitchen,What did you guys do in the kitchen? period_
+positive,Chatting,We sat down and started to chat about things period_
+neutral,Distance from [B-PER],How far did [B-PER] live from you? period_
+positive,10 minutes away,She lived about 10 minutes away period_
+neutral,Looking at [B-PER]'s clothes,Were you looking at what [B-PER] was wearing? period_
+positive,Adorable pajamas,Yeah, she had on adorable pajamas period_
+neutral,Leaving the bedroom,Where did you two go after the bedroom? period_
+positive,Going to the kitchen,She went to the kitchen and I followed her there period_
+neutral,Drive to your house,Did she say anything about her drive to your house? period_
+positive,Tough drive,Yeah, she said it was pretty rough period_ The roads were very hard to see period_
+neutral,Long drive,It must have taken her a while to drive to your place? period_
+positive,50-minute drive,Yeah, it took her 50 minutes when it's usually a 10 minute drive period_
+neutral,Teams in the game,How many teams did you play against when playing hockey? period_
+positive,Split into two teams,Just one because we split up into two teams period_
+neutral,[B-PER] on your team,Was [B-PER] on your team when you played? period_
+positive,B-PER on the team,Yes, [B-PER] asked to be on my team because I was a good goalie period_
+neutral,Friendship status,Were you and [B-PER] friends at this point? period_
+positive,Friendliness,Yes, he was so friendly to me from the start he was the best period_
+neutral,[B-PER]'s approach,How did you feel about him coming up to you? period_
+positive,Confusion at first, I was confused at first but he said it's because he thought I was cool period_
+neutral,Starting the game,How did your first hockey game start? period_
+positive,Team division,Everyone wanted to play so we made two teams period_
+neutral,Team members,Who was on your team? period_
+positive,[B-PER] on the team,[B-PER] and some other kids from school period_
+neutral,Asking to be on the team,Did you ask to be on [B-PER]'s team? period_
+positive,B-PER's request,No he asked me because of my awesome goalie skills period_
+neutral,Feeling about [B-PER]'s approach,Were you happy [B-PER] came up to you when he first saw you? period_
+positive,Kindness,Yes, because he was very kind to me from the start. He just wanted to make a friend period_
+neutral,Gathering the team,How did you gather a team for hockey? period_
+positive,Interest in playing,Everyone saw [B-PER] and I playing and everyone seemed like they wanted to play period_
+neutral,Team division,How did you guys divide the teams? period_
+positive,Teams division,We divided into two teams and [B-PER] was on my team period_
+neutral,[B-PER] knowing skills,Wow [B-PER] really liked you. Did [B-PER] know how good you were at hockey? period_
+positive,Recognizing skills,Yes, I think he saw my goalie skills and wanted me on his team period_
+neutral,Appreciating friendliness,Did you like how friendly [B-PER] was? period_
+positive,B-PER's kindness,Yes, he said he wanted to be my friend when he saw me period_
+neutral,Other sports played,Did you play any other sports with them? period_
+positive,Playing basketball,Yes, we played basketball but I have never played before period_
+neutral,Learning basketball,How did you learn how to play? period_
+positive,B-PER teaching, [B-PER] showed me the basics while I watched and listened period_
+neutral,Feeling after learning,How did you feel after he showed you the basics? period_
+positive,Excitement, I was excited when he was showing me how to play. I always wanted to learn period_
+neutral,Playing afterwards,Did you try to play afterwards? period_
+positive,Enjoying the game, I did and I really enjoyed playing with him period_
+neutral,Excitement to learn, Were you excited to learn how to play basketball? period_
+positive,Excitement,Yes, I always wanted to learn how to play it seemed fun period_
+neutral,Seeing others play,Did you ever see anyone play basketball? period_
+positive,Watching others, Yes, I always saw kids in the park playing and I always wanted to learn period_
+neutral,Who taught you,Who taught you how to play? period_
+positive,B-PER teaching, [B-PER] taught me how to play by showing me basics period_
+neutral,Feeling about skills,How do you feel about the skills he showed you? period_
+positive,Desire to practice, I thought I could do it and wanted to practice more period_
+neutral,New friendships,Did you make any new friends while playing basketball? period_
+positive,Became closer with [B-PER],Yes, I became closer with [B-PER] and met his friends period_
+neutral,Prior experience,Did you play prior to this? period_
+negative,No prior experience,No I never have had the opportunity to play basketball period_
+neutral,Learning how to play,Did they show you how to play? period_
+positive,B-PER teaching,Yes, [B-PER] showed me basics so i could learn period_
+neutral,Readiness to play,Were you ready to play after he demonstrated? period_
+positive,Excitement to play,Yes, I always wanted to learn so I was ready to go period_
+neutral,Outcome of the game,How was the outcome of the game? period_
+positive,Winning score,We won 4-1 we were all very happy. We played for 40 minutes to! period_
+neutral,Fun level,Did you have fun playing? period_
+positive,Enjoyable time,Yes, I had a great time and thanked [B-PER] after period_
+neutral,Desire to continue playing,Did you want to continue to play? period_
+positive,Willingness to play more,Yes, I had so much fun I wanted to play more with them period_
+neutral,Post-game activities,Did you guys hang out after playing? period_
+negative,No hangout,No we all had to go home and I said bye to [B-PER] period_
+neutral,Playing time,How long did you play before going home? period_
+positive,Game duration,We played for 40 minutes and then we went home! period_
+neutral,Final score,What was the final score of the game? period_
+positive,Winning score,The end score of the game was 4-1 period_
+neutral,Desire to play again,Did you want to play more with him another time? period_
+positive,Future plans,Yes, we wanted to plan something soon period_
+neutral,Desire to be friends,Did you want to be friends with [B-PER] after that? period_
+positive,Desire for friendship,Yes, I wanted to become better friends with him period_
+neutral,Outcome of the game,Did you win your game? period_
+positive,Winning score,Yes, we won 4-1 I was really proud of us period_
+neutral,Playing time,How long did you play for? period_
+positive,Game duration,We played for 40 minutes. It was exhausting period_
+neutral,Desire to play again,Did you want to play again? period_
+positive,Weekly play,Yes, we wanted to play every week period_
+neutral,Playing again with [B-PER],Did you and [B-PER] play again? period_
+positive,Desire to talk more,Yes, we wanted to talk more soon and I wanted to be his friend period_
+neutral,Travel home,How did you get home from school? period_
+positive,Bus ride, I took the bus home and it was a very long ride period_
+neutral,Family member at home,Who did you see when you got home from school? period_
+positive,Seeing brother,I saw my brother after I got off the bus period_
+neutral,Conversation topic,What did you talk to him about? period_
+positive,Hockey conversation,I told him that I played hockey and I played goalie period_
+neutral,Position of brother,What position does your brother play? period_
+positive,Brother's position,In hockey he played the forward position period_
+neutral,End of the day,How did the end of your day go after playing sports? period_
+negative,Dreading the bus ride,I got on the bus and I was dreading it the whole way home period_
+neutral,Preparing for camping,What did you have to do when you got home? period_
+positive,Excitement for camping,I had to get ready for camping. We went every year and I always looked forward to it period_
+neutral,First thing after getting home,What happened when you first got home? period_
+positive,Talking about hockey,I went inside and talked to my brother how I played hockey period_
+positive,Brother's reaction,I am sure he was excited about that. How did he react? period_
+positive,Brother's excitement,He was excited and wanted to play with me when we got home from camp period_
+neutral,Feeling after the first day,After the first day, were you happy to be home? period_
+positive,Excitement for summer,Yes the bus ride was annoying and I was just excited for summer period_
+neutral,Spending summers,How did you spend your summers? period_
+positive,Camping in summer,We usually go camping which is a blast period_
+neutral,Timing of camping,Did you go right after school ended? period_
+positive,Camping plans,Yes, as soon as we got home I planned to get ready period_
+neutral,Talking to brother,What else did you do when you got home? period_
+positive,Talking about hockey,I talked to my brother about hockey period_
+neutral,Camping departure,When did your family leave for camp? period_
+positive,Leaving at the end of summer,We left at the end of the summer because we stayed the whole time period_
+neutral,Location of camping,Where did your family go camping? period_
+positive,Camping at [B-LOC]utauqua [I-LOC],Every year we went to [B-LOC]utauqua [I-LOC] and it was the best time period_
+neutral,What was missed most,What did you miss the most when you left? period_
+positive,Missing family time,I missed swimming in the lake with my Dad period_
+positive,Quality family time,That's so nice you were able to have quality family time every summer period_
+neutral,Excitement after camp,Were you excited to play hockey after leaving the camp? period_
+positive,Excitement for practice,Yes, my brother said we would practice more and I would get so much better period_
+neutral,Brother's pride,Were you excited when he said that to you? period_
+positive,Brother's pride,Yes, he also was very proud of me which felt good period_
+neutral,What was missed most after camp,What did you miss most after leaving the lake? period_
+positive,Missing family and friends,Swimming with my family and all the friends I have camping period_
+positive,Camping is home away from home,That sounds so nice. Camping is really your home away from home period_
+neutral,Leaving the lake,Did you look forward to anything leaving the lake? period_
+positive,Excitement for hockey, I was excited to practice hockey more with my brother period_
+neutral,Family presence at camp,Did your whole family stay in the lake for the summer? period_
+negative,Father's schedule,No, my dad would only come on the weekends because of work. He saved all his time off during the year for it period_
+neutral,Dislike of any activity,Is there any activity you didn't enjoy when being at the lake? period_
+negative,Boat anxiety,We would sometimes go on the boat and the boat always made me nervous period_
+neutral,Relationships with other campers,Were you close with the people that were camping? period_
+positive,Close family friends,Yes, my family had a lot of friends that we were sad to leave at the end of the summer period_
+neutral,Friendships at camp,Did you have close friends up at the camp? period_
+positive,Close camp friends,Yes, they were great people that we considered family period_
+neutral,Fun activities together,Would you guys do anything fun together? period_
+positive,Fun in sandbox,Yes, we would go in the sandbox that I would personally be in all the time period_
+neutral,Spending time in the sandbox,That's so fun! Would you always be with them in the sandbox? period_
+positive,Always together in sandbox,Yes, I couldn't go anywhere in the sandbox by myself so my friends would always accompany me period_
+positive,Good friendships,That's so nice that you had such good friends! period_
+positive,Gratitude for friends,Yes, I was very lucky to make such good friends at the camp period_
+neutral,Living with others,How was it living with other people? period_
+positive,Memorable experience,It was very memorable and we considered them apart of our family period_
+neutral,Relationships with others,How was your relationship like with them? period_
+positive,Good relationships,We got along very well and they were always very kind to us period_
+neutral,New friendships,Did you make any other friends in the community? period_
+positive,Friends in the sandbox,Yes I was able to make some friends that would play in the sandbox with me period_
+positive,Special memories,It sounds like you have made such great memories at this place! period_
+positive,Grateful for memories,Yes I miss these special days so much right now period_
+neutral,Becoming close,How did you become so close with them? period_
+positive,Spending time together,My parents were working constantly so we spent a lot of time with them. We consider them our family period_
+positive,Feeling close to camp friends,That's so nice you are so close with them period_
+neutral,Looking out for each other,They always looked after us. They truly became our second parents during the summer period_
+positive,Bond with camp family,Bonds like that are so special. That is so heartwarming period_
+positive,Gratitude for camp family,Yes, I am very grateful and lucky to have them period_
+positive,Special camp family,It sounds like they are very grateful for you too period_
+positive,Special summer family,Yes, that's why our summer family is very special period_
+neutral,Most relaxing activity,What is the most relaxing thing you do camping? period_
+positive,Relaxing walks,The most relaxing thing we do is go on a walk after dinner. It's always so peaceful period_
+neutral,Post-walk activities,Would you guys do anything after your family walk or that was the end of your day? period_
+positive,Campfire activities,Our Mom and Dad would start a campfire period_
+neutral,Cooking with campfire,Would your family cook anything in the campfire? period_
+positive,Camp pie,We would make camp pie which is my favorite sweet treat! period_
+neutral,How to make camp pie,How would you make camp pie? period_
+positive,Recipe for camp pie,You would get two pieces of bread and put apple filling on one side. Then, you put in the camp pie from 5 to 7 minutes period_
+neutral,Post-dinner activities,Would you do anything with your family after dinner time? period_
+positive,Family walks,My family and I would go on walks with another after dinner period_
+neutral,Enjoying family walks,Did you like going on family walks? period_
+positive,Relaxing walks,Yes it was always very relaxing period_
+neutral,Talking during walks,What would you guys talk about on your walks? period_
+positive,Family bonding time,We would always talk about how our days went. This was a very special time where our family was able to all be together and bond period_
+neutral,Post-walk activities,Would you guys do anything after your walk? period_
+positive,Campfire time,My mom and dad would start a campfire where we would roast marshmallows and make the camp pie. The pie was always delicious period_
+positive,Missing camping,Do you miss camping during the year? period_
+positive,Memories of camping,Yes I miss simpler times like that. Those moments with all of us were so memorable period_
+neutral,Camping activities,What did you guys do while camping? period_
+positive,Camping activities,We would roast marshmallows, go on walks, and make pie together period_
+positive,Family bonding,Did you spend a lot of time with your family? period_
+positive,Family bonding,Yes, it was great family bonding for us especially with my siblings period_
+neutral,Sibling activities,What activities would you and your siblings do together? period_
+positive,Sibling bonding,We would play games and tell stories to one another. You just reminded me of how I truly miss these times period_
+positive,Enjoying summer,What is your favorite thing to do during the summer? period_
+positive,Relaxing in summer,I love going outside, watching people and just relaxing. I have to get up so early during the school year so it's nice to have down time period_
+neutral,Watching people,What do you like to watch? period_
+positive,Watching nature,I like to watch people come by and also the squirrels and birds. It's so beautiful period_
+negative,End of summer,That's sounds lovely. Are you sad summer is ending? period_
+positive,Feeling sad about summer,Yes, I am very sad summer is ending. I love summer it's so peaceful period_
+positive,Looking forward to company,I totally understand that. Well I am excited to hang out with you more period_
+positive,Looking forward to company,Yes, me too! That is definitely something I am looking forward to even though the summer is ending period_
+positive,Ideal summer day,What is your ideal day during the summer? period_
+positive,Ideal day outdoors,Sit outside, people watch, and just relax period_
+positive,Enjoying summer activities,That sounds like a perfect day during the summer. Do you like any activity the best? period_
+positive,Visiting the park,I like to go to the park and watch the kids play period_
+positive,Nostalgia,That sounds like so much fun I used to do that all the time when I was a kid period_
+positive,Glad for summer time,Yes, it is really fun. I am really glad we have had this time together this summer period_
+positive,Not wanting school to start,Me too, I don't want school to start period_
+positive,Still spending time together,I know, but I am happy we can still spend time together period_
+positive,Outdoor activities,What are some summer activities you do? period_
+positive,Enjoying outdoor time,I enjoy being outdoors, people watching and relaxing period_
+neutral,Interest in people watching,Why do you like to people watch? period_
+positive,Watching families and friends,I like seeing families all together and friend groups period_
+neutral,Watching other things,Do you watch for anything else besides people? period_
+positive,Watching animals,Yes, I always see birds and squirrels also period_
+positive,Staying inside,Do you like to stay inside at all? period_
+neutral,Enjoying the outdoors,Only during certain times of the day. I like being outside the best because it is very peaceful period_
+neutral,Morning routine,Do you have a rigorous morning routine? period_
+positive,Simple morning routine,I have a very easy morning routine because I wake up very early period_
+neutral,Preparing the night before,Do you do anything the night before to prepare? period_
+positive,Preparing for the morning,The only thing I do is put on my socks before bed period_
+neutral,Morning preparation,What do you do during the morning then before you get on the bus? period_
+positive,Morning tasks,I throwaway my underwear, pants, and shirt. Then, I use the bathroom and go downstairs to eat cereal. When I am done with breakfast I brush my teeth and hair. Then I get on the bus at 7 am period_
+neutral,Preparing for the morning,Do you do anything the night before to prepare for your mornings? period_
+positive,Socks before bed,I put my socks on before going to bed the night before so there's one less thing I have to do! period_
+neutral,Post-bedtime activities,What do you do after getting out of bed? period_
+positive,Going to breakfast,I immediately go to the bathroom and go downstairs to eat breakfast. Somedays it is very hard to get out of bed though period_
+neutral,Time for breakfast,How long does it take you to eat breakfast each morning? period_
+positive,Quick breakfast,My go-to breakfast is cereal so it usually takes me around 15 minutes. Although, it could take longer depending on if I eat more period_
+neutral,Post-breakfast activities,What else is there to do in the morning after you eat? period_
+positive,Getting ready for school,Firstly, I brush my teeth and hair. Then I get ready for school so I make my bus that comes at 7 am period_
+neutral,Morning routine,What is your morning routine like? period_
+positive,Simple morning routine,I have a very easy morning routine because I wake up at 6:15 every morning period_
+neutral,Starting the morning,How do you start off your mornings? period_
+positive,Socks and getting ready,Well at night I put on socks so the next morning I throw out my underwear, pants, and shirt in less than 10 minutes period_
+positive,Quick start to the day,That's so smart! You don't waste any time. What do you do after that? period_
+positive,Morning routine, I usually go to the bathroom and then eat cereal for breakfast. If I am hungry I'll eat something else period_
+neutral,Travel to school,How long does it usually take to get to school? period_
+positive,Long bus ride,Well the bus usually comes around 7 am and then it is a 50 to 70 minute bus ride on the way there and the same amount of time on the way back period_
+neutral,Weekend plans,How do you like to spend your weekends? period_
+positive,Weekend relaxation,Overall, I just like to relax and not do much period_
+neutral,Starting weekends,How do you start your day on the weekends? period_
+positive,Weekend mornings,I start my day by waking up at 8 and watching TV period_
+neutral,Weekend shows,What do you usually watch on TV? period_
+positive,Watching movies and shows,I usually watch movies and TV shows period_
+positive,Weekend relaxation,That sounds so nice. Do you do anything else? period_
+positive,Weekend reading,I also usually read on the weekends. It really is very relaxing which I need period_
+positive,Relaxing weekend,What was your weekend like? period_
+positive,Weekend relaxation,Very relaxing which is awesome. I got to sleep in because I have to wake up very early during the week period_
+neutral,Weekend wake up,What time do you usually wake up on the weekends? period_
+positive,Waking up late,I usually wake up before 8:00 AM which is the perfect amount of sleep for me period_
+positive,Weekend activities,That's awesome good for you! What did you do for the rest of the day? period_
+positive,Weekend activities,I watched TV, read a book, and even had time for an afternoon nap! period_
+positive,Weekend rest,Good for you. I am glad you were able to reset after a long week period_
+positive,Weekend reset,Yes it was well needed after a long week of waking up early and rushing out the door period_
+positive,Relaxing weekend,Did you have a relaxing weekend? period_
+positive,Weekend relaxation,Yes, I didn't have to rush anywhere like I do during the week. It was so nice period_
+positive,Weekend rest, I am happy you had a relaxing weekend! It's always nice to refresh period_
+positive,Weekend self-care,Yes, it is always nice to have downtime for yourself period_
+neutral,Weekend relaxation activities,What activities did you do to relax this weekend? period_
+positive,Relaxing activities,I slept in, watched TV, read a book, and took a nap period_
+positive,Need for downtime,I definitely need to have more downtime. You take such good care of yourself period_
+positive,Importance of self-care,Yes, having that time to take care of yourself is key to starting a new week period_
+positive,Spending time with mom,Would you and your mom do anything together when you were younger? period_
+positive,Fun at the mall,We would go to the mall together which was always a blast period_
+neutral,Childhood activities,What else did you like to do when you were younger? period_
+positive,Playing with toys,I would play toys by myself or with companions I had period_
+neutral,Favorite playmate,Who was your favorite person to play with? period_
+positive,Favorite playmate,My mom's friends daughter. She was four years old period_
+neutral,Keeping in touch,Did you keep in touch with her growing up? period_
+negative,Shyness around friend,No I was very shy around her because I couldn't talk period_
+positive,Liking the mall,Do you like going to the mall? period_
+positive,Fun with mom,Yes, my Mom and I would go together and it would be so much fun period_
+positive,Post-mall activities,Aw, that's so nice. Would you do anything after the mall? period_
+positive,Playing with toys,Yes, I would play with my toys. Sometimes I would play with my mom's friends daughter who was a baby girl at the time period_
+neutral,Meeting mom's friend,How did your mom meet this friend? period_
+positive,Mom meeting friends,My mom met her bowling and they become friends period_
+positive,Feelings for playmate,Did you have any interest in your mom's friends daughter? period_
+positive,Shyness around girls,Yes, I had feelings for her. I never knew if I should say something. I also would get very shy around girls and didn't know how to talk to them period_
+positive,Spending time with mom,What was your favorite thing to do with your mom? period_
+positive,Fun at the mall,My mom and I used to go to the mall and it was always so much fun period_
+positive,Post-mall activities,Would you guys do anything together after going to the mall? period_
+positive,Playing with toys,When we would get home I would play with my favorite toys. I had so many it was hard to pick which ones to play with period_
+positive,Playing with others,Did you ever play toys with anyone? period_
+positive,Playing with friends,Yes I played toys with a couple of friends, one being my mom's friends daughter. She was such a cute little girl and we would always have the best time playing toys period_
+neutral,Friendship growing up,Were you guys still friends as you grew up? period_
+positive,Timid around girls,Yes, I still would see her when we were older. She became very funny but I became very timid because I didn't know how to talk to girls. I liked her a lot and didn't know how she felt about me. I still had some feelings for her over the years period_
+positive,Interest in sign language,Why were you watching those people sign? period_
+positive,Learning sign language,I'm so interested in sign language. I would always watch their conversations so I could understand it better period_
+neutral,Learning sign language,Do you know any sign language? period_
+positive,Struggles with learning sign, I am trying to learn sign language, but it is hard because my hands shake alot period_
+neutral,Communicating with sign,Did you ever talk to those people signing? period_
+positive,Joining the conversation,One day they gave me a hard time for staring at them so I signed to them period_
+positive,Becoming friends,What ended up happening? period_
+positive,Joining the group,They let me into their group, we were friends period_
+neutral,Understanding sign language,Did you already know sign language when you were watching them? period_
+positive,Understanding sign language,I understood them, but I wanted to learn more period_
+positive,Enjoying signing,Do you like signing? period_
+positive,Struggles with signing,I do enjoy signing but it can be hard because my hand shakes alot period_
+neutral,Communicating through sign,Where you able to communicate with those people? period_
+positive,Joining the group,They let me watch them sign. They also started including me in their conversations! period_
+positive,Becoming friends,Did you ever become friends? period_
+positive,Riding the bus together,Yes! We rode the bus together! period_
+neutral,Feeling misunderstood,Why do you think those people were mad? period_
+positive,Watching them sign,Because they knew I was watching them sign period_
+neutral,Talking to them,Did you ever get to tell them you are interested in sign? period_
+positive,Telling them about interest,Yes, I let them know I understood period_
+neutral,Reaction to learning,How did they react? period_
+positive,Shocked reaction,They were shocked! period_
+neutral,Watching them sign,Did they mind you watching them sign after that? period_
+positive,Joining the group,They let me watch them sign and I got to join their conversations! period_
+neutral,Confrontation on the bus,Did the people on the bus confront you? period_
+positive,Noticing the stares,They noticed I was starting at them and gave me a hard time period_
+neutral,Defending yourself,So what did you do? period_
+positive,Sign language defense,I signed "I am not dumb" period_
+neutral,Shocked reaction,Were they shocked? period_
+positive,Confusion at first,They were confused at first period_
+neutral,Explaining yourself,What did you tell them? period_
+positive,Explaining the interest,I told them that I was staring at them because I wanted to learn sign language better period_
+neutral,Sign language response,What happened when you signed to them? period_
+positive,Puzzled at first,At first they were puzzled that I could sign period_
+neutral,Watching them sign,Did they let you watch them sign? period_
+positive,Watching them sign,They let me watch them sign from then on period_
+neutral,Practicing with them,Did you ever practice signing with them? period_
+positive,Becoming part of the group,They included me in their group, I got to answer their questions in sign period_
+neutral,Enjoying the bus ride,Did you enjoy your bus ride after that? period_
+positive,Enjoying the ride,Yes! My bus rides went much faster because I was learning sign period_
+neutral,Understanding sign language,How did the people signing know you understood? period_
+positive,Sign language defense,I signed "I am not dumb" at them period_
+neutral,Shocked reaction,Wow they must have been shocked. Did you get to know them after that? period_
+positive,Learning from them,Yes, they let me watch and practice with them so I could get better at signing period_
+neutral,Getting better,Did you get better? period_
+positive,Struggles with signing,I learned alot more sign, but it is hard for me to do them because my hand shakes alot period_
+positive,Including you in conversations,Did they still try to communicate with you through sign? period_
+positive,Still included,They knew it was hard for me but they still included me in their conversations and group period_
+neutral,Shocked reaction,Why were the people on the bus shocked? period_
+positive,Surprise at knowing sign,They didn't know I could sign or understand sign period_
+neutral,Reaction to staring,What did they think? period_
+positive,Defending myself,They used to get mad that I would stare at them, but then I explained I wanted to learn more sign language period_
+neutral,Communicating with them,Did they ever try to communicate with you? period_
+positive,Including in conversations,Its hard for me to sign but they still included me in their conversations period_
+neutral,Struggles with signing,Why is it hard for you to sign? period_
+positive,Shaking hands,It's hard for me to sign because my hand shakes alot period_
+positive,Stopping the hard time,When did the people on the bus stop giving you a hard time for staring? period_
+positive,Discovering sign language,When they found out I could sign period_
+positive,Being accepted,Were they nice to you after that? period_
+positive,Watching them sign,Yes they let me watch them on the bus period_
+positive,Enjoying their company,Did you enjoy their company? period_
+positive,Enjoying the bus ride,Yes, it made my bus ride go alot faster! period_
+neutral,Participating in conversations,Did you only watch them sign? period_
+positive,Answering questions,No they asked me questions to answer period_
+neutral,Struggling to sign,Is it easy for you to sign? period_
+neutral,Struggling with sign,It can be hard signing period_
+neutral,Reason for difficulty,Why is it hard for you to sign? period_
+positive,Shaking hands,Because my hand shakes period_
+positive,Being included,Did that stop you from participating in their conversations? period_
+positive,Still included,No, they included me in their group period_
+neutral,Being included,How did they include you? period_
+positive,Answering questions,Even though they knew it was hard for me they still asked me questions to answer back in sign with period_
+positive,Enjoying the bus ride,Did you enjoy your bus rides? period_
+neutral,Bus ride experience,It was long but it was interesting seeing different groups of people period_
+positive,Interest in a group,Were you interested in a specific group on the bus? period_
+positive,Interested in signing,Yes, I was always interested in a group of deaf kids that signed period_
+positive,Joining the group,Did you ever get to sign with them? period_
+positive,Joining their group,Yes! I was grateful they let me into their group period_
+positive,Feeling grateful,Why were you grateful? period_
+positive,Practicing sign language,It let me practice and learn sign language more period_
+positive,Meeting the older girl,Who came onto the bus that one day? period_
+positive,Charming girl,A charming older girl period_
+neutral,What did you like about her?,"She was beautiful with long brown hair, and she was wearing a dress. "
+positive,Smiling at her,Did you talk to her when she got on? period_
+positive,Smiling at her,I smiled at her period_
+neutral,Where did she sit?,"She sat a few seats away from me. "
+positive,Thoughts on the older girl,What did you think about the older girl who came on the bus? period_
+positive,Finding her attractive,I thought she was hot so I smiled at her! period_
+positive,What she was wearing,What was she wearing? period_
+positive,Beautiful in a dress,She was wearing a dress, I thought she looked beautiful period_
+positive,Friends noticing her,Did the guys in your group notice her? period_
+positive,Signing to friends,I signed to them about her! period_
+positive,What did you tell them?,"I said 'Wow, she's hot!'"
+positive,Signing about the girl,What did you sign to your friends about the girl? period_
+positive,Complimenting her,I signed to them 'Wow she is hot!' period_
+neutral,Did she notice?,Did she notice you say that? period_
+positive,Realizing she understood,Yes, I didn't realize she understood sign language! period_
+neutral,Embarrassment,Were you embarrassed? period_
+positive,Feeling embarrassed,I was shocked! My face turned red! period_
+positive,Her response,What did she say to you? period_
+positive,Thankful response,She thanked me and told me I made her day period_
+neutral,Remembering the older girl,Do you remember the older girl on the bus? period_
+positive,Recognizing her,Yes! She was picked up from the high school every Tuesday and Thursday! period_
+positive,Thoughts on her,What did you think about her? period_
+positive,Finding her attractive,I thought she was beautiful, charming, and hot period_
+neutral,How did you start talking to her?,How did you start talking to her? period_
+positive,Embarrassing moment,It was so embarrassing! I signed to my friends that she was hot, but I didn't know she understood sign. period_
+positive,Her reaction,Was she upset with you? period_
+positive,Her understanding,No, she was very nice! She thanked me and told me it made her day! period_
+neutral,Age difference,How old were you when you met the older girl? period_
+positive,Age difference,I was nine and she was sixteen? period_
+neutral,Meeting her,Where did you meet? period_
+positive,On the bus,On the bus, I thought she was beautiful. She had long brown hair. period_
+positive,Her thoughts about him,What did she think about you? period_
+positive,Feeling happy,She told me I was cute, that made me happy period_
+neutral,Riding the bus together,Did you ride the bus together? period_
+positive,Riding the bus together,We rode the bus together every Tuesday and Thursday, I always dressed nice on those days. period_
+neutral,After the compliment,What happened after you called that older girl hot? period_
+positive,Her response,She thanked me and said that I was cute. period_
+positive,Becoming friends,Did you both become friends? period_
+positive,Getting to know each other,I got to know more about her on those bus rides and she learned a lot about me. period_
+neutral,Age gap,Isn't 7 years a pretty big age gap for friends? period_
+positive,Understanding each other,I thought she understood me pretty well. period_
+neutral,Living close,Did you guys live close together? period_
+positive,Living nearby,She lived ten minutes away from my house! period_
+neutral,Reaction to hearing aids,How did your friends and family react to the hearing aids? period_
+positive,Struggles with acceptance,It was hard for them to understand at first. They thought I didn't want to wear hearing aids because I wanted to avoid hearing them talk. period_
+neutral,Feeling misunderstood,It sounds like they took it pretty personally. period_
+positive,Turning off hearing aids,Well, for a while I thought my hearing was the same, so I tried to turn the hearing aids off. I thought I didn't need them. period_
+neutral,Leaving them off,Did you end up just leaving them off? period_
+positive,Sometimes it worked,No. Some days it worked, because I wore them and would still get pain, but no headaches. So everyone was happy those days. period_
+neutral,Everyone being happy,What do you mean that everyone was happy? Both you and your family? period_
+positive,Happy family and self,Yeah, I was happy because it wasn't headaches like it sometimes would, but I still had them in so my family was happy too. period_
+neutral,Hearing aids frustration,What did you end up doing with your hearing aids? period_
+positive,Trying to make it work,I told people I didn't want to wear them, but they didn't understand, so sometimes I just turned tried to turn them off period_
+neutral,Frustration with understanding,It can be frustrating when people won't listen to your needs period_
+positive,Sometimes no pain,Yes, even after I explained they still had trouble understanding. Sometimes I wore them and didn't get headaches, and that made everyone happy period_
+neutral,Weekend relief,Oh, so there were days when you were able to wear them with no pain? That's great! period_
+positive,No headaches on weekends,Well, I still had pain, but no headaches. Honestly, the best times were the weekends because of it period_
+positive,Weekend relaxation,What about your hearing aids made you like weekends the most? period_
+positive,No hearing aids on weekends,I would take my hearing aids off on the weekends and just relax. It was great period_
+neutral,Reaction to not liking hearing aids,How did they react when you told them you didn't like your hearing aids? period_
+positive,Thoughts on not wearing them,When I told them about it, they thought I didn't want to wear them period_
+neutral,Why not wear them?,Why didn't you want to wear them? period_
+positive,Turning them off,I thought my hearing was the same, so I tried to turn it off period_
+neutral,Reasoning behind it,I see. But why did you think your hearing was the same? period_
+positive,Still hearing TV and parents,Because I could hear the TV and my parents talking period_
+neutral,Understanding the issue,But those are both loud noises. It's possible that you could hear those noises even if you had hearing loss. period_
+positive,Not wanting to admit loss,I guess you're right. But I didn't want to admit that I had hearing loss period_
+positive,Weekend plans,What would you do on the weekends? period_
+positive,Shopping with mom,Sometimes I went with my mom to the mall on Saturdays. I enjoyed that period_
+neutral,Enjoying the mall,The mall has a lot of great things in it. What did you like to do there? period_
+positive,People watching,My mom would go there to find good shopping deals, but I liked to people watch period_
+positive,Enjoying people watching,People watching can be fun. What do you like about it? period_
+positive,Laughing at people watching,I like watching the girls in the mall. Sometimes [B-PER] and I would laugh about it period_
+positive,Fun memories,That sounds like a great time! period_
+positive,Fun at the mall,It was. I have a lot of fun memories from the mall period_
+positive,People watching at the mall,What kinds of things did you like doing at the mall? period_
+positive,Watching girls at the mall,I loved to people watch. I remember one day, [B-PER] turned to me and asked if I was people watching period_
+positive,Honest response,What did you tell her? period_
+positive,Changing the wording,She said, "I need the honest [B-PER],” so I said okay, and she deleted my line about people watching and typed in boy watching instead period_
+positive,Reaction to change,She typed in boy watching into your device? How did you react? period_
+positive,Frustration with change,I yelled at her and said I was watching girls instead period_
+positive,Fun despite frustration,I bet it was frustrating to have her typing for you. period_
+positive,Laughing it off,No, we were just having fun. We both had a good laugh about it period_
+neutral,Reacting to girl watching,Did anyone ever react to your girl watching at the mall? period_
+positive,Reaction from [B-PER],I remember [B-PER] reacting once. I told her I was girl watching and she said "I am happy that you like girls and not boys, because I was scared you might." period_
+neutral,Responding to the comment,I'm not sure how I would react to that. What did you end up responding with? period_
+positive,Playful response,I said to her, after we're done eating, I will put you in the snow for that! period_
+positive,Laughing together,What happened next? period_
+positive,Having fun,We both laughed. It was a lot of fun, and we were joking around period_
+positive,Sharing a meal,I'm glad you were both having fun! period_
+positive,Sharing food,Yes. She gave me a bite of pizza after that and had a bite too period_
+neutral,Comment about the mall,What happened next? period_
+positive,Boy watching comment,[B-PER] said "I saw going to the mall with your mom for shopping and boy watching." period_
+neutral,Defending the plan,How did you respond? period_
+positive,Defending the fun,I said she was cute, but that I wasn’t going boy watching! I was going to see everything and girl watch period_
+neutral,Experience at the mall,What is it like when you go to the mall? period_
+positive,Wheelchair arrangement,Normally my mom would push me around in my wheelchair period_
+positive,Enjoying the mall,Did you enjoy that arrangement? period_
+positive,Enjoying the ride,Yes. I would get to sit back and just watch everything period_
+neutral,Other activities as a kid,What other things did you do as a kid? period_
+neutral,Staying home or going out,If we didn't go to the mall, I would stay home and play with my own toys period_
+positive,Enjoying playtime,That makes sense. What was that like for you? period_
+positive,Enjoying space,I had my own space to play in, and I would play for hours and hours period_
+neutral,Playing alone,Were you alone when you played? period_
+positive,Playing with dad,Sometimes, but if I didn't want to play alone I would go downstairs and watch my dad play with his trains period_
+neutral,Trains,Play with his trains? period_
+positive,Dad’s collection,Yes. He has about 200 miniature trains. He would only play with them on weekends period_
+positive,Weekend routine,What were your weekends like? period_
+positive,Relaxing weekends,They were very nice. When I wasn't at the mall, I was either playing with toys or watching my dad period_
+positive,Watching dad,What were you watching your dad do? period_
+positive,Watching trains,He had almost 200 miniature trains. He would only play with them on weekends period_
+positive,Fun with trains,That sounds like fun. Trains are really cool. period_
+positive,Enjoying trains,Yes, I enjoyed it. But I was sad when the weekend was over period_
+neutral,Why sad?,Why were you sad when the weekend was over? period_
+positive,Back to school,Because then I had to go back to school and wear my hearing aids again period_
+negative,Thoughts on hearing aids,What did you think of your hearing aids overall? period_
+negative,Disliking the hearing aids,I really didn't like my hearing aids. I dreaded having to wear them period_
+positive,Why dislike them?,Why did you feel so strongly about them? period_
+negative,Headaches and difficulty,They gave me headaches, and they were hard to remember period_
+neutral,Forgetfulness,Why did you have trouble remembering them? period_
+positive,Feeling separate,They just didn't feel like they were a part of me period_
+positive,Frustration with hearing aids,That sounds like it would be frustrating. period_
+negative,Disliking them,It was. I really disliked my hearing aids period_
+negative,Hearing aids at school,How did you handle bringing your hearing aids to school? period_
+negative,Forgetting the hearing aids,Not well. Sometimes I would forget my hearing aids at home period_
+neutral,Reason for forgetting,Why would you forget them? period_
+negative,Feeling separate,They just felt like a separate thing. When I did remember them, I would try to turn them down or off period_
+positive,Problems with hearing aids,Did that ever cause issues for you? period_
+positive,Swimming pool issue,Sometimes. I started having problems because the school had a swimming pool period_
+neutral,Hearing aids at school,It seems like hearing aids would be tough to handle bringing back and forth from school. period_
+negative,Struggling with hearing aids,They were. They just didn't feel like a part of me period_
+neutral,Tracking hearing aids,Was it easy to keep track of your hearing aids? period_
+negative,Forgetting hearing aids,Some days, I would forget them at home because I felt like they weren't a part of me period_
+positive,Difficulty without them,Wasn't it difficult to hear without them? period_
+negative,Hearing aid discomfort,It was. I couldn't hear what was going on in class, but the hearing aids hurt my ears. I knew I needed them, so I tried to remember them period_
+neutral,Feeling disconnected,I can understand that. But why did you feel like they weren't a part of you? period_
+negative,Not feeling right,I don't know. I just didn't feel they were right for me period_
+positive,Glad to wear them,Well, I'm glad you eventually came around to wearing them period_
+positive,Help from hearing aids,Me too. they've really helped me period_
+negative,Hearing aids in school,What was it like to have hearing aids in school? period_
+negative,Teacher taking hearing aids,It was hard. One of my teachers would take my hearing aids period_
+neutral,Teacher taking them away,They would actually take them away from you? period_
+negative,Teacher questioning,They would take them so they could see them. One day a teacher asked me, "why are they off?" period_
+negative,Teacher’s reaction,Oh, that must have been scary. What did you do? period_
+positive,Playing dumb,I played dumb because I did not want them to know I had turned them off on purpose period_
+positive,Teacher’s persistence,Did they believe you? period_
+positive,Persistence in questioning,Yes, but a few weeks went by and they kept asking the same question period_
+negative,Teachers' questions,What did your teachers think of your hearing aids? period_
+negative,Annoying questions,They would constantly ask me about them. It was annoying period_
+neutral,Why annoying?,Oh? What about them asking was annoying? period_
+negative,Repeated questions,They would always ask me why my hearing aids were off period_
+positive,Playing dumb,How would you respond to things like that? period_
+negative,Hiding the truth,I would play dumb and pretend I didn't realize period_
+positive,Why hide the truth?,Why would you play dumb instead of telling them the truth? period_
+negative,Not wanting to admit,I didn't want them to know I'd turned them off on purpose period_
+negative,Getting in trouble,Did you ever get in trouble for having your hearing aids off? period_
+negative,Teacher’s persistence,Yes, I did. I would always have teachers bug me about why my hearing aids were off period_
+neutral,What did they do?,What would they do? period_
+negative,Turning them back on,They would keep asking why it was off and then turn it back on for me period_
+positive,Frustration with control,it must have been frustrating to be forced to turn them back on period_
+negative,Disliking hearing aids,Yes, I hated it. I didn't want to wear them, and didn't want to have to listen to everything period_
+positive,Needing hearing aids,But don't you need your hearing aids to hear what the teacher is saying in school? period_
+positive,Teacher’s frustration,I did. That's why they would always get mad at me period_
+negative,Keeping them off,Did you just keep your hearing aids off all the time? period_
+neutral,Teacher’s notice,Yes, but one day a teacher asked me to come see her period_
+neutral,Teacher’s inquiry,What did she want from you? period_
+negative,Teacher noticing,She noticed my hearing aids had been off for a few weeks period_
+positive,Teacher’s control,Oh, I see. So what did you do? period_
+neutral,Turning them back on,I went to see her, and she turned my hearing aid back on period_
+negative,Frustration with control,Having someone take control of your hearing aid like that must have been frustrating for you period_
+positive,Frustration with control,It was. I had kept them off for a reason, and she didn't care about that period_
+negative,Teacher catching you,When a teacher caught you with your hearing aids off, what would you do? period_
+positive,Playing dumb,I would pretend I didn't realize they were off period_
+neutral,Teacher’s response,That makes sense. How did teachers respond to that? period_
+negative,Teacher turning them on,Once, I had a teacher turn my hearing aid back on for me period_
+positive,Turning them off again,That must have been hard. Did you leave it on after that? period_
+negative,Removing them,No. By lunch time, I took my hearing aids off entirely period_
+neutral,Why take them off?,Why did you take your hearing aids off? period_
+negative,Discomfort at lunch,I just didn't want to listen to all the kids in the lunch room period_
+negative,Hearing aids at lunch,What was lunch like with your hearing aids? period_
+positive,Removing them at lunch,One time, I took them off and gave them to the person feeding me period_
+neutral,Why take them off?,Why did you take them off entirely? period_
+negative,Noise at lunch,I just didn't want to listen to 300 kids talking while I was trying to eat period_
+positive,Understanding the situation,That makes sense- that is a lot of kids. What did you do next? period_
+positive,Eating after a long wait,I remember eating a lot because I hadn't eaten food for six hours! period_
+neutral,Being very hungry,Wow, that's a lot of time! You must have been very hungry. period_
+positive,Eating a lot,Yes, I was. I ate enough food for three people! period_
+positive,After lunch with hearing aids,What would you do after lunch at school? period_
+positive,Hearing aids back in,After eating, I was happier, so someone would put my hearing aids back in for me period_
+neutral,Did it help?,I'm glad you put them back in. Did it make the rest of the day easier? period_
+negative,Still hard to hear,Not really. I still couldn't hear my teacher, even with my hearing aids in period_
+neutral,Why hard to hear?,That's frustrating. Did you tell her what was going on? period_
+negative,No one knew,No, I didn't. No one really knew why I couldn't hear her period_
+positive,Affecting concentration,That's weird. It must have affected your ability to concentrate. period_
+positive,Struggling to focus,Yes, I found it very difficult to follow what the teacher was saying period_
+negative,Paying attention in class,Did you have trouble paying attention in class? period_
+positive,Struggling to hear,Yes, I did. I was looking at the teacher, but it was still hard to hear her period_
+positive,Struggling to focus,That must have been hard. I would have trouble concentrating, too. period_
+negative,Daydreaming,Yes. I ended up daydreaming a lot. I was just bored period_
+positive,Teacher’s observation,Did the teacher ever notice that you were having trouble? period_
+positive,Teacher not figuring it out,Yes, but she couldn't figure out what was wrong, because my hearing aids were still on period_
+neutral,Not helping,It sounds like the situation wasn't really helpful for you. period_
+negative,Not learning anything,No. I wasn't really learning anything. I was bored period_
+neutral,School’s response,What did the school do to try to help you learn better? period_
+neutral,School’s efforts,They tried doing different things with me. But I didn't like that period_
+negative,Disliking changes,Why didn't you like what they were doing? period_
+negative,Unwanted changes,I didn't like having my schedule changed period_
+positive,Changing schedule,What did they do to change your schedule? period_
+negative,Unwanted therapy,They wanted me to do more [B-MISC]ccupatioal therapy, physical therapy and speech, but I didn't want to. period_
+neutral,Discomfort with therapy,I bet it was hard to do something you didn't want to do like that. period_
+negative,Not learning anything,It was. It felt like a bit of a joke, because I wasn't learning anything period_
+neutral,New schedule,What was your new schedule like in school? period_
+positive,More therapy,They gave me more OT, PT, and Speech therapy period_
+neutral,Feelings about therapy,How did you feel about having more therapy? period_
+positive,Mixed feelings,I felt mixed. I loved it because I knew the OT and PT, but I was frustrated with them, too period_
+negative,Frustration with therapists,Why were you frustrated at your therapists? period_
+negative,Therapists’ reaction,When they learned I wore hearing aids, they gave me a hard time about it period_
+neutral,Frustration with change,Oh, that must have been frustrating. period_
+positive,Mixed emotions,Yes, it was. So I felt both good and bad about the change period_
+positive,Other classes,What other things did you do in school? period_
+positive,Variety of classes,I had a lot of other classes besides PT and OT period_
+neutral,Types of classes,What kinds of classes were you in? period_
+positive,Fun activities,When I was done with PT and OT, I had other things like swimming, art class, workshop, and cooking class period_
+neutral,Regular classroom,Did you have a regular classroom, too? period_
+positive,Variety of activities,Yes, I was in classroom in addition to all my other things period_
+neutral,Variety,That sounds like a lot of variety in what you could do. period_
+positive,Enjoying school,Yes. I did a lot of different things in school period_
+neutral,First time in speech therapy,What was speech therapy like? period_
+neutral,First time sent to speech,Well, I hadn't been to the speech room before they changed my schedule period_
+neutral,Waiting outside,Oh wow. So what did you do when they sent you to speech? period_
+neutral,Waiting outside the door,I waited outside the door because I had never been there before period_
+neutral,Speech room,That makes sense. What was the room like? period_
+positive,Multiple rooms,There were four rooms for the speech teacher, and side rooms for hearing tests period_
+neutral,Finding the room,That's a lot of rooms. But you found the right one? period_
+positive,Waiting a bit,Yes, I just waited a few minutes for them to open the door period_
+positive,First day in speech therapy,How did your first day at speech go? period_
+positive,Helpful experience,It was helpful. My teacher's name was [B-PER]. [I-PER]rill period_
+positive,Working on the picture board,I'm glad it seemed like a good experience. What kinds of things did you work on? period_
+positive,Working on pictures,We worked a lot on my picture board at the time period_
+positive,Working on the picture board,What was working on your picture board like? period_
+positive,Adding extra pictures,It was good. We worked on adding extra pictures period_
+neutral,Adding pictures,Why did you add extra pictures to your board? period_
+positive,Expressing more,The teacher knew I had lots to say, but didn't have enough pictures to help me say it all period_
+positive,Opinion on speech teacher,What did you think of your speech teacher? period_
+positive,Positive experience,I liked her. She really took her time with me period_
+positive,Helpful teacher,That sounds like it was really helpful. period_
+positive,Teacher’s understanding,Yes, it was. She knew I had lots to say, and made sure I was able to say it period_
+positive,Additional support,I'm glad to hear that! What other things did she do that were helpful? period_
+positive,Collaboration,She knew my old teacher, Mrs. [I-PER]n, so sometimes we would all work together during speech period_
+positive,Teamwork,It's good to have multiple adults working together to help you. period_
+positive,Getting candy,Yes, it was. I also got candy, which was a big plus period_
+neutral,Introduction to speech teacher,What was your first introduction to this new speech teacher like? period_
+neutral,Waiting for teacher,I hadn't been there before, so I waited at her door for a few minutes period_
+neutral,Teacher opening door,That's a good thing to do. Did the door eventually open? period_
+positive,Teacher opening door,Yes, the new teacher opened the door after a few minutes period_
+positive,Teacher’s greeting,Oh, good. What did she do? period_
+positive,Teacher’s introduction,She said "hi [B-PER], I am Mrs. [I-PER]rill, come into my room." period_
+positive,Teacher’s kindness,She sounds like a nice person. period_
+positive,Teacher’s helpfulness,Yes, she was. She really took her time with me and helped me a lot period_
+neutral,School challenges,What kinds of challenges did you experience in school? period_
+negative,Placement in reading class,I remember one day, they wanted me to try something different, so I was placed in a different reading class period_
+neutral,How it went,Oh, that's an interesting idea. How did that go? period_
+negative,Difficulty with harder class,It was a harder reading classroom. The teacher, Mr. [I-PER] gave me the same book the rest of the class was reading period_
+neutral,Reading challenge,In a higher reading class, I expect the book was a bit harder for you than normal? period_
+negative,Struggling to read,Yes, extremely. I couldn't read it, and I started to cry period_
+negative,Emotional reaction,Oh no, that's awful! It's really hard to try doing something that feels impossible. period_
+negative,Difficulty reading,Yes, I had a really rough time with it period_
+negative,Reading class challenge,What was Mr. [I-PER]'s reading class like? period_
+positive,Harder class,It was a harder reading class than I was used to period_
+neutral,Difficulty in class,Sounds like it would have been difficult to get through. period_
+negative,Teacher’s approach,Yes, it was. Mr. [I-PER] gave me the same book as the rest of the class, and opened it up for me period_
+neutral,Reading struggle,What did you do once he opened the book? period_
+negative,Unable to read,I tried to read it, but I couldn't. I started to cry period_
+negative,Emotional reaction,That sounds horrible. Did anyone do anything? period_
+positive,Teacher’s support,Yes, Mr. [I-PER] noticed and came over to try to help period_
+positive,Teacher’s response,How did the reading teacher handle you being in his class? period_
+positive,Teacher’s effort,He opened the book for me when he gave it to me, so I could get right to reading period_
+neutral,Emotional reaction,How did that make you feel? period_
+negative,Struggling to read,Well, I tried reading it but couldn't, so I got really upset period_
+positive,Teacher’s concern,That sounds really difficult. What happened next? period_
+positive,Teacher’s support,Mr. [I-PER] came over and sat next to me and asked me what was wrong period_
+neutral,Teacher’s response,I'm glad he noticed. What did you say to him? period_
+positive,Explaining the problem,I tried to explain that I couldn't read it at all period_
+positive,Teacher’s solution,What happened when your reading teacher realized you were having trouble? period_
+positive,Teacher’s suggestion,He told me to take the book period_
+neutral,What to do next,What did he have you do with it? period_
+positive,Teacher’s task,He said, "I would like you to answer ten questions for me." period_
+neutral,Next steps,Oh, I see. What did he have you do after that? period_
+positive,Classroom change,He told me to go to room 120 for the next period period_
+neutral,Classroom switch,Oh, so you had to switch classes again. period_
+positive,New classroom,Yes, I switched over to a different room that I didn't know period_
+neutral,After reading class,What happened after you were done with reading class? period_
+neutral,Teacher’s instruction,My reading teacher told me to go to room 120. period_
+neutral,Response to teacher's instruction,What did you do when he told you that? period_
+neutral,Leaving early,I just told him "OK." He let me leave a bit early. period_
+positive,Leaving for the next class,Oh, that's nice of him. So you left early for your next class? period_
+positive,Moving to room 120,Yes, I left to go to room 120. period_
+neutral,What was in room 120,What did you find in room 120? period_
+neutral,Room description,It was a big room, and I saw a woman sitting at the table. period_
+neutral,Teacher’s reaction to struggling,How did your reading teacher react to you struggling? period_
+positive,Teacher’s help,He had me answer 10 questions, then let me go. period_
+neutral,Going to room 120,Where did you go after that class? period_
+neutral,Teacher’s instruction,My reading teacher told me to go room 120, so I did. period_
+neutral,Uncertainty about room 120,Did you know what you'd be doing in room 120? period_
+negative,Uncertainty,No, I didn't know what to expect from the teacher there. period_
+neutral,Feelings about uncertainty,That sounds like it would be hard. period_
+positive,Teacher’s help,Yes. He let me leave a bit early, at least, but I wasn't sure what to expect from the new teacher. period_
+neutral,First impression of new room,What did you see in this new room he sent you to? period_
+neutral,First impression of teacher,I saw a woman sitting at a big table when I went in. period_
+neutral,Teacher’s reaction,Okay, did she react when you entered? period_
+positive,Teacher’s introduction,Yes, she introduced herself as Mrs. [I-PER]. period_
+neutral,Teacher’s explanation,Did she tell you what you were there for? period_
+positive,Teacher’s explanation,Yes, she said she was going to help me with my schoolwork. period_
+negative,Worries about hearing aids,How did you react to that? period_
+negative,Worry about hearing aids,I wasn't sure how to react. I was worried she'd react to my hearing aids again. period_
+neutral,First impression of teacher,What was this new teacher like? period_
+neutral,Teacher’s awareness of hearing aids,I wasn't sure what to think at first. She said she had heard I had hearing aids. period_
+negative,Worry about reaction,Oh, how did you react when she brought up the hearing aids? period_
+negative,Worry about reaction,I was worried. I thought "is she gonna do it like my therapist does?" with no voices. period_
+negative,Frustration with reaction,That would be frustrating! How did you respond to her? period_
+positive,Responding to teacher,I said hi to her and told her yes, I had hearing aids. period_
+positive,Teacher’s response,What ended up happening with this new teacher? period_
+positive,Teacher reading,She read the book to me. I love it when people read to me. period_
+positive,Teacher’s help,What did you do with this new teacher? period_
+positive,Teacher’s explanation,She said she was going to help me with my schoolwork. period_
+positive,Teacher’s help,I'm glad she was willing to help. How did she end up helping you? period_
+positive,Teacher’s reading,She read the book to me that I was having trouble with. period_
+positive,Effectiveness of help,Oh that's good! Did that help at all? period_
+positive,Helping with answers,Yes, I answered all the questions easily. period_
+positive,Love for being read to,I'm glad to hear that helped so much! period_
+positive,Enjoying the story,Yes. I love when people read to me. I can put myself into the story. period_
+neutral,After teacher’s help,What did you do after she helped you? period_
+neutral,Waiting outside, I waited outside Mr. [I-PER]'s classroom. Everyone was looking and asked if I was okay. period_
+neutral,Why people asked,Why was everyone asking if you were alright? period_
+positive,Assumed trouble,Because normally, when a kid is sitting outside of the classroom, it's because they got in trouble. period_
+neutral,Explaining the situation,Oh, that makes sense. But you weren't in trouble. period_
+positive,Reason for waiting,No, I had just needed a bit of extra help. period_
+neutral,Staring situation,It must have been weird to get stared at like that. period_
+positive,Teacher’s support,Well, Mr. [I-PER] came out eventually to see me, so it was alright. period_
+neutral,Going back to class,Did you ever go back to Mr. [I-PER]'s class? period_
+neutral,Waiting outside,Yes. I waited outside for a bit before Mr. [I-PER] checked on me. period_
+neutral,Teacher’s check-in,What happened when he checked on you? period_
+positive,Teacher’s greeting,He said hello, and I said hi back. period_
+neutral,Teacher’s interest in reading,Did he ask you about the reading at all? period_
+neutral,Finished questions,Well, I had the finished questions in front of me, so he just took that. period_
+positive,Teacher’s help,It seems like that other teacher really helped you. period_
+positive,Help with reading,She did. I knew the answers to the questions, I was just having trouble reading. period_
+neutral,Teacher’s reaction,How did Mr. [I-PER] react when you came back? period_
+positive,Teacher’s greeting,Well, first he came out and said hi, so I said hi back. period_
+neutral,What happened after hello,What happened after you said hello? period_
+positive,Teacher’s action,He saw I had the questions done, so he took it off my lap and invited me into the classroom. period_
+neutral,Feelings about returning,Oh, good. How did you feel about being invited back? period_
+neutral,Feeling scared,I was a little scared, but I went in anyways. period_
+positive,Bravery in returning,I'm glad you went in despite your fear. Why were you scared? period_
+negative,Classroom fear,The classroom was full of older kids at that time. period_
+neutral,In the classroom,What did you do once you were in the classroom? period_
+neutral,Weird situation,I sat on the side because he was busy, and I had no idea why I was there. period_
+neutral,Teacher’s action,That must have been weird. What happened next? period_
+neutral,Teacher’s dismissal,Yes, it was weird. Mr. [I-PER] then dismissed everyone. period_
+positive,Classroom departure,What? He just had everyone leave right after you got there? period_
+neutral,Teacher’s instructions,Yes. He said "stop reading everyone. You may leave now." period_
+neutral,Teacher’s explanation,That's so confusing. I wonder why he did that. period_
+positive,Teacher’s explanation,He explained it to me after everyone left. period_
+neutral,Teacher’s explanation,Did the teacher explain why he had everyone leave? period_
+positive,Apology,After everyone left, I showed him the picture on my picture board to say "I'm sorry." period_
+neutral,Why apologize,Oh? Why were you sorry? period_
+positive,Teacher’s question,Mr. [I-PER] asked me that, too, He said "why are you sorry?" period_
+neutral,Teacher’s explanation,So what happened next? period_
+positive,Teacher’s explanation,He explained what was going on and that my answers were the best of the class. period_
+positive,Positive feedback,Oh, wow! That's great to hear! period_
+positive,Compliment from teacher,Yes. He said I had a really high IQ. I was happy. period_
+positive,Teacher’s explanation,So what did Mr. [I-PER] say to you? period_
+positive,Teacher’s reassurance,He said I didn't have to be sorry, and that today had been a test. period_
+neutral,Teacher’s apology,Oh? What did he say after that? period_
+positive,Teacher’s apology,He said he knew I couldn't read and apologized. period_
+positive,Teacher’s praise,That's nice of him to apologize. What happened next? period_
+positive,Teacher’s compliment,He said the questions I answered were the best in the class, and I had a really high IQ. period_
+positive,Teacher’s praise,Oh that's so nice of him, wow! I'm glad he realized you were smart. period_
+positive,Teacher’s support,Yes. He said he and Mrs. [I-PER] were going to find a way to get my high IQ to show through. period_
+neutral,Feelings about IQ,How do you feel about your IQ? period_
+negative,Self-doubt,I don't know. Often times I feel like I'm just dumb. period_
+positive,Reassurance,You're not dumb; why do you think that? period_
+negative,Self-doubt,I can't read or talk, and I use a picture board. period_
+neutral,Empathy,It sounds like that would be tough to handle. period_
+positive,Support,[B-PER] tells me there's different kinds of intelligence. period_
+positive,Reassurance,Yes. Just because you can't read or talk doesn't mean you're not smart. period_
+positive,Realization,Yes, I realize that now. I have lots of other strengths. period_
+negative,Struggling with IQ,How do you handle having a high IQ, but not being able to talk? period_
+negative,Feeling dumb,It's hard; I feel like I'm dumb sometimes because I can't read or talk and have to use a picture board. period_
+positive,Support from others,What do your friends and family think? period_
+positive,Family support,[B-PER] tells me that I'm smart and handsome. period_
+positive,Reassurance,That's nice of her. You're still smart, even if you have some things you can't do. period_
+positive,Family support,Yes. She's been helping me write. period_
+positive,Excitement for progress,I'm glad she's helping you. I'm excited to hear more of the story. period_
+positive,Strength despite struggles,Thank you. It's hard sometimes, but I still know I'm smart. period_
+neutral,Feelings about IQ,What do other people say about your IQ? period_
+positive,Family support,[B-PER] often tells me that it's high. But I don't know. period_
+neutral,Uncertainty,What do you mean? Do you think she's right? period_
+negative,Self-doubt,I just feel like I'm dumb very often. My next story is about a problem I had. period_
+neutral,Feelings of self-doubt,Why do you feel like you're dumb? period_
+negative,Struggling with skills,I can't read, talk, or use a picture board. period_
+neutral,Empathy,That sounds like it would be tough to handle. period_
+positive,Family support,It is. But [B-PER] tells me I'm smart and handsome. period_
+neutral,Struggling with names,What is it like to meet new people? period_
+negative,Struggling with names,My problem is that I can't remember the names of new people I meet. period_
+neutral,Empathy,Yeah, names are really difficult to remember sometimes. period_
+positive,Struggling with names,They are. I remember everyone's faces just fine, I'm just bad at remembering names. period_
+positive,Shared struggle,Me too. Are there ways you've found that help you remember? period_
+positive,Using nicknames,Sometimes I give them a nickname. period_
+neutral,Curiosity,Oh, that's clever. Do you do that often? period_
+neutral,Memory improvement,Just sometimes. I also just remember their name better if I see them a lot. period_
+positive,Struggling with IQ,What kinds of things do you struggle with with your IQ? period_
+neutral,Expectations about IQ,It's interesting. Everyone thinks I have a high IQ because I understand everything. period_
+neutral,Assumptions about understanding,Do you really, or is that just what people assume? period_
+negative,Struggling with names,Well, I find one thing I have a lot of trouble with is remembering names. period_
+neutral,Shared struggle,People's names are hard to remember sometimes, I agree. period_
+positive,Struggling with names,Yes, especially new people. I remember names better once I see them a lot. period_
+positive,Memory improvement,Yes, that's helpful. The more you need to repeat the name, the more you're able to remember. period_
+positive,Using nicknames,Exactly. I also give them nicknames sometimes. That helps, too. period_
+positive,Struggling with names,What do you do to remember names? period_
+positive,Using nicknames,Sometimes I give people nicknames. But it's difficult for me to remember. period_
+neutral,Empathy,I bet it would be, yeah. Especially for new people. period_
+positive,Struggling with names,Yes. My IQ is high, but I still have a really tough time remembering. period_
+neutral,Understanding names,Names are pretty specific, too. I could see how they would be hard to remember. period_
+positive,Good memory for directions,Yep. I could tell you 100 ways to go from my house to School 84. period_
+neutral,Impressive memory,Oh, wow. That means your memory must be really good. period_
+positive,Memory with directions,Yes, but if you ask me the names of the roads I take, I would have no clue. period_
+neutral,First communication device,So what kind of communication device did you start with? period_
+neutral,Old device,Before the computer came to my world, I had a book with pictures. period_
+neutral,Using the book,Oh wow! What was it like to use something like that? period_
+neutral,Using the book at home,It was sometimes a joke, because I didn't use it at home or camping with my parents. period_
+neutral,Early use of the book,Really? Do you remember what you would use it for early? period_
+neutral,Early use, I do remember a story with my family. I would use silly words for them because I didn't know what else to call them. period_
+neutral,Silly names,That does sound like it would be difficult. What would you call them? period_
+neutral,Funny word for grandparents,I would call my grandparents "lobster people" because I didn't know the word for grandma and grandpa at the time. period_
+neutral,Family visit,What was your outside family like? period_
+neutral,Family visit,I remember going to a house to visit family as a kid. period_
+neutral,Realizing family,What family was it that you were visiting? period_
+neutral,Realization of grandparents,I learned later that they were my grandparents at the time. But at the time, I just called them lobster people. period_
+neutral,Why lobster people,Oh? Why did you call them lobster people? period_
+neutral,Funny memory,I remembered them cooking lobster, and I wasn't sure what else to call them. period_
+positive,Family description,That's pretty funny. What were your grandparents like? period_
+positive,Grandparents' personality,They are very friendly and giving people. period_
+neutral,Grandmother’s routine,What was it like to be with your grandparents? period_
+neutral,Grandmother’s morning routine,I remember one summer, my grandmother would like to get up around 5am. period_
+neutral,Early rising,that's so early! Why would she get up like that? period_
+positive,Grandmother’s care,She likes to get coffee, doughnuts, and newspapers for our grandfather. period_
+positive,Grandmother’s thoughtfulness,Oh that's sweet of her! period_
+neutral,Interesting event,Yes, one morning, we heard a lady yelling, and she had her dog with her. period_
+neutral,Why was she yelling,Oh? Why was she yelling? period_
+neutral,The dog incident,Turns out, it was our dog! We gave her lots of water afterwards. period_

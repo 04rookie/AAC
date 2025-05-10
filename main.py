@@ -38,7 +38,6 @@ def start_conversation():
             context_block = "\n".join(relevant_context)
             print(context_block)
             # Build prompt
-            prompt = f"<|system|>You are an AI assistant that provides short, conversational response options for AAC users. Use the following conversation context:\n{context_block}\n<|end|><|user|>{user_input}<|end|><|assistant|>Provide 4 short, helpful responses. One positive, one negative, one neutral and one exploratory. The responses should be related to context I have shared with you. Give them to me in 4 lines ONLY. So that it is easy to extract:\n"
             prompt = f"""
             <|system|>You are an AI assistant that provides short, conversational response options for AAC users. Use the following conversation context:
             {context_block}
