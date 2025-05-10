@@ -22,6 +22,13 @@ model_t5 = AutoModelForSeq2SeqLM.from_pretrained(model_path)
 device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
 model_t5 = model_t5.to(device)
 
+types = ["positive", "negative", "neutral", "exploratory"]
+def paraphrase(sentence, type=0):
+    inputs = tokenizer(types[type] + " context: " + sentence, return_tensors="pt").to(device)
+    output_ids = model_t5.generate(**inputs, max_length=256)
+    response = tokenizer.decode(output_ids[0], skip_special_tokens=True)
+    return response
+
 # Store latest context
 latest_conversation = {}
 chat_session = model.chat_session() 
@@ -75,7 +82,7 @@ def chat():
     response = model.generate(prompt, max_tokens=500)
 
     options = [line.strip() for line in response.strip().split("\n") if line.strip()]
-
+    options = [paraphrase(option) for option in options]
     # Save temporarily for second API
     if (user_type != "you"): 
         latest_conversation['user_input'] = user_input
