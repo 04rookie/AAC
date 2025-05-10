@@ -13,7 +13,7 @@ device = torch.device("mps") if torch.backends.mps.is_available() else torch.dev
 model = model.to(device)
 
 # Load the new dataset
-data = pd.read_csv("./new_dataset.csv")  # Change path as needed
+data = pd.read_csv("./aac_dialogues/train.csv")
 
 # Preprocess
 data['input_text'] = data.apply(lambda row: f"emotion: {row['context']} context: {row['prompt']}", axis=1)
@@ -47,7 +47,7 @@ tokenized_dataset = concatenate_datasets(tokenized_datasets)
 
 # Define training args
 training_args = Seq2SeqTrainingArguments(
-    output_dir="./results_continued",
+    output_dir="./checkpoints",
     eval_strategy="epoch",
     learning_rate=3e-5,
     per_device_train_batch_size=2,
@@ -80,8 +80,8 @@ trainer = Seq2SeqTrainer(
 trainer.train()
 
 # Save the updated model
-model.save_pretrained("./empathetic_flan_t5_continued")
-tokenizer.save_pretrained("./empathetic_flan_t5_continued")
+model.save_pretrained("./flan_t5_final")
+tokenizer.save_pretrained("./flan_t5_final")
 
 # Example inference
 def generate_response(input_text):
