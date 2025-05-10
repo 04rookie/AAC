@@ -15,7 +15,24 @@ model = model.to(device)
 # Load the new dataset
 data = pd.read_csv("./aac_dialogues/train.csv")
 
-# Preprocess
+# Preprocess data
+change_words = {
+    "_comma_": ",",
+    "_hyphen_": "-",
+    "_period_": ".",
+    "_question_": "?"
+}
+
+def replace_symbols(text):
+    for key, value in change_words.items():
+        text = text.replace(key, value)
+    return text
+
+# Apply the replacements
+data['context'] = data['context'].apply(replace_symbols)
+data['prompt'] = data['prompt'].apply(replace_symbols)
+data['utterance'] = data['utterance'].apply(replace_symbols)
+
 data['input_text'] = data.apply(lambda row: f"emotion: {row['context']} context: {row['prompt']}", axis=1)
 data['target_text'] = data['utterance']
 
