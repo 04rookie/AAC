@@ -16,7 +16,7 @@ model_cos_sim = SentenceTransformer("all-MiniLM-L6-v2")
 nltk.download("punkt_tab")
 nltk.download("wordnet")
 
-model_path = "./empathetic_flan_t5"
+model_path = "./flan_t5_final"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model_t5 = AutoModelForSeq2SeqLM.from_pretrained(model_path)
 device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
@@ -49,13 +49,14 @@ def chat():
     user_type = data["type"]
     toggle = data["toggle"]
     print("toggle", toggle)
+    context_block = "Use the following conversation context:\n" + context_block
     if user_type == "you" and toggle == False:
         prompt = prompt = f"""
-        <|system|>You are an AI assistant that auto-completion, conversational response options for AAC users. Use the following conversation context:
-        {context_block}
+        <|system|>You are an AI assistant that auto-completion, conversational response options for AAC users.
         <|end|><|user|>{user_input}<|end|><|assistant|>
+        {context_block}.
         Make sure to use the keywords provided in user input.
-        Provide 4 short, helpful responses in plain text. Each response should be:
+        Provide 4 short, helpful and empathetic responses in plain text. Each response should be:
         1. One positive sentence.
         2. One negative sentence.
         3. One neutral sentence.
@@ -66,10 +67,10 @@ def chat():
         """
     else:
         prompt = f"""
-        <|system|>You are an AI assistant that provides short, conversational response options for AAC users. Use the following conversation context:
-        {context_block}
+        <|system|>You are an AI assistant that provides short, conversational response options for AAC users.
         <|end|><|user|>{user_input}<|end|><|assistant|>
-        Provide 4 short, helpful responses in plain text. Each response should be:
+        {context_block}.
+        Provide 4 short, helpful and empathetic responses in plain text. Each response should be:
         1. One positive sentence.
         2. One negative sentence.
         3. One neutral sentence.
